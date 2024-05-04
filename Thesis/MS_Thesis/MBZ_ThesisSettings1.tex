@@ -1,0 +1,31 @@
+% این فایل شامل تنظیماتی است که قبل از لود شدن پکیج زی‌پرشین باید انجام شوند.
+% دلیل آن است که نیاز به لود شدن یک پکیج (geometry) دارد، در حالی که bidi (که توسط زی‌پرشین
+% لود می‌شود) حتما باید آخرین پکیج باشد. در نتیجه هر پکیج دیگری نیز که بخواهد لود شود، باید در این قسمت باشد.
+% نسخه 1.0.7
+% تاریخ: ۲۲ مهر ۱۳۹۳
+% تغییرات: ۱) برای کارکردن با texlive2014 و زی‌پرشین جدید:
+%               - فونتها با IRLotus جایگزین شدند => فقط با texlive2013 و texlive2014 کار می‌کند (با 2012
+%                  کار نمی‌کند، چون کشیده و کاراکتر نیمفاصله را در خروجی بین دو عدد "" می‌گذارد!).
+%               - بجای داشتن یک فایل MBZ_ThesisSettings.sty، دو فایل MBZ_ThesisSettings1.tex و
+%                  MBZ_ThesisSettings1.tex داریم، که اولی شامل تنظیماتی است که قبل از لود کردن زی‌پرشین
+%                  باید انجام شوند و دومی تنظیماتی که بعد از آن باید انجام شوند.
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+% Start of Page Setup:
+% تعریف متغیرها:
+\newlength{\MyLeftMargin}
+\newlength{\MyRightMargin}
+\newlength{\MyTopMargin}
+\newlength{\MyBottomMargin}
+
+% اعداد در استاندارد تزهای دانشگاه شریف:
+\setlength{\MyLeftMargin}{2.5cm}
+\setlength{\MyRightMargin}{3cm} % -> Sharif says 3cm. I prefer 2.5.
+\setlength{\MyTopMargin}{3cm}
+\setlength{\MyBottomMargin}{2.5cm} % -> Sharif says 2.5cm. I prefer 2.7.
+
+\usepackage[top=\MyTopMargin, bottom=\MyBottomMargin, left=\MyLeftMargin, right=\MyRightMargin]{geometry}
+%\setlength{\columnwidth}{82mm}
+%\setlength{\columnsep}{6mm}
+% End of Page Setup
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%

@@ -1,0 +1,63 @@
+This is BibTeX, Version 0.99d (TeX Live 2023)
+Capacity: max_strings=200000, hash_size=200000, hash_prime=170003
+The top-level auxiliary file: Thesis.aux
+A level-1 auxiliary file: jeld.aux
+A level-1 auxiliary file: Besmellah.aux
+A level-1 auxiliary file: CommentPage.aux
+A level-1 auxiliary file: TasvibNameh.aux
+A level-1 auxiliary file: Tashakor.aux
+A level-1 auxiliary file: PersianAbstract.aux
+A level-1 auxiliary file: abbreviation.aux
+A level-1 auxiliary file: Introduction.aux
+A level-1 auxiliary file: BSS_Summary.aux
+A level-1 auxiliary file: HVS.aux
+A level-1 auxiliary file: Entropy.aux
+A level-1 auxiliary file: Conclusion.aux
+The style file: IEEEsort.bst
+A level-1 auxiliary file: EnglishAbstract.aux
+A level-1 auxiliary file: EnglishJeld.aux
+Database file #1: SepSrc.bib
+Warning--I didn't find a database entry for "LevFo04"
+Warning--empty publisher in HyvaKO01
+You've used 14 entries,
+            2163 wiz_defined-function locations,
+            627 strings with 6302 characters,
+and the built_in function-call counts, 4555 in all, are:
+= -- 447
+> -- 183
+< -- 2
++ -- 74
+- -- 58
+* -- 349
+:= -- 750
+add.period$ -- 14
+call.type$ -- 14
+change.case$ -- 69
+chr.to.int$ -- 0
+cite$ -- 15
+duplicate$ -- 183
+empty$ -- 384
+format.name$ -- 58
+if$ -- 963
+int.to.chr$ -- 0
+int.to.str$ -- 14
+missing$ -- 16
+newline$ -- 74
+num.names$ -- 28
+pop$ -- 84
+preamble$ -- 1
+purify$ -- 57
+quote$ -- 0
+skip$ -- 111
+stack$ -- 0
+substring$ -- 303
+swap$ -- 34
+text.length$ -- 2
+text.prefix$ -- 0
+top$ -- 0
+type$ -- 52
+warning$ -- 1
+while$ -- 43
+width$ -- 16
+write$ -- 156
+(There were 2 warnings)

@@ -1,0 +1,433 @@
+% این فایل شامل تنظیمات نوشته‌شده توسط اینجانب (مسعود بابایی‌زاده یا  MBZ) برای نوشتن تز یا گزارش است، چون خروجی پیش‌فرض xepersian اصلا تز زیبایی تولید نمی‌کند. همچنین دقت شود که از فونت MBZ Lotus و نیز پکیج digitfont (برای تغییر فونت ارقام به MBZ Lotus) که هر دو توسط اینجانب نوشته شدند به همراه این تنظیمات استفاده شود تا در نهایت خروجی زیبایی برای تز بدست آید.
+% تنظیمات انجام شده در این فایل شامل موارد زیر هستند:
+% اول: زیاد کردن فاصله خطوط در متن فارسی، کمتر زیاد کردن در ریاضی و متن انگلیسی: چون در XePersian زیادی خطوط توی هم هستند و زیبا نیست. این کار کار راحتی نبود و خیلی چیزها دست خوردند.
+% دوم: فهرست مطالب در xepersian به نظرم اصلا زیبا نیست، چون در واقع چیز خاصی برای فارسی ندارد و از همان report استفاده می‌کند که برای زیبایی در انگلیسی طراحی شده نه فارسی. در نتیجه تغییرات متعددی در آن دادم تا فهرست مطالب به صورت زیباتری نوشته شود.
+% سوم: تنظیم صفحات (page setup) ، یعنی حواشی بالا،‌ پایین، چپ و راست (پیش‌فرض طبق اعداد تزهای دانشگاه شریف).
+% چهارم: تغییر فرمت header ، طوری که یک خط در آن کشیده شود و تیتر فصل و شماره صفحه بالای خط نوشته شود (fancy header).
+% پنجم: نحوه تیتر گذاری شروع هر فصل تغییر داده شد: بالای آن با خط توخالی بنویسد (مثلا) «فصل ۱» و بعد زیر آن تیتر فصل را بنویسد و همه هم در وسط باشد. به نظرم از پیش‌فرض  report (که در واقع برای انگلیسی است) زیباتر است، لااقل برای تز.
+% ششم: تغییر نحوه شماره‌گذاری فصلها و فرمولها و غیره، طوری که مثلا شماره فرمول به صورت (۱-۵) نوشته شود نه (۱.۵).
+% هفتم: تغییر اینکه بجای «لیست اشکال» و «لیست جداول» بنویسد «فهرست اشکال» و «فهرست جداول».
+% هشتم: تعریف دو محیط note (توجه) و experiment (آزمایش).
+% نهم: تعریف محیطهایی مثل قضیه، تعریف و غیره (که نهایتا کامنت شده‌اند و غیرفعال هستند و کاربر اگر بخواهد می‌تواند آنها را فعال کند).
+%
+% نویسنده: مسعود بابایی‌زاده
+
+% نسخه 1.0.9
+% تاریخ: ۵ اسفند ۱۴۰۰
+% تغییرات:
+%   زی‌پرشینی که در دی وی دی texlive2021 بود (زیرپرشین نسخه 23.1) باگهای متعددی پیدا کرده است که تغییراتی که در این نسخه فایل حاضر داده شده است، همگی برای این است که فایل بتواند با این نسخه زی‌پرشین کار کند. اگر در نسخه‌های بعدی زی‌پرشین این مشکلات رفع شده باشد، بهتر است به نسخه قبلی (نسخه 1.0.8) برگشت. مشکلات زی‌پرشین جدید و تغییرات فایل حاضر برای رفع آنها عبارتند از:
+%
+%      ۱) این زی‌پرشین با فونت XB Titre Shadow که من برای نوشتن کلمه فصل (مثلا نوشتن کلمه «فصل ۱» بالای عنوان فصل اول) استفاده کرده بودم درست کار نمی‌کرد و آن را به صورت منفصل می‌نوشت («ف‌ص‌ل ۱»). پس این فونت را با IRSina جایگزین کردم (البته فونتهای خیلی زیادی امتحان کردم، بخصوص توخالی. ولی هیچدام جالب نبودند. شاید Mj_Nazila 3D Shadow بد نبود، ولی اعدادش بجای فارسی، عربی بودند). به هر حال به نظرم همان XB Titre Shadow خیلی بهتر است و چون ظاهرا این مشکل از خود زی‌پرشین است و نه فونت، در نسخه‌های آینده زی‌پرشین دقت شود که اگر این مشکل درست شده بود، مجددا به فونت XB Titre Shadow برگردیم.
+%
+%      ۲) صدا زدن دستور \setmathdigitfont در زی‌پرشین جدید منجر به یک خطای کمپایل می‌شود! راه حل پیشنهاد شده در لینک زیر در فایل حاضر استفاده شد:
+%    http://qa.parsilatex.com/35710/__xepersian_mathsdigitspec_primitive_font_char_if_exist
+%
+%      ۳) محیط جدید document که با دستور زیر تعریف کرده بودم، در زی‌پرشین جدید این خطای کمپایل را می‌داد که \begin{olddocument} یا \end{document} تمام شده است!
+%    \renewenvironment{document}{\begin{olddocument}\setlength{\baselineskip}{1.53\baselineskip}}{\end{olddocument}}
+% که به وضوح باگ زی‌پرشین جدید است. در نتیجه دستور بالا را جایگرین کردم با دستور زیر:
+%    \renewenvironment{document}{\olddocument\setlength{\baselineskip}{1.53\baselineskip}}{\endolddocument}
+
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+% نسخه 1.0.8
+% تاریخ: ۵ اسفند ۱۴۰۰
+% تغییرات:
+% تغییرات:
+%           ۱) فونتهای پیش‌فرض متن که قبلا IRLotus بودند با IRLotusICEE (که نسخه اصلاح‌شده‌ای از IRLotus است که خودم برای کنفرانس برق ایران سال ۲۰۱۵ درست کرده بودم)، تغییر داده شد (ابتدا MBZLotus را هم اضافه کرده بودم، ولی در محیط itemize کار نمی‌کند و کاراکتر بولت آیتم را ندارد. در نتیجه حذف شد).
+%
+%           ۲) دستور \setdigitfont با \setmathdigitfont جایگزین شد تا با زی‌پرشین جدید درست کار کند و در عنوان فصلها، مثلا در  عبارت «فصل ۱»، عدد ۱ هم با همان فونت کلمه «فصل» (یعنی توخالی) نوشته شود، نه توپر.
+%		   
+%		   ۳) شماره‌گذاری فرمولها و زیرفصلها و غیره درست شد تا در زی‌پرشین جدید درست کار کند (وگرنه مثلا شماره فرمول ۲ فصل ۱، بجای (۲-۱) نوشته می‌شد (۱-۲)).
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+% نسخه 1.0.7
+% تاریخ: ۲۲ مهر ۱۳۹۳
+% تغییرات: ۱) برای کارکردن با texlive2014 و زی‌پرشین جدید:
+%               - فونتها با IRLotus جایگزین شدند => فقط با texlive2013 و texlive2014 کار می‌کند (با 2012
+%                  کار نمی‌کند، چون کشیده و کاراکتر نیمفاصله را در خروجی بین دو عدد "" می‌گذارد!).
+%               - بجای داشتن یک فایل MBZ_ThesisSettings.sty، دو فایل MBZ_ThesisSettings1.tex و
+%                  MBZ_ThesisSettings2.tex داریم، که اولی شامل تنظیماتی است که قبل از لود کردن زی‌پرشین
+%                  باید انجام شوند و دومی تنظیماتی که بعد از آن باید انجام شوند.
+%          ۲) تعریف فونتهایی که در فایل Jeld.tex بود به همان MBZ_ThesisSettings2.tex منتقل شدند. اکنون همه
+%             فونتها در همین فایل تعریف می‌شوند.
+%          ۳) شماره گذاری حرفی طوری تغییر یافت که بجای «آ-ب-ج-د...» داشته باشیم «الف-ب-ج-د...» (با استفاده
+%             از دستورات دکتر امین‌طوسی در تمپلیت دانشگاه خودشان.
+
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+% نسخه‌های قبلی:
+%%%%%%
+% نسخه 1.0.6
+% تاریخ: ۲۵ بهمن ۱۳۸۸
+% تغییرات: ۱) تعریف محیط‌های definition، theorem، و ...
+%           ۲) نحوه شماره‌گذاری table را فراموش کرده بودم که مثل figure درست کنم، اصلاح شد.
+% ------>   3) bbding و محیط experiment درست شوند.  <-------
+%           ۴) \headheigh هم تنظیم شد (برابر ۱۳ پوینت). قبلا اصلا دست نزده بودم، ظاهر پیش‌فرض آن ۱۲ بوده و fancyhdr وارنینگ می‌داد.
+%%%%%%
+% نسخه 1.0.5
+% تاریخ: ۲۰ بهمن ۱۳۸۸
+% تغییرات: در فهرست عنوان فصلها را بجای اینکه \Large بنویسم، کمی کوچکتر یعنی \large نوشتم (و عنوان \part ها کماکان \Large است).
+%%%%%%
+% نسخه 1.0.4
+% تاریخ: ۱۸ بهمن ۱۳۸۸
+% تغییرات: فونت تیتر فصلها را عوض کردم و طوری نوشتم که دو فونت متفاوت بگیرد، یکی برای شماره فصل (مثلا «فصل اول») و دیگری برای عنوان فصل (مثلا «مقدمه»). همچنین اولی را} XB Titre Shadow و دومی را Titre گذاشتم.
+
+%%%%%%
+% نسخه 1.0.3
+% تاریخ: ۱۶ بهمن ۱۳۸۸
+% تغییرات: نحوه نوشتن part را هم در فهرست عوض کردم، تا در فارسی زیبا شود. همچنین در فهرست اندازه تیتر فصلها را نیز از \Large به \large کاهش دادم، و اندازه تیتر part را به \Large نوشتم.
+%%%%%%
+% نسخه 1.0.2
+% تاریخ: ۱۵ بهمن ۱۳۸۸
+% تغییرات: فاصله فرمولها از متن بیشتر شد (به نظرم این فاصله را زیادی کم کرده بودم). کامنتهای بالا هم ترتیبشان تغییر کرد و تا حدودی به ترتیب اولویت شدند.
+
+%%%%%%
+% نسخه: ۱.۰.۱
+% تاریخ: ۲۵ دیماه ۱۳۸۸ برابر با ۱۵ ژانوبه ۲۰۱۰
+% تغییرات: تغییر داده شده نسبت به نسخه 1.0.0 فقط زیادکردن \parindent است. مقدار پیش‌فرض قبلی، برای متون انگلیسی است و در متون فارسی زیادی کوچک است.
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+% Font settings
+
+%\defpersianfont\chaptertitlenumberfont[Scale=1.31]{B Koodak Outline}
+%\defpersianfont\chaptertitlenumberfont[Scale=1]{XB Titre Shadow}
+\defpersianfont\chaptertitlenumberfont[Scale=1]{IRSina.ttf}
+\defpersianfont\chaptertitlefont[Scale=1]{IRTitr.ttf}
+
+% فونت اصلی متن فونت «یاس» است که توسط کاربران xepersian از اصلاح XB Yas به دست آمده است.
+%\settextfont[Scale=1.1]{IRLotus}
+%\setlatintextfont[Scale=1]{Times New Roman}
+%\setonlydigitfont[Scale=1.1]{Yas} %This is not a xepersian command. It is a command provided by setdigitfont.sty, written by Massoud Babaie-Zadeh
+%\setdigitfont[Scale=1.1]{IRLotus}
+
+% استفاده از حالت خوابیده به چپ قلم «یاس» مشابه با حالت ایرانیک در فارسی‌تک
+%\setiranicfont[Scale=1.1]{IRLotus-Italic}
+
+% 12 point "IRLotus" is small. Use 13.1 point (which gives a size similar to FarsiTeX)
+\settextfont[ BoldFont={IRLotusICEE_Bold.ttf}, BoldItalicFont={IRLotusICEE_BoldIranic.ttf}, ItalicFont={IRLotusICEE_Iranic.ttf},Scale=1.31]{IRLotusICEE.ttf}%{IRZar.ttf}
+%\setdigitfont[Scale=1.31]{IRLotusICEE} % replaced by the next command since texlive2018:
+% دستور بالا از نسخه‌ای به بعد زی‌پرشین (لااقل از texlive2018 به بعد) باعث میشود که همه عددها با فونت بالا جایگزین شود که مطلوب نیست. مثلا در عنوان فصل که نوشته شده «فصل ۱» هم کلمه «۱» با این فونت (و در نتیجه توپر) نوشته میشود در حالیکه «فصل» با فونت توخالی بوده. و برای اینکه فقط اعداد داخل فرمولها فارسی شوند، دستور بالا با دستور جدید \setmathdigitfont در زیر جایگزین شد:
+
+% شروع دستوراتی برای رفع یک باگ در زی‌پرشین 23.1 که در دی وی دی texlive2021 است. منبع: http://qa.parsilatex.com/35710/__xepersian_mathsdigitspec_primitive_font_char_if_exist
+\ExplSyntaxOn
+\cs_set_eq:NN
+\etex_iffontchar:D
+\tex_iffontchar:D
+\cs_undefine:N \c_one
+\int_const:Nn \c_one { 1 }
+\ExplSyntaxOff
+% پایان دستورات رفع باگ بالا در زی‌پرشین 23.1
+\setmathdigitfont[Scale=1.31]{IRLotusICEE.ttf}
+%\setlatintextfont[Scale=1]{Times New Roman}
+\setiranicfont[Scale=1.31]{IRLotusICEE_Iranic.ttf}				% ایرانیک، خوابیده به چپ
+
+% Fonts on JELD (title page)
+\defpersianfont\mainjeldfont[ BoldFont={IRLotusICEE_Bold.ttf}, BoldItalicFont={IRLotusICEE_BoldIranic.ttf}, ItalicFont={IRLotusICEE_Iranic.ttf},Scale=1.31]{IRLotusICEE.ttf}
+\defpersianfont\fieldnamefont[Scale=1.2]{BKoodakO.ttf}
+\defpersianfont\ITRCthanksfont[Scale=1]{BTraffic.ttf}
+
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+% دستور بعدی برای زیادکردن فاصلهٔ بین خطوط نوشته شده بود:
+%\renewcommand{\baselinestretch}{2.3}
+%\setstretch{2.3}
+%\linespread{2.3}
+
+% در اینصورت مشکل آن است که نه تنها فاصله بین خطوط متون فارسی را زیاد کنیم، فاصله خطوط بین فرمولها (مثلا در ماتریسها) هم زیاد می‌شود (که عدد ۲.۳ بالا زیادی بزرگ است). بعد برای حل این مشکل ابتدا سعی کردم محیط equation را طوری تغییر دهیم که اول فاصله خطوط را کمتر کند، بعد equation قدیم را صدا بزند. من متناسب با فاصله خطوط فارسی برابر 2.3 برابر (عدد بالا) فاصله فرمولها برابر 1.5 به نظرم خوب آمد، پس اول همه این دستورات را امتحان کردم:
+%\let\oldequation=\equation
+%\let\endoldequation=\endequation
+%\renewenvironment{equation}{\vspace{-1em}\begin{spacing}{1.5}\begin{oldequation}}{\end{oldequation}\end{spacing}\vspace{-1em}}
+
+%\renewenvironment{equation}{\begingroup\setstretch{1}\begin{oldequation}}{\end{oldequation}\setstretch{2.3}\endgroup}
+
+%\renewenvironment{equation}{\vskip -\parskip\vskip -\baselineskip\begin{spacing}{1.5}\begin{oldequation}}{\end{oldequation}\end{spacing}\vskip -\parskip\vskip -\baselineskip}
+
+%\renewenvironment{equation}{\begin{spacing}{1.5}\begin{oldequation}}{\end{oldequation}\end{spacing}}
+
+%\let\old\baselinestretch=\baselinestretch\renewcommand{\baselinestretch}{2.3}
+%\renewenvironment{equation}{\begingroup\def\baselinestretch{1.5}\begin{oldequation}}{\end{oldequation}\def\baselinestretch{2.3}\endgroup}
+
+ % اما هر کدام مشکلی داشت. بهتر از همه همان اولی بود که مشکل آن این بود که پاراگراف بعد از فرمولها همیشه indent می‌شود.
+
+% در نهایت راه حل بهتری پیدا کردم. متوجه شدم که زیاد کردن \baselineskip بر خلاف \baselinestreatch روی محیط ریاضی تاثیری ندارد. اما \baselineskip را باید بعد از \begin{document} زیاد کرد. با توجه به اینکه singlespace برای فرمولهای ریاضی در متن فارسی ما زیادی کوچک است،‌ پس برای آنکه طبق اعداد بالا فاصله خطوط در فرمولهای 1.5 برابر و در متن فارسی 2.3 برابر باشد، لازم است که طبق دستور زیر \baselinestreatch برابر 1.5 قرار داده شود و سپس درون متن و بعد از  \begin{document} باید \baselineskip را 2.3/1.5=1.53 برابر نمود. یعنی:
+
+\renewcommand{\baselinestretch}{1.5}
+%\setlength{\baselineskip}{1.53\baselineskip}   ->  This is inside the text and right after \begin{document}
+%برای آنکه کاربر مجبور نباشد دستور بالا را دستی بعد از begin document اضافه کند، دستورات زیر را می‌نویسیم:
+\let\olddocument=\document
+\let\endolddocument=\enddocument
+%\renewenvironment{document}{\begin{olddocument}\setlength{\baselineskip}{1.53\baselineskip}}{\end{olddocument}}
+\renewenvironment{document}{\olddocument\setlength{\baselineskip}{1.53\baselineskip}}{\endolddocument}
+%در اینصورت متوجه شدم که فاصله فرمولها با متن کمی زیاد می‌شود که آن را نیز با دستورات زیر می‌توان حل کرد (عدد 0.5em در نسخه 1.0.2 گذاشته شد، قبلا بالا را -0.6em و پایین را 0.7em گذاشته بودم که به نظرم فرمولها زیادی به متن نزدیک می‌شد):
+\let\oldequation=\equation
+\let\endoldequation=\endequation
+\renewenvironment{equation}{\vspace{-0.2em}\begin{oldequation}}{\vspace{-0.2em}\end{oldequation}\ignorespacesafterend}
+
+
+% همچنین متوجه شدم که با اعداد بالا در فهرست مطالب و فهرست اشکال و جداول نیز فاصله خطوط زیاد است. که به صورت زیر می‌توان اصلاح کرد (یعنی برای آنها baselineskip را مجددا به عدد قبلی برگرداند، یعنی در معکوس 1.53 که برابر 0.65 می‌شود ضرب کرد):
+\let\oldtableofcontents=\tableofcontents
+\renewcommand{\tableofcontents}{\begingroup\setlength{\baselineskip}{0.65\baselineskip}\oldtableofcontents\endgroup}
+
+\let\oldlistoffigures=\listoffigures
+\renewcommand{\listoffigures}{\begingroup\setlength{\baselineskip}{0.65\baselineskip}\oldlistoffigures\endgroup}
+
+\let\oldlistoftables=\listoftables
+\renewcommand{\listoftables}{\begingroup\setlength{\baselineskip}{0.65\baselineskip}\oldlistoftables\endgroup}
+
+% همچنین متوجه شدم که دستور با اعداد بالا، فاصله خطوط در یک متن انگلیسی زیادی  (مثلا فهرست مراجع) بزرگ است. برای متن انگلیسی حتی مشابه بالا ضرب کردن baselineskip در 0.65 هم به نظرم کافی نبود و در پایین با تغییر تعریف latin آن را در 0.55 ضرب کرده‌ام:
+\let\oldlatin=\latin
+\let\endoldlatin=\endlatin
+\renewenvironment{latin}{\begin{oldlatin}\setlength{\baselineskip}{0.55\baselineskip}}{\end{oldlatin}}
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+% اصلاحات مربوط به فهرست مطالب (تغییرات الف تا د زیر):
+% الف) یک تغییر، کم‌کردن فاصله خطوط است که در بالا با اصلاح تعریف \tableofcontents انجام شده بود.
+% ب) دستور زیر تغییر داده شده است: تغییر اول برای آن است که قبل از نوشتن تیتر فصلها کمی فاصله بیشتر نسبت به فاصله خطوط در زیرفصلها بگذارد و دستور دوم برای آن است که در فهرست مطالب، اسم فصلها را درشت‌تر بنویسد.
+
+\makeatletter
+
+\renewcommand{\l@chapter}[2]{%
+  \ifnum \c@tocdepth >\m@ne
+    \addpenalty{-\@highpenalty}%
+    \vskip 2.0em \@plus\p@ % This line is modified from the default definition (in "report.cls" file): \vskip 1.0em was changed to \vskip 2.0em (Done by Massoud Babaie-Zadeh, 14 Jan 2010)
+    \setlength\@tempdima{1.5em}%
+    \begingroup
+      \parindent \z@ \rightskip \@pnumwidth
+      \parfillskip -\@pnumwidth
+      \leavevmode \bfseries
+      \advance\leftskip\@tempdima
+      \hskip -\leftskip
+      \begingroup\large #1\endgroup\nobreak\hfil \nobreak\hb@xt@\@pnumwidth{\hss #2}\par % This line is modified from the default definition: #1 has been replaced by \begingroup\Large #1\endgroup (Done by Massoud Babaie-Zadeh, 14 Jan 2010)
+      \penalty\@highpenalty
+    \endgroup
+  \fi}
+
+\makeatother
+  
+% ج) دستورات زیر نحوه نوشتن part را در فهرست عوض می‌کند. سه دستور تغییر داده شده است: اول \partname است که پیش‌فرض xepersian تغییر داده شده تا بجای «بخش» بنویسد «قسمت». دو دستور دیگر از خود لاتک هستند (فایل report.cls) که نحوه نوشتن را عوض می‌کنند.
+  
+\def\partname{قسمت}  
+
+\makeatletter
+% Many parts of the following command are changed.
+\renewcommand*\l@part[2]{%
+  \ifnum \c@tocdepth >-2\relax
+    \addpenalty{-\@highpenalty}%
+    \addvspace{2.25em \@plus\p@}%
+    \setlength\@tempdima{1.5em}%
+    \begingroup
+      \parindent \z@ \rightskip \@pnumwidth
+      \parfillskip -\@pnumwidth
+      \leavevmode
+      \advance\leftskip\@tempdima
+      \hskip -\leftskip
+	   \Large \bfseries #1\hfil \hb@xt@\@pnumwidth{\hss #2}\par
+       \nobreak
+         \global\@nobreaktrue
+         \everypar{\global\@nobreakfalse\everypar{}}%
+    \endgroup
+  \fi}
+  
+\def\@part[#1]#2{%
+    \ifnum \c@secnumdepth >-2\relax
+      \refstepcounter{part}%
+	  \addcontentsline{toc}{part}{\partname\ \thepart\unskip: #1}%  -> This is the only part modified by Massoud Babaie-Zadeh (on 5 Feb 2010). The original was:
+      %\addcontentsline{toc}{part}{\thepart\hspace{1em}#1}%
+    \else
+      \addcontentsline{toc}{part}{#1}%
+    \fi
+    \markboth{}{}%
+    {\centering
+     \interlinepenalty \@M
+     \normalfont
+     \ifnum \c@secnumdepth >-2\relax
+       \huge\bfseries \partname\nobreakspace\thepart
+       \par
+       \vskip 20\p@
+     \fi
+     \Huge \bfseries #2\par}%
+    \@endpart}
+\def\@spart#1{%
+    {\centering
+     \interlinepenalty \@M
+     \normalfont
+     \Huge \bfseries #1\par}%
+    \@endpart}
+\def\@endpart{\vfil\newpage
+              \if@twoside
+               \if@openright
+                \null
+                \thispagestyle{empty}%
+                \newpage
+               \fi
+              \fi
+              \if@tempswa
+                \twocolumn
+              \fi}
+  
+  
+%  د) دستور زیر برای آن است که در فهرست مطالب بعد از هر section یک سطر خالی بگذارد تا قسمتهای مختلف کمی از هم مجزا بشوند.
+\let\oldl@section=\l@section
+\renewcommand{\l@section}{\vspace{1em}\oldl@section}
+
+\makeatother
+
+
+
+% خطهای زیر تنها برای کشیده‌شدن یک خط در header اضافه شده‌اند. در
+% نتیجه، پکیج ffancyhdr نیز باید اضافه شود.
+\lhead{\thepage}
+\chead{}
+\rhead{\leftmark}
+\lfoot{}
+\cfoot{}
+\rfoot{}
+\pagestyle{fancy}
+\renewcommand{\chaptermark}[1]{\markboth{\chaptername\ \thechapter:\ #1}{}}
+
+% End of Page Setup
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+% دستور زیر برای زیادکردن تورفتگی اول هر پاراگراف است. مقدار پیش‌فرض قبلی، برای متون انگلیسی است و برای متون فارسی زیادی کوچک است.
+
+\parindent=1cm
+
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+% دستور زیر برای تنظیم تیتر شروع هر فصل نوشته شده است. دستور اول فونت نوشتن عبارت «فصل ؟» را تعیین می‌کند و دستور بعدی، تنظیم خود تیتر است. (این دستور در واقع در فایل report.cls در LateX2e و در rep10.sty, rep11.sty, rep12.sty در LaTeX2.09 تعریف شده است):
+
+\makeatletter
+ 
+\def\@makechapterhead#1{%
+  \vspace*{50\p@}%
+  {\parindent \z@ \centering \normalfont
+    \ifnum \c@secnumdepth >\m@ne
+        {\Large\chaptertitlenumberfont  \@chapapp\space \thechapter}
+        \par\nobreak
+        \vskip 20\p@
+    \fi
+    \interlinepenalty\@M
+    \Huge\chaptertitlefont\bfseries #1\par\nobreak
+    \vskip 60\p@
+  }}
+
+% و برای اینکه همین اتفاق در مورد دستور chapter* هم بیفتد (که مثلا در نوشتن تیتر «فهرست مطالب» و «لیست اشکال» و «لیست جداول» و غیره استفاده می‌شود)
+\def\@makeschapterhead#1{%
+  \vspace*{50\p@}%
+  {\parindent \z@ \centering
+    \normalfont
+    \interlinepenalty\@M
+    \Huge \chaptertitlefont\bfseries  #1\par\nobreak
+    \vskip 60\p@
+  }}
+\makeatother
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+% فرمان بعدی بدین منظور نوشته شده است که شماره فرمولها بصورت
+% (شماره فصل-شماره فرمول) نوشته شود.
+\renewcommand{\theequation}{\thechapter-\arabic{equation}}
+% به همین ترتیب در مورد سایر شماره‌ها (شکلها، بخش‌ها، ...):
+\renewcommand{\thefigure}{\thechapter-\arabic{figure}}
+\renewcommand{\thetable}{\thechapter-\arabic{table}}
+\renewcommand{\thesection}{\thechapter-\arabic{section}}
+\renewcommand{\thesubsection}{\thesection-\arabic{subsection}}
+\renewcommand{\thesubsubsection}{\thesubsection-\arabic{subsubsection}}
+\renewcommand{\theparagraph}{\thesubsubsection-\arabic{paragraph}}
+\renewcommand{\thesubparagraph}{\theparagraph-\arabic{subparagraph}}
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+% دو دستور بعدی برای این نوشته شده‌اند که به جای «لیست اشکال» و «لیست جداول» که مقدار
+% پیش‌فرض فارسی‌تک و xepersian است، نوشته شود  «فهرست اشکال» و «فهرست جداول». 
+% همچنین دستور \hfil برای آن است که وسط نوشته شود.
+\def\listfigurename{فهرست اشکال}
+\def\listtablename{فهرست جداول}
+
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+% این قسمت برای فراهم آوردن کارکتر «پیچ خطرناک» و تهیه محیط note نوشته
+% شده است:
+\font\manfnt=manfnt
+\newlength{\dbendheight}
+\def\lhdbend{{\manfnt \char126}}
+\newcommand{\textlhdbend}{\raisebox{10pt}{\lhdbend}}
+\newenvironment{note}{\vspace{1.5em}\noindent\textlhdbend {\bf توجه:}\trafficfont%
+}{\vspace{1.5em}}
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+% برای آنکه در شماره‌گذاری حرفی و ابجد به جای آ از الف استفاده شود (این دستورات از تمپلیت تهیه شده توسط دکتر امین‌طوسی برا پایان‌نامه‌های دانشگاه حکیم سبزواری برداشته شده است):
+
+\makeatletter
+
+ \def\abj@num@i#1{%
+   \ifcase#1\or الف\or ب\or ج\or د%
+            \or ه‍\or و\or ز\or ح\or ط\fi
+   \ifnum#1=\z@\abjad@zero\fi}   
+  
+   \def\@harfi#1{\ifcase#1\or الف\or ب\or پ\or ت\or ث\or
+ ج\or چ\or ح\or خ\or د\or ذ\or ر\or ز\or ژ\or س\or ش\or ص\or ض\or ط\or ظ\or ع\or غ\or
+ ف\or ق\or ک\or گ\or ل\or م\or ن\or و\or ه\or ی\else\@ctrerr\fi}
+ 
+\makeatother
+
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+% این قسمت برای فراهم کردن کاراکتر «مداد کوچک» و تهیه محیط experiment
+% نوشته شده است.
+%\font\bbding=bbding at 15pt
+%\def\smallpencil{{\bbding \char28}}
+%\def\expfont{\traffic}
+%\newenvironment{experiment}{\vspace{1em}\smallpencil {\bf آزمایش:}%
+%\expfont}%
+%{\rm  \vspace{1em}}
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+% این قسمت تعریف محیطهای lemma، theorem و غیره است.
+
+\newtheorem{definition}{تعریف}[chapter]
+\renewcommand{\thedefinition}{{\arabic{definition}-\thechapter}}
+
+\newtheorem{property}{خاصیت}[chapter]
+\renewcommand{\theproperty}{{\arabic{property}-\thechapter}}
+
+\newtheorem{theorem}{قضیه}[chapter]
+\renewcommand{\thetheorem}{{\arabic{theorem}-\thechapter}}
+
+\newtheorem{lemma}{لم}[chapter]
+\renewcommand{\thelemma}{{\arabic{lemma}-\thechapter}}
+
+\newtheorem{corollary}{نتیجهٔ فرعی}
+\renewcommand{\thecorollary}{{\arabic{corollary}-\thechapter}}
+
+%\newtheorem{predefinition}{تعریف}[chapter]
+%\renewcommand{\thepredefinition}{{\arabic{predefinition}-\thechapter}}
+%\newenvironment{definition}{\begin{predefinition}{\hspace{-0.4em}{\bf.}}}
+%                          {\end{predefinition}}
+
+%\newtheorem{preproperty}{خاصیت}[chapter]
+%\renewcommand{\thepreproperty}{{\arabic{preproperty}-\thechapter}}
+%\newenvironment{property}{\begin{preproperty}{\hspace{-0.4em}{\bf.}}}
+%                          {\end{preproperty}}
+
+%\newtheorem{pretheo}{قضیه}[chapter]
+%\renewcommand{\thepretheo}{{\arabic{pretheo}-\thechapter}}
+%\newenvironment{theorem}{\begin{pretheo}{\hspace{-0.4em}{\bf.}}}
+%                          {\end{pretheo}}
+
+%\newtheorem{prelemma}{لم}[chapter]
+%\renewcommand{\theprelemma}{{\arabic{prelemma}-\thechapter}}
+%\newenvironment{lemma}{\begin{prelemma}{\hspace{-0.4em}{\bf.}}}
+%                          {\end{prelemma}}
+
+%\newtheorem{precorollary}{نتیجهٔ فرعی}
+%\renewcommand{\theprecorollary}{{\arabic{precorollary}-\thechapter}}
+%\newenvironment{corollary}{\begin{precorollary}{\hspace{-0.4em}{\bf.}}}
+%                          {\end{precorollary}}
+
+
+%\newenvironment{proof}{\vspace{0.5em} {\bf اثبات.} 
+%\rm  }{\hfill{$\Box$} \vspace{2em}}
+
+%\newenvironment{example}{\vspace{0.5em}{\bf مثال.} 
+%\small  }{\vspace{1em}}
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%

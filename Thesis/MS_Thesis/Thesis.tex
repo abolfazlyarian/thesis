@@ -1,0 +1,64 @@
+\documentclass[a4paper]{report}
+\usepackage{amsmath,amssymb}
+\usepackage{graphicx}
+\usepackage{fancyhdr}
+
+
+\input{MBZ_ThesisSettings1} % All settings before xepersian (especially loading any other pachages,
+                            % because xepersian should be the last loaded package.
+							% written by Massoud Babaie-Zadeh
+\usepackage[Kashida]{xepersian}
+\input{MBZ_ThesisSettings2} % Settings after loading xepersian (written by Massoud Babaie-Zadeh)
+\input{Header} % برای دستورات جدیدی که خودتان می‌خواهید تعریف کنید.
+
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\begin{document}
+
+% صفحات اولیه تز (جلد، بسم‌ا...، توضیح (کامنت)، تصویب‌نامه، تشکر، چکیده) %%%%%%%%%%%%%%%
+\include{jeld}
+\include{Besmellah}
+\include{CommentPage}
+\include{TasvibNameh}
+\include{Tashakor}
+\include{PersianAbstract}
+
+% شروع فهرست مطالب و اشکال و غیره %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\setcounter{page}{1}
+\let\oldthepage=\thepage %Backup old definition
+\renewcommand{\thepage}{\beginR\adadi{page}\endR}
+
+\tableofcontents
+\listoftables
+\listoffigures
+\include{abbreviation}
+
+%%%%%%%%%%%%%%%%%%%%%%%
+\setcounter{page}{1}
+\let\thepage=\oldthepage % Restore the definition 
+
+% شروع فصلهای تز (متن اصلی تز) %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+\include{Introduction}
+\include{BSS_Summary}
+\include{HVS}
+\include{Entropy}
+\include{Conclusion}
+
+
+% شروع مراجع %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+% References
+\begin{latin}
+\renewcommand{\bibname}{\rl{مراجع}}
+\bibliography{SepSrc}
+% یکی از دو دستور زیر را فعال کنید. به نظر من برای یک تز یا یک کتاب باید مراجع به ترتیب الفبایی اسم نویسنده اول مرتب شوند، و مرتب کردن به ترتیب ارجاع در متن برای مقاله است.
+\bibliographystyle{IEEEsort} % مرتب کردن مراجع به ترتیب حروف الفبای اسم نویسنده اول
+%\bibliographystyle{IEEEbib}  % مرتب کردن مراجع به ترتیب ارجاع در متن
+\end{latin}
+
+% شروع قسمتهای انتهایی تز (چکیده انگلیسی و جلد انگلیسی) %%%%%%%%%%%%%%%%
+\include{EnglishAbstract}
+\include{EnglishJeld}
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\end{document}

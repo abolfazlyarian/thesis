@@ -1,0 +1,89 @@
+\begin{thebibliography}{10}
+
+\bibitem{BellS95}
+T.~Bell and T.~Sejnowski,
+\newblock ``An information-maximization approach to blind separation and blind
+  deconvolution,''
+\newblock {\em Neural Comutation}, vol. 7, no. 6, pp. 1004--1034, 1995.
+
+\bibitem{Card89b}
+J.-F. Cardoso,
+\newblock ``Blind identification of independent signals,''
+\newblock in {\em Workshop on Higher-Order Spectral Analysis}, Vail (CO), USA,
+  June 1989.
+
+\bibitem{Card98}
+J.-F. Cardoso,
+\newblock ``Blind signal separation: statistical principles,''
+\newblock {\em Proceedings IEEE}, vol. 9, pp. 2009--2025, 1998.
+
+\bibitem{CardL96}
+J.-F. Cardoso and B.~Laheld,
+\newblock ``Equivariant adaptive source separation,''
+\newblock {\em IEEE Trans. on SP}, vol. 44, no. 12, pp. 3017--3030, December
+  1996.
+
+\bibitem{CichA02}
+Andrzej Cichocki and Shun-ichi Amari,
+\newblock {\em Adaptive Blind Signal and Image Processing: Learning Algorithms
+  and Applications},
+\newblock John Wiley and sons, 2002.
+
+\bibitem{Como89c}
+P.~Comon,
+\newblock ``Separation of stochastic processes,''
+\newblock in {\em Workshop on Higher-Order Spectral Analysis}, Vail (CO), USA,
+  June 1989.
+
+\bibitem{HeraJ86}
+J.~H\'{e}rault and C.~Jutten,
+\newblock ``Space or time adaptive signal processing by neural networks
+  models,''
+\newblock in {\em Intern. Conf. on Neural Networks for Computing}, Snowbird
+  (Utah, USA), 1986, pp. 206--211.
+
+\bibitem{HeraJA85}
+J.~H\'{e}rault, C.~Jutten, and B.~Ans,
+\newblock ``D\'{e}tection de grandeurs primitives dans un message composite par
+  une architecture de calcul neuromim\'{e}tique en apprentissage non
+  supervis\'{e},''
+\newblock in {\em Actes du Xeme colloque GRETSI}, Nice, France, 20-24 Mai 1985,
+  pp. 1017--1022,
+\newblock (in French).
+
+\bibitem{Hyva99Survey}
+A.~Hyvarinen,
+\newblock ``Survey on independent component analysis,''
+\newblock {\em Neural Computing Surveys}, vol. 2, pp. 94--128, 1999.
+
+\bibitem{HyvaKO01}
+A.~Hyvarinen, J.~Karhunen, and E.~Oja,
+\newblock {\em Independent Component Analysis},
+\newblock 2001.
+
+\bibitem{HyvaO00}
+A.~Hyvarinen and E.~Oja,
+\newblock ``Independent component analysis: Algorithms and applications,''
+\newblock {\em Neural Networks}, vol. 13, pp. 411--430, 2000.
+
+\bibitem{LacoR88}
+J.-L. Lacoume and P.~Ruiz,
+\newblock ``Sources identification: a solution based on cumulants,''
+\newblock in {\em IEEE ASSP Workshop}, Mineapolis, USA, August 1988.
+
+\bibitem{LeeGBS99}
+T.~W. Lee, M.~Girolami, A.~J. Bell, and T.~J. Sejnowski,
+\newblock ``A unifying information-theoretic framework for independent
+  component analysis,''
+\newblock {\em International Journal on Mathematical and Computer Modeling},
+  1999.
+
+\bibitem{MansBO00}
+A.~Mansour, A.~K. Barros, and N.~Ohnishi,
+\newblock ``Blind separation of sources: Methods, assumptions and
+  applications,''
+\newblock {\em IEICE Transactions on Fundamentals of Electronics,
+  Communications and Computer Sciences}, vol. EA83A, no. 8, pp. 1498--1512, Aug
+  2000.
+
+\end{thebibliography}

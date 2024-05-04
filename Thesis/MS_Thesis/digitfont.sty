@@ -1,0 +1,76 @@
+%%
+%% This is file `digitfont.sty': Massoud Babaie-Zadeh's patches for XePersian.
+%% This package provids \setonlydigitfont, a command to replace "only" digits in the math 
+%  mode, not all the characters (as is done by \setdigitfont). Hence, 
+%% using it, one can use fonts with good persian digit fonts, without 
+%% overrriding the font which is used to write variables (regular 
+%% variables are not overridden by xepersian, but bold and italics are).
+%%
+%% Author: Massoud Babaie-Zadeh
+%% Date: 8 January 2010.
+%% 
+%% 
+\NeedsTeXFormat{LaTeX2e}
+\ProvidesPackage{digitfont}
+  [2010/01/07 v.1 Massoud Babaie-Zadeh's onlydigit font for XePersian (Author: Massoud Babaie-Zadeh)]
+%
+%-----------------------------------------------------------------------------%  
+%  Providing \setonlydigitfont, a command to replace "only" digits in the math 
+%  mode, not all the characters. Done in 8 January 2010.
+\newcommand\setonlydigitfont[2][]{%
+  \let\glb@currsize\relax
+  \setkeys*[xepersian-mathsdigitspec]{options}{#1}%
+  \edef\@tempa{\noexpand\zf@fontspec{%
+    \XKV@rm}{#2}}\@tempa
+  \xepersian@PackageInfo{Defining the default Persian maths digits font as '#2'}
+  \DeclareSymbolFont{OPERATORS}   {EU1}{\zf@family} {m}{n}
+  \SetSymbolFont{OPERATORS}{bold}{EU1}{\zf@family} {bx}{n}
+  %\DeclareMathAlphabet      {\mathit}{EU1}{\zf@family}{m}{it}
+  %\DeclareSymbolFontAlphabet{\mathrm}    {OPERATORS}
+  %\DeclareMathAlphabet      {\mathbf}{EU1}{\zf@family}{bx}{n}
+  \SetMathCode{`0}{\mathalpha}{OPERATORS}{"06F0}
+  \SetMathCode{`1}{\mathalpha}{OPERATORS}{"06F1}
+  \SetMathCode{`2}{\mathalpha}{OPERATORS}{"06F2}
+  \SetMathCode{`3}{\mathalpha}{OPERATORS}{"06F3}
+  \SetMathCode{`4}{\mathalpha}{OPERATORS}{"06F4}
+  \SetMathCode{`5}{\mathalpha}{OPERATORS}{"06F5}
+  \SetMathCode{`6}{\mathalpha}{OPERATORS}{"06F6}
+  \SetMathCode{`7}{\mathalpha}{OPERATORS}{"06F7}
+  \SetMathCode{`8}{\mathalpha}{OPERATORS}{"06F8}
+  \SetMathCode{`9}{\mathalpha}{OPERATORS}{"06F9}
+  \SetMathCharDef{\decimalseparator}{\mathpunct}{OPERATORS}{"066B}
+}
+\mathchardef\ziffer@DotOri="013A
+{\ZifferAn
+ \catcode`\.=\active\gdef.{\begingroup\obeyspaces\futurelet\n\ziffer@dcheck}}
+\def\ziffer@dcheck{\ziffer@check\ZifferLeer\ziffer@DotOri}
+\def\ziffer@check#1#2{%
+  \ifx\n1\endgroup#1\else
+    \ifx\n2\endgroup#1\else
+      \ifx\n3\endgroup#1\else
+        \ifx\n4\endgroup#1\else
+          \ifx\n5\endgroup#1\else
+            \ifx\n6\endgroup#1\else
+              \ifx\n7\endgroup#1\else
+                \ifx\n8\endgroup#1\else
+                  \ifx\n9\endgroup#1\else
+                    \ifx\n0\endgroup#1\else
+                      \endgroup#2%
+                    \fi
+                  \fi
+                \fi
+              \fi
+            \fi
+          \fi
+        \fi
+      \fi
+    \fi
+  \fi}
+\mathcode`.="8000\relax
+\def\ZifferLeer{\ifx\decimalseparator\undefied .\else \decimalseparator\fi}
+%
+% End of \setonlydigitfont command
+%-----------------------------------------------------------------------------%
+%
+%
+%% End of file `digitfont.sty'.
