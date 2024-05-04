@@ -1,0 +1,3 @@
+https://mymlops.com/builder
+https://cloud.google.com/architecture/mlops-continuous-delivery-and-automation-pipelines-in-machine-learning
+https://mlops-guide.github.io/
