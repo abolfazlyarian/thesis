@@ -18,52 +18,80 @@ A level-1 auxiliary file: EnglishAbstract.aux
 A level-1 auxiliary file: EnglishJeld.aux
 Database file #1: SepSrc.bib
 Warning--I didn't find a database entry for "LevFo04"
-Name 1 in "R. Jabbari, N. Ali, K. Petersen, and B. Tanveer" has a comma at the end for entry Devops2
+Name 1 in "R. Jabbari, N. Ali, K. Petersen, and B. Tanveer" has a comma at the end for entry DevopsDef1
 while executing---line 1120 of file IEEEsort.bst
-Warning--to sort, need author or key in Devops3
+Warning--to sort, need author or key in DevopsDef2
+Too many commas in name 1 of "K. Beck, M. Beedle, A. Van Bennekum, A. Cockburn, W. Cunningham, M. Fowler, J. Grenning, J. Highsmith, A. Hunt, R. Jeffries" for entry DevopsAgile
+while executing---line 1120 of file IEEEsort.bst
+Too many commas in name 1 of "K. Beck, M. Beedle, A. Van Bennekum, A. Cockburn, W. Cunningham, M. Fowler, J. Grenning, J. Highsmith, A. Hunt, R. Jeffries" for entry DevopsAgile
+while executing---line 1120 of file IEEEsort.bst
+Too many commas in name 1 of "K. Beck, M. Beedle, A. Van Bennekum, A. Cockburn, W. Cunningham, M. Fowler, J. Grenning, J. Highsmith, A. Hunt, R. Jeffries" for entry DevopsAgile
+while executing---line 1120 of file IEEEsort.bst
+Too many commas in name 1 of "K. Beck, M. Beedle, A. Van Bennekum, A. Cockburn, W. Cunningham, M. Fowler, J. Grenning, J. Highsmith, A. Hunt, R. Jeffries" for entry DevopsAgile
+while executing---line 1120 of file IEEEsort.bst
+Too many commas in name 1 of "K. Beck, M. Beedle, A. Van Bennekum, A. Cockburn, W. Cunningham, M. Fowler, J. Grenning, J. Highsmith, A. Hunt, R. Jeffries" for entry DevopsAgile
+while executing---line 1120 of file IEEEsort.bst
+Too many commas in name 1 of "K. Beck, M. Beedle, A. Van Bennekum, A. Cockburn, W. Cunningham, M. Fowler, J. Grenning, J. Highsmith, A. Hunt, R. Jeffries" for entry DevopsAgile
+while executing---line 1120 of file IEEEsort.bst
+Too many commas in name 1 of "K. Beck, M. Beedle, A. Van Bennekum, A. Cockburn, W. Cunningham, M. Fowler, J. Grenning, J. Highsmith, A. Hunt, R. Jeffries" for entry DevopsAgile
+while executing---line 1120 of file IEEEsort.bst
 Warning--empty publisher in HyvaKO01
-Name 1 in "R. Jabbari, N. Ali, K. Petersen, and B. Tanveer" has a comma at the end for entry Devops2
+Too many commas in name 1 of "K. Beck, M. Beedle, A. Van Bennekum, A. Cockburn, W. Cunningham, M. Fowler, J. Grenning, J. Highsmith, A. Hunt, R. Jeffries" for entry DevopsAgile
 while executing---line 1165 of file IEEEsort.bst
-Warning--empty booktitle in Devops2
-You've used 17 entries,
+Too many commas in name 1 of "K. Beck, M. Beedle, A. Van Bennekum, A. Cockburn, W. Cunningham, M. Fowler, J. Grenning, J. Highsmith, A. Hunt, R. Jeffries" for entry DevopsAgile
+while executing---line 1165 of file IEEEsort.bst
+Too many commas in name 1 of "K. Beck, M. Beedle, A. Van Bennekum, A. Cockburn, W. Cunningham, M. Fowler, J. Grenning, J. Highsmith, A. Hunt, R. Jeffries" for entry DevopsAgile
+while executing---line 1165 of file IEEEsort.bst
+Too many commas in name 1 of "K. Beck, M. Beedle, A. Van Bennekum, A. Cockburn, W. Cunningham, M. Fowler, J. Grenning, J. Highsmith, A. Hunt, R. Jeffries" for entry DevopsAgile
+while executing---line 1165 of file IEEEsort.bst
+Too many commas in name 1 of "K. Beck, M. Beedle, A. Van Bennekum, A. Cockburn, W. Cunningham, M. Fowler, J. Grenning, J. Highsmith, A. Hunt, R. Jeffries" for entry DevopsAgile
+while executing---line 1165 of file IEEEsort.bst
+Too many commas in name 1 of "K. Beck, M. Beedle, A. Van Bennekum, A. Cockburn, W. Cunningham, M. Fowler, J. Grenning, J. Highsmith, A. Hunt, R. Jeffries" for entry DevopsAgile
+while executing---line 1165 of file IEEEsort.bst
+Too many commas in name 1 of "K. Beck, M. Beedle, A. Van Bennekum, A. Cockburn, W. Cunningham, M. Fowler, J. Grenning, J. Highsmith, A. Hunt, R. Jeffries" for entry DevopsAgile
+while executing---line 1165 of file IEEEsort.bst
+Name 1 in "R. Jabbari, N. Ali, K. Petersen, and B. Tanveer" has a comma at the end for entry DevopsDef1
+while executing---line 1165 of file IEEEsort.bst
+Warning--empty booktitle in DevopsDef1
+You've used 19 entries,
             2163 wiz_defined-function locations,
-            641 strings with 6736 characters,
-and the built_in function-call counts, 5209 in all, are:
-= -- 501
-> -- 204
+            652 strings with 7159 characters,
+and the built_in function-call counts, 5670 in all, are:
+= -- 544
+> -- 224
 < -- 2
-+ -- 83
-- -- 64
-* -- 387
-:= -- 847
-add.period$ -- 17
-call.type$ -- 17
-change.case$ -- 81
++ -- 91
+- -- 70
+* -- 410
+:= -- 927
+add.period$ -- 19
+call.type$ -- 19
+change.case$ -- 89
 chr.to.int$ -- 0
-cite$ -- 20
-duplicate$ -- 217
-empty$ -- 460
-format.name$ -- 64
-if$ -- 1106
+cite$ -- 22
+duplicate$ -- 236
+empty$ -- 503
+format.name$ -- 70
+if$ -- 1204
 int.to.chr$ -- 0
-int.to.str$ -- 17
-missing$ -- 18
-newline$ -- 87
-num.names$ -- 32
-pop$ -- 109
+int.to.str$ -- 19
+missing$ -- 20
+newline$ -- 97
+num.names$ -- 36
+pop$ -- 126
 preamble$ -- 1
-purify$ -- 66
+purify$ -- 73
 quote$ -- 0
-skip$ -- 137
+skip$ -- 151
 stack$ -- 0
-substring$ -- 318
-swap$ -- 38
+substring$ -- 328
+swap$ -- 40
 text.length$ -- 2
 text.prefix$ -- 0
 top$ -- 0
-type$ -- 64
+type$ -- 70
 warning$ -- 3
-while$ -- 47
-width$ -- 19
-write$ -- 181
-(There were 2 error messages)
+while$ -- 51
+width$ -- 21
+write$ -- 202
+(There were 16 error messages)

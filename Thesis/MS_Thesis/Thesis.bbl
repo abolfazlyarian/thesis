@@ -1,6 +1,6 @@
 \begin{thebibliography}{10}
 
-\bibitem{Devops3}
+\bibitem{DevopsDef2}
 ``What is devops? https://aws.amazon.com/devops/what-is-devops/ [accessed:
   2024-05-07],'' .
 
@@ -55,6 +55,12 @@ J.~H\'{e}rault, C.~Jutten, and B.~Ans,
   pp. 1017--1022,
 \newblock (in French).
 
+\bibitem{DevopsCD}
+Jez Humble and David Farley,
+\newblock {\em Continuous Delivery: Reliable Software Releases through Build,
+  Test, and Deployment Automation},
+\newblock Addison-Wesley Professional, 2010.
+
 \bibitem{Hyva99Survey}
 A.~Hyvarinen,
 \newblock ``Survey on independent component analysis,''
@@ -69,6 +75,12 @@ A.~Hyvarinen, J.~Karhunen, and E.~Oja,
 A.~Hyvarinen and E.~Oja,
 \newblock ``Independent component analysis: Algorithms and applications,''
 \newblock {\em Neural Networks}, vol. 13, pp. 411--430, 2000.
+
+\bibitem{DevopsAgile}
+A.~Van Bennekum A. Cockburn W. Cunningham M. Fowler J. Grenning J. Highsmith A.
+  Hunt R.~Jeffries K.~Beck, M.~Beedle,
+\newblock ``Manifesto for agile software development,'' 2001,
+\newblock https://agilemanifesto.org/ [Accessed: 2024-02-17].
 
 \bibitem{LacoR88}
 J.-L. Lacoume and P.~Ruiz,
@@ -90,13 +102,13 @@ A.~Mansour, A.~K. Barros, and N.~Ohnishi,
   Communications and Computer Sciences}, vol. EA83A, no. 8, pp. 1498--1512, Aug
   2000.
 
-\bibitem{Devops2}
+\bibitem{DevopsDef1}
 K.~Petersen R.~Jabbari, N.~Ali and B.~Tanveer,
 \newblock ``What is devops?: A systematic mapping study on definitions and
   practices,''
 \newblock May 2016.
 
-\bibitem{Devops1}
+\bibitem{DevopsCICD1}
 M.~Virmani,
 \newblock ``Understanding devops bridging the gap from continuous integration
   to continuous delivery,''

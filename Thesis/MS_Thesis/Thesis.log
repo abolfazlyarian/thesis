@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999995 (TeX Live 2023) (preloaded format=xelatex 2023.9.1)  7 MAY 2024 19:10
+This is XeTeX, Version 3.141592653-2.6-0.999995 (TeX Live 2023) (preloaded format=xelatex 2023.9.1)  7 MAY 2024 23:06
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -880,13 +880,13 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 
 [3]
 LaTeX Font Info:    Font shape `TU/IRLotusICEE.ttf(0)/m/n' will be
-(Font)              scaled to size 11.78998pt on input line 100.
+(Font)              scaled to size 11.78998pt on input line 103.
 LaTeX Font Info:    Font shape `TU/IRLotusICEE.ttf(1)/m/n' will be
-(Font)              scaled to size 11.78998pt on input line 100.
+(Font)              scaled to size 11.78998pt on input line 103.
 LaTeX Font Info:    Font shape `TU/IRLotusICEE.ttf(1)/bx/n' will be
-(Font)              scaled to size 11.78998pt on input line 100.
+(Font)              scaled to size 11.78998pt on input line 103.
 LaTeX Font Info:    Font shape `TU/IRLotusICEE.ttf(1)/m/it' will be
-(Font)              scaled to size 11.78998pt on input line 100.
+(Font)              scaled to size 11.78998pt on input line 103.
 
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
@@ -965,11 +965,20 @@ LaTeX Warning: Citation `LevFo04' on page 9 undefined on input line 9.
 
 
 
-] (./Thesis.bbl) [12
+] (./Thesis.bbl [12
 
 
 
-]
+])
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 13.86893pt, for example:
+(fancyhdr)                \setlength{\headheight}{13.86893pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-1.86893pt}.
+
+[13]
 \openout2 = `EnglishAbstract.aux'.
 
  (./EnglishAbstract.tex
@@ -982,7 +991,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 40--49
 [][]
  []
 
-) [13
+) [14
 
 ]
 \openout2 = `EnglishJeld.aux'.
@@ -990,7 +999,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 40--49
  (./EnglishJeld.tex
 File: Sharif_Logo.pdf Graphic file (type pdf)
 <use Sharif_Logo.pdf>
-) [14
+) [15
 
 
 
@@ -1014,12 +1023,12 @@ LaTeX Warning: There were undefined references.
 ### simple group (level 1) entered at line 21 ({)
 ### bottom level 
 Here is how much of TeX's memory you used:
- 8895 strings out of 476683
- 208199 string characters out of 5807576
- 1893012 words of memory out of 5000000
- 28803 multiletter control sequences out of 15000+600000
+ 8899 strings out of 476683
+ 208256 string characters out of 5807576
+ 1895012 words of memory out of 5000000
+ 28807 multiletter control sequences out of 15000+600000
  520942 words of font info for 128 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
- 87i,12n,97p,1388b,609s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 87i,12n,97p,1388b,658s stack positions out of 10000i,1000n,20000p,200000b,200000s
 
-Output written on Thesis.pdf (24 pages).
+Output written on Thesis.pdf (25 pages).
