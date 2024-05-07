@@ -1,5 +1,9 @@
 \begin{thebibliography}{10}
 
+\bibitem{Devops3}
+``What is devops? https://aws.amazon.com/devops/what-is-devops/ [accessed:
+  2024-05-07],'' .
+
 \bibitem{BellS95}
 T.~Bell and T.~Sejnowski,
 \newblock ``An information-maximization approach to blind separation and blind
@@ -85,5 +89,18 @@ A.~Mansour, A.~K. Barros, and N.~Ohnishi,
 \newblock {\em IEICE Transactions on Fundamentals of Electronics,
   Communications and Computer Sciences}, vol. EA83A, no. 8, pp. 1498--1512, Aug
   2000.
+
+\bibitem{Devops2}
+K.~Petersen R.~Jabbari, N.~Ali and B.~Tanveer,
+\newblock ``What is devops?: A systematic mapping study on definitions and
+  practices,''
+\newblock May 2016.
+
+\bibitem{Devops1}
+M.~Virmani,
+\newblock ``Understanding devops bridging the gap from continuous integration
+  to continuous delivery,''
+\newblock in {\em Fifth International Conference on the Innovative Computing
+  Technology (INTECH 2015)}, May 2015.
 
 \end{thebibliography}
