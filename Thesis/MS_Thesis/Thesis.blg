@@ -66,45 +66,45 @@ while executing---line 1165 of file IEEEsort.bst
 Name 1 in "R. Jabbari, N. Ali, K. Petersen, and B. Tanveer" has a comma at the end for entry DevopsDef1
 while executing---line 1165 of file IEEEsort.bst
 Warning--empty booktitle in DevopsDef1
-You've used 23 entries,
+You've used 24 entries,
             2163 wiz_defined-function locations,
-            676 strings with 7700 characters,
-and the built_in function-call counts, 6707 in all, are:
-= -- 637
-> -- 264
+            682 strings with 7858 characters,
+and the built_in function-call counts, 6984 in all, are:
+= -- 660
+> -- 277
 < -- 3
-+ -- 108
-- -- 82
-* -- 479
-:= -- 1098
-add.period$ -- 23
-call.type$ -- 23
-change.case$ -- 106
++ -- 114
+- -- 86
+* -- 497
+:= -- 1143
+add.period$ -- 24
+call.type$ -- 24
+change.case$ -- 111
 chr.to.int$ -- 0
-cite$ -- 27
-duplicate$ -- 281
-empty$ -- 604
-format.name$ -- 82
-if$ -- 1424
+cite$ -- 28
+duplicate$ -- 295
+empty$ -- 632
+format.name$ -- 86
+if$ -- 1483
 int.to.chr$ -- 0
-int.to.str$ -- 23
-missing$ -- 24
-newline$ -- 116
-num.names$ -- 44
-pop$ -- 158
+int.to.str$ -- 24
+missing$ -- 25
+newline$ -- 121
+num.names$ -- 46
+pop$ -- 167
 preamble$ -- 1
-purify$ -- 87
+purify$ -- 91
 quote$ -- 0
-skip$ -- 179
+skip$ -- 187
 stack$ -- 0
-substring$ -- 370
-swap$ -- 46
+substring$ -- 376
+swap$ -- 48
 text.length$ -- 3
 text.prefix$ -- 0
 top$ -- 0
-type$ -- 84
+type$ -- 88
 warning$ -- 4
-while$ -- 60
-width$ -- 25
-write$ -- 242
+while$ -- 62
+width$ -- 26
+write$ -- 252
 (There were 22 error messages)
