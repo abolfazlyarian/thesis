@@ -38,38 +38,35 @@
 نظارت: از عملکرد محصول تا نظارت بر تجربه کاربر نهایی را شامل می شود. به عنوان مثال، می‌تواند مدت زمان درخواست‌های پایگاه داده یا بارگذاری وب‌سایت یا تعداد کاربرانی که از ویژگی‌های خاص محصول استفاده می‌کنند یا تعداد بازدیدکنندگان از یک وب‌سایت که به ثبت نام ختم می‌شود یا تعداد کاربران جدید در یک مجموعه زمانی خاص را پوشش دهد. مرحله نظارت هم چنین شامل هشدار خودکار خرابی ها نیز می باشد (به عنوان مثال، آستانه استفاده از \lr{CPU}) \cite{DevopsMonitor}. درنهایت نظارت بر محیط تولید به منظور اطمینان از صحت کارکرد صحیح محصول ضروری است.
 \end{enumerate}
 
-\begin{figure}[tb]
+\begin{figure}
 	\centering
-	\unitlength 1.2cm 
-	\begin{LTR}
-		\begin{picture}(11,2) % width and height of the picture
-			\thicklines
-			% Nodes
-			\put(0,1){\circle{1}} \put(0,1){\makebox(0,0){Code}}
-			\put(2,1){\circle{1}} \put(2,1){\makebox(0,0){Build}}
-			\put(4,1){\circle{1}} \put(4,1){\makebox(0,0){Test}}
-			\put(6,1){\circle{1}} \put(6,1){\makebox(0,0){Deploy}}
-			\put(8,1){\circle{1}} \put(8,1){\makebox(0,0){Configure}}
-			\put(10,1){\circle{1}} \put(10,1){\makebox(0,0){Monitor}}
-			
-			% Arrows
-			\put(0.5,1){\vector(1,0){1}}
-			\put(2.5,1){\vector(1,0){1}}
-			\put(4.5,1){\vector(1,0){1}}
-			\put(6.5,1){\vector(1,0){1}}
-			\put(8.5,1){\vector(1,0){1}}
-			
-			% Rectangle around the "Configure" node with label
-			\put(1,0){\framebox(10,2){}} % Drawing the rectangle
-			\put(5.5,0.1){\makebox(0,0)[bl]{Automated}} % Adding label "Automated"
-		\end{picture}
-	\end{LTR}     
-	\label{fig: Phases of DevOps}
-	%\farsi 
+	\begin{tikzpicture}[node distance=3cm and 0.5cm]
+		% Nodes
+		\node[circle, draw, thick, minimum size=2cm, align=center] (code) {Code};
+		\node[circle, draw, thick, minimum size=2cm, align=center, right=of code] (build) {Build};
+		\node[circle, draw, thick, minimum size=2cm, align=center, right=of build] (test) {Test};
+		\node[circle, draw, thick, minimum size=2cm, align=center, right=of test] (deploy) {Deploy};
+		\node[circle, draw, thick, minimum size=2cm, align=center, right=of deploy] (configure) {Configure};
+		\node[circle, draw, thick, minimum size=2cm, align=center, right=of configure] (monitor) {Monitor};
+		
+		% Arrows
+		\draw[-stealth, thick] (code) -- (build);
+		\draw[-stealth, thick] (build) -- (test);
+		\draw[-stealth, thick] (test) -- (deploy);
+		\draw[-stealth, thick] (deploy) -- (configure);
+		\draw[-stealth, thick] (configure) -- (monitor);
+		
+		% Rectangle around the "Configure" node with label
+		\draw[thick] (1.2, -1.7) rectangle (14, 1.7) node[midway, below, yshift=-1.1cm] {Automated};
+		
+	\end{tikzpicture}
 	\caption{مراحل \lr{DevOps}}
+	\label{fig: Phases of DevOps}
 \end{figure}
 
 \subsection{خط لوله \lr{CI/CD}}
+
+
 \subsection{مزایای متدلوژی \lr{DevOps}}
 این متدلوژی یک رویکرد نوآورانه‌ در توسعه نرم‌افزار و عملیات است که مزایای بسیاری برای بهبود عملکرد سازمانی\footnote{\lr{Organization performance}} ارائه می دهد \cite{Devopsorg}. ادغام این روش ها می‌تواند نحوه مواجهه تیم‌ها با چالش‌های پروژه و تعامل با فناوری را تغییر داده و منجر به افزایش کارایی، قابلیت اطمینان و رضایت شود \cite{DevopsDef2}.
 \begin{enumerate}
