@@ -61,6 +61,11 @@ Jez Humble and David Farley,
   Test, and Deployment Automation},
 \newblock Addison-Wesley Professional, 2010.
 
+\bibitem{DevopsIaac1}
+M.~Huttermann,
+\newblock {\em DevOps for Developers}, chapter Infrastructure as Code,
+\newblock 2012.
+
 \bibitem{Hyva99Survey}
 A.~Hyvarinen,
 \newblock ``Survey on independent component analysis,''
@@ -94,6 +99,12 @@ T.~W. Lee, M.~Girolami, A.~J. Bell, and T.~J. Sejnowski,
 \newblock {\em International Journal on Mathematical and Computer Modeling},
   1999.
 
+\bibitem{DevopsIaac2}
+E.~D. Nitto M.~Guerriero M.~Artac, T.~Borovssak and D.~A. Tamburri,
+\newblock ``Devops: Introducing infrastructure-as-code,''
+\newblock in {\em International Conference on Software Engineering Companion
+  (ICSE-C)}, May 2017.
+
 \bibitem{MansBO00}
 A.~Mansour, A.~K. Barros, and N.~Ohnishi,
 \newblock ``Blind separation of sources: Methods, assumptions and
@@ -101,6 +112,18 @@ A.~Mansour, A.~K. Barros, and N.~Ohnishi,
 \newblock {\em IEICE Transactions on Fundamentals of Electronics,
   Communications and Computer Sciences}, vol. EA83A, no. 8, pp. 1498--1512, Aug
   2000.
+
+\bibitem{DevopsMonitor}
+A.~Q.~Gates N.~Delgado and S.~Roach,
+\newblock ``A taxonomy and catalog of runtime software-fault monitoring
+  tools,''
+\newblock {\em IEEE Transactions on Software Engineering}, vol. 30, pp.
+  859--872, December 2004.
+
+\bibitem{Devopstrunk}
+paul hammant,
+\newblock ``Trunk based development,'' https://trunkbaseddevelopment.com/
+  [Accessed: 2023-11-01].
 
 \bibitem{DevopsDef1}
 K.~Petersen R.~Jabbari, N.~Ali and B.~Tanveer,

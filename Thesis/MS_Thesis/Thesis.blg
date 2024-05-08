@@ -35,6 +35,13 @@ Too many commas in name 1 of "K. Beck, M. Beedle, A. Van Bennekum, A. Cockburn, 
 while executing---line 1120 of file IEEEsort.bst
 Too many commas in name 1 of "K. Beck, M. Beedle, A. Van Bennekum, A. Cockburn, W. Cunningham, M. Fowler, J. Grenning, J. Highsmith, A. Hunt, R. Jeffries" for entry DevopsAgile
 while executing---line 1120 of file IEEEsort.bst
+Name 1 in "M. Artac, T. Borovssak, E. D. Nitto, M. Guerriero, and D. A. Tamburri" has a comma at the end for entry DevopsIaac2
+while executing---line 1120 of file IEEEsort.bst
+Too many commas in name 1 of "M. Artac, T. Borovssak, E. D. Nitto, M. Guerriero, and D. A. Tamburri" for entry DevopsIaac2
+while executing---line 1120 of file IEEEsort.bst
+Name 1 in "N. Delgado, A. Q. Gates, and S. Roach" has a comma at the end for entry DevopsMonitor
+while executing---line 1120 of file IEEEsort.bst
+Warning--empty publisher in DevopsIaac1
 Warning--empty publisher in HyvaKO01
 Too many commas in name 1 of "K. Beck, M. Beedle, A. Van Bennekum, A. Cockburn, W. Cunningham, M. Fowler, J. Grenning, J. Highsmith, A. Hunt, R. Jeffries" for entry DevopsAgile
 while executing---line 1165 of file IEEEsort.bst
@@ -50,48 +57,54 @@ Too many commas in name 1 of "K. Beck, M. Beedle, A. Van Bennekum, A. Cockburn, 
 while executing---line 1165 of file IEEEsort.bst
 Too many commas in name 1 of "K. Beck, M. Beedle, A. Van Bennekum, A. Cockburn, W. Cunningham, M. Fowler, J. Grenning, J. Highsmith, A. Hunt, R. Jeffries" for entry DevopsAgile
 while executing---line 1165 of file IEEEsort.bst
+Name 1 in "M. Artac, T. Borovssak, E. D. Nitto, M. Guerriero, and D. A. Tamburri" has a comma at the end for entry DevopsIaac2
+while executing---line 1165 of file IEEEsort.bst
+Too many commas in name 1 of "M. Artac, T. Borovssak, E. D. Nitto, M. Guerriero, and D. A. Tamburri" for entry DevopsIaac2
+while executing---line 1165 of file IEEEsort.bst
+Name 1 in "N. Delgado, A. Q. Gates, and S. Roach" has a comma at the end for entry DevopsMonitor
+while executing---line 1165 of file IEEEsort.bst
 Name 1 in "R. Jabbari, N. Ali, K. Petersen, and B. Tanveer" has a comma at the end for entry DevopsDef1
 while executing---line 1165 of file IEEEsort.bst
 Warning--empty booktitle in DevopsDef1
-You've used 19 entries,
+You've used 23 entries,
             2163 wiz_defined-function locations,
-            652 strings with 7159 characters,
-and the built_in function-call counts, 5670 in all, are:
-= -- 544
-> -- 224
-< -- 2
-+ -- 91
-- -- 70
-* -- 410
-:= -- 927
-add.period$ -- 19
-call.type$ -- 19
-change.case$ -- 89
+            676 strings with 7700 characters,
+and the built_in function-call counts, 6707 in all, are:
+= -- 637
+> -- 264
+< -- 3
++ -- 108
+- -- 82
+* -- 479
+:= -- 1098
+add.period$ -- 23
+call.type$ -- 23
+change.case$ -- 106
 chr.to.int$ -- 0
-cite$ -- 22
-duplicate$ -- 236
-empty$ -- 503
-format.name$ -- 70
-if$ -- 1204
+cite$ -- 27
+duplicate$ -- 281
+empty$ -- 604
+format.name$ -- 82
+if$ -- 1424
 int.to.chr$ -- 0
-int.to.str$ -- 19
-missing$ -- 20
-newline$ -- 97
-num.names$ -- 36
-pop$ -- 126
+int.to.str$ -- 23
+missing$ -- 24
+newline$ -- 116
+num.names$ -- 44
+pop$ -- 158
 preamble$ -- 1
-purify$ -- 73
+purify$ -- 87
 quote$ -- 0
-skip$ -- 151
+skip$ -- 179
 stack$ -- 0
-substring$ -- 328
-swap$ -- 40
-text.length$ -- 2
+substring$ -- 370
+swap$ -- 46
+text.length$ -- 3
 text.prefix$ -- 0
 top$ -- 0
-type$ -- 70
-warning$ -- 3
-while$ -- 51
-width$ -- 21
-write$ -- 202
-(There were 16 error messages)
+type$ -- 84
+warning$ -- 4
+while$ -- 60
+width$ -- 25
+write$ -- 242
+(There were 22 error messages)
