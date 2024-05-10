@@ -4,10 +4,10 @@
 \contentsline {subsection}{\numberline {2-1-1}تعریف}{2}{}%
 \contentsline {subsection}{\numberline {2-1-2}چرخه کاری \lr {DevOps}}{3}{}%
 \contentsline {subsection}{\numberline {2-1-3}خط لوله \lr {CI/CD}}{4}{}%
-\contentsline {subsection}{\numberline {2-1-4}مزایای متدلوژی \lr {DevOps}}{6}{}%
-\contentsline {chapter}{\numberline {3}مدل بینایی انسان و کاربرد آن در نهان\nobreakspace {}نگاری}{8}{}%
-\contentsline {section}{\numberline {3-1}مقدمه}{8}{}%
-\contentsline {chapter}{\numberline {4}آنتروپی و استفاده از آن در نهان\nobreakspace {}نگاری}{9}{}%
-\contentsline {section}{\numberline {4-1}مقدمه}{9}{}%
-\contentsline {section}{\numberline {4-2}آنتروپی}{9}{}%
-\contentsline {chapter}{\numberline {5}نتیجه‌گیری و پیشنهادات}{10}{}%
+\contentsline {subsection}{\numberline {2-1-4}مزایای متدلوژی \lr {DevOps}}{7}{}%
+\contentsline {chapter}{\numberline {3}مدل بینایی انسان و کاربرد آن در نهان\nobreakspace {}نگاری}{9}{}%
+\contentsline {section}{\numberline {3-1}مقدمه}{9}{}%
+\contentsline {chapter}{\numberline {4}آنتروپی و استفاده از آن در نهان\nobreakspace {}نگاری}{10}{}%
+\contentsline {section}{\numberline {4-1}مقدمه}{10}{}%
+\contentsline {section}{\numberline {4-2}آنتروپی}{10}{}%
+\contentsline {chapter}{\numberline {5}نتیجه‌گیری و پیشنهادات}{11}{}%
