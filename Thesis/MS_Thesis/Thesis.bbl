@@ -4,6 +4,16 @@
 ``What is devops?,'' URL: \url{https://aws.amazon.com/devops/what-is-devops/}
   [Accessed: 2024-05-07].
 
+\bibitem{virtualization2}
+``What is virtualization?,'' URL:
+  \url{https://aws.amazon.com/what-is/virtualization/} [Accessed: 2024-05-08].
+
+\bibitem{virtualization1}
+L~Navarro E Hernanchez-sanchez F~Rodriguez-Haro, F~Freitag,
+\newblock ``A summary of virtualization techniques,''
+\newblock in {\em Iberoamerican Conference on Electronics Engineering and
+  Computer Science}, 2012.
+
 \bibitem{Devopsgitops}
 Anja~Kammer Florian~Beetz and Dr.~Simon Harrer,
 \newblock {\em GitOps Cloud-native Continuous Deployment},
@@ -27,7 +37,7 @@ M.~Huttermann,
 \newblock 2012.
 
 \bibitem{DevopsAgile}
-A.~Van Bennekum A. Cockburn W. Cunningham M. Fowler J. Grenning J. Highsmith A.
+A.~Van Bennekum A. Cockburn-W. Cunningham M. Fowler J. Grenning J. Highsmith A.
   Hunt R.~Jeffries K.~Beck, M.~Beedle,
 \newblock ``Manifesto for agile software development,'' 2001,
 \newblock URL: \url{https://agilemanifesto.org/} [Accessed: 2024-02-17].

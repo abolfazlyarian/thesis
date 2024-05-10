@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999995 (TeX Live 2023) (preloaded format=xelatex 2023.9.1)  10 MAY 2024 17:35
+This is XeTeX, Version 3.141592653-2.6-0.999995 (TeX Live 2023) (preloaded format=xelatex 2023.9.1)  10 MAY 2024 21:00
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -941,28 +941,28 @@ ping=persian-tex-text;"
 (./EnglishAbstract.aux) (./EnglishJeld.aux))
 \openout1 = `Thesis.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 21.
-LaTeX Font Info:    ... okay on input line 21.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 21.
-LaTeX Font Info:    ... okay on input line 21.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 21.
-LaTeX Font Info:    ... okay on input line 21.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 21.
-LaTeX Font Info:    ... okay on input line 21.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 21.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 22.
+LaTeX Font Info:    ... okay on input line 22.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 22.
+LaTeX Font Info:    ... okay on input line 22.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 22.
+LaTeX Font Info:    ... okay on input line 22.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 22.
+LaTeX Font Info:    ... okay on input line 22.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 22.
 LaTeX Font Info:    Trying to load font information for TS1+cmr on input line 2
-1.
+2.
 
 (c:/texlive/2023/texmf-dist/tex/latex/base/ts1cmr.fd
 File: ts1cmr.fd 2022/07/10 v2.5l Standard LaTeX font definitions
 )
-LaTeX Font Info:    ... okay on input line 21.
-LaTeX Font Info:    Checking defaults for TU/lmr/m/n on input line 21.
-LaTeX Font Info:    ... okay on input line 21.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 21.
-LaTeX Font Info:    ... okay on input line 21.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 21.
-LaTeX Font Info:    ... okay on input line 21.
+LaTeX Font Info:    ... okay on input line 22.
+LaTeX Font Info:    Checking defaults for TU/lmr/m/n on input line 22.
+LaTeX Font Info:    ... okay on input line 22.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 22.
+LaTeX Font Info:    ... okay on input line 22.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 22.
+LaTeX Font Info:    ... okay on input line 22.
 
 *geometry* driver: auto-detecting
 *geometry* detected driver: xetex
@@ -1103,11 +1103,11 @@ LaTeX Font Info:    Font shape `TU/IRLotusICEE.ttf(1)/m/it' will be
 
 ]
 LaTeX Font Info:    Font shape `TU/IRTitr.ttf(0)/m/n' will be
-(Font)              scaled to size 24.88pt on input line 36.
+(Font)              scaled to size 24.88pt on input line 37.
 
 
 LaTeX Font Warning: Font shape `TU/IRTitr.ttf(0)/b/n' undefined
-(Font)              using `TU/IRTitr.ttf(0)/m/n' instead on input line 36.
+(Font)              using `TU/IRTitr.ttf(0)/m/n' instead on input line 37.
 
 (./Thesis.toc)
 \tf@toc=\write4
@@ -1119,7 +1119,7 @@ LaTeX Font Warning: Font shape `TU/IRTitr.ttf(0)/b/n' undefined
 
 ]
 LaTeX Font Info:    Font shape `TU/IRTitr.ttf(0)/b/n' will be
-(Font)              scaled to size 24.88pt on input line 37.
+(Font)              scaled to size 24.88pt on input line 38.
  (./Thesis.lot)
 \tf@lot=\write5
 \openout5 = `Thesis.lot'.
@@ -1237,7 +1237,10 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 
 (fancyhdr)                \addtolength{\topmargin}{-1.7346pt}.
 
-[8])
+[8]
+File: ./picture//virtualization-hypervisor1.png Graphic file (type bmp)
+<./picture//virtualization-hypervisor1.png>
+
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
 (fancyhdr)                Make it at least 13.7346pt, for example:
@@ -1246,15 +1249,33 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 
 (fancyhdr)                \addtolength{\topmargin}{-1.7346pt}.
 
-[9]
+[9])
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 13.7346pt, for example:
+(fancyhdr)                \setlength{\headheight}{13.7346pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-1.7346pt}.
+
+[10]
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 13.7346pt, for example:
+(fancyhdr)                \setlength{\headheight}{13.7346pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-1.7346pt}.
+
+[11]
 \openout2 = `HVS.aux'.
 
  (./HVS.tex
 فصل 3.
 
-LaTeX Warning: Citation `LevFo04' on page 10 undefined on input line 9.
+LaTeX Warning: Citation `LevFo04' on page 12 undefined on input line 9.
 
-) [10
+) [12
 
 
 
@@ -1264,7 +1285,7 @@ LaTeX Warning: Citation `LevFo04' on page 10 undefined on input line 9.
 
  (./Entropy.tex
 فصل 4.
-) [11
+) [13
 
 
 
@@ -1274,7 +1295,7 @@ LaTeX Warning: Citation `LevFo04' on page 10 undefined on input line 9.
 
  (./Conclusion.tex
 فصل 5.
-) [12
+) [14
 
 
 
@@ -1286,7 +1307,7 @@ Underfull \hbox (badness 1342) in paragraph at lines 4--6
 ][][][][]$ [Accessed:[]
  []
 
-) [13
+) [15
 
 
 
@@ -1303,7 +1324,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 40--49
 [][]
  []
 
-) [14
+) [16
 
 ]
 \openout2 = `EnglishJeld.aux'.
@@ -1311,7 +1332,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 40--49
  (./EnglishJeld.tex
 File: Sharif_Logo.pdf Graphic file (type pdf)
 <use Sharif_Logo.pdf>
-) [15
+) [17
 
 
 
@@ -1335,12 +1356,12 @@ LaTeX Warning: There were undefined references.
 ### simple group (level 1) entered at line 21 ({)
 ### bottom level 
 Here is how much of TeX's memory you used:
- 20181 strings out of 476683
- 454464 string characters out of 5807576
- 1902012 words of memory out of 5000000
- 39854 multiletter control sequences out of 15000+600000
+ 20220 strings out of 476683
+ 455292 string characters out of 5807576
+ 1901012 words of memory out of 5000000
+ 39888 multiletter control sequences out of 15000+600000
  517857 words of font info for 118 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
  87i,11n,97p,1388b,983s stack positions out of 10000i,1000n,20000p,200000b,200000s
 
-Output written on Thesis.pdf (25 pages).
+Output written on Thesis.pdf (27 pages).
