@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999995 (TeX Live 2023) (preloaded format=xelatex 2023.9.1)  10 MAY 2024 23:00
+This is XeTeX, Version 3.141592653-2.6-0.999995 (TeX Live 2023) (preloaded format=xelatex 2023.9.1)  10 MAY 2024 23:49
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1325,7 +1325,7 @@ LaTeX Warning: Citation `LevFo04' on page 14 undefined on input line 9.
 
 
 ] (./Thesis.bbl
-Underfull \hbox (badness 1342) in paragraph at lines 4--6
+Underfull \hbox (badness 1342) in paragraph at lines 11--13
 [][]\TU/lmroman10-regular(0)/m/n/10 “What is devops?,” URL: $[][][][][] [] [] [
 ] [][][] [] [][][][][][] [] [][][] [] [][][][][][] [] [][][][][][][][][][][][][
 ][][][][]$ [Accessed:[]
@@ -1380,10 +1380,10 @@ LaTeX Warning: There were undefined references.
 ### simple group (level 1) entered at line 21 ({)
 ### bottom level 
 Here is how much of TeX's memory you used:
- 20250 strings out of 476683
- 456115 string characters out of 5807576
+ 20253 strings out of 476683
+ 456143 string characters out of 5807576
  1902012 words of memory out of 5000000
- 39916 multiletter control sequences out of 15000+600000
+ 39919 multiletter control sequences out of 15000+600000
  517857 words of font info for 118 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
  87i,11n,97p,1388b,983s stack positions out of 10000i,1000n,20000p,200000b,200000s

@@ -1,5 +1,12 @@
 \begin{thebibliography}{10}
 
+\bibitem{Docker2}
+``containerization,'' URL: \url{https://www.ibm.com/topics/containerization}
+  [Accessed: 2023-05-21].
+
+\bibitem{Docker1}
+``Docker,'' URL: \url{https://docs.docker.com/} [Accessed: 2023-05-18].
+
 \bibitem{DevopsDef2}
 ``What is devops?,'' URL: \url{https://aws.amazon.com/devops/what-is-devops/}
   [Accessed: 2024-05-07].
@@ -7,6 +14,12 @@
 \bibitem{virtualization2}
 ``What is virtualization?,'' URL:
   \url{https://aws.amazon.com/what-is/virtualization/} [Accessed: 2024-05-08].
+
+\bibitem{Dockervm}
+Shivaraj Kengondc Mohammed Moin~Mullad Amit M~Potdara, Narayan D~Gb,
+\newblock ``Performance evaluation of docker container and virtual machine,''
+\newblock in {\em International Conference on Computing and Network
+  Communications}, June 2020.
 
 \bibitem{virtualization1}
 L~Navarro E Hernanchez-sanchez F~Rodriguez-Haro, F~Freitag,
