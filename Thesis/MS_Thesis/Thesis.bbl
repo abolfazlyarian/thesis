@@ -1,8 +1,13 @@
 \begin{thebibliography}{10}
 
 \bibitem{DevopsDef2}
-``What is devops? https://aws.amazon.com/devops/what-is-devops/ [accessed:
-  2024-05-07],'' .
+``What is devops?,'' URL: \url{https://aws.amazon.com/devops/what-is-devops/}
+  [Accessed: 2024-05-07].
+
+\bibitem{Devopsgitops}
+Anja~Kammer Florian~Beetz and Dr.~Simon Harrer,
+\newblock {\em GitOps Cloud-native Continuous Deployment},
+\newblock 2021.
 
 \bibitem{Devopsorg}
 N.~Forsgren and J.~Humble,
@@ -25,7 +30,7 @@ M.~Huttermann,
 A.~Van Bennekum A. Cockburn W. Cunningham M. Fowler J. Grenning J. Highsmith A.
   Hunt R.~Jeffries K.~Beck, M.~Beedle,
 \newblock ``Manifesto for agile software development,'' 2001,
-\newblock https://agilemanifesto.org/ [Accessed: 2024-02-17].
+\newblock URL: \url{https://agilemanifesto.org/} [Accessed: 2024-02-17].
 
 \bibitem{DevopsIaac2}
 E.~D. Nitto M.~Guerriero M.~Artac, T.~Borovssak and D.~A. Tamburri,
@@ -42,14 +47,20 @@ A.~Q.~Gates N.~Delgado and S.~Roach,
 
 \bibitem{Devopstrunk}
 paul hammant,
-\newblock ``Trunk based development,'' https://trunkbaseddevelopment.com/
-  [Accessed: 2023-11-01].
+\newblock ``Trunk based development,'' URL:
+  \url{https://trunkbaseddevelopment.com/} [Accessed: 2023-11-01].
 
 \bibitem{DevopsDef1}
 K.~Petersen R.~Jabbari, N.~Ali and B.~Tanveer,
 \newblock ``What is devops?: A systematic mapping study on definitions and
   practices,''
 \newblock May 2016.
+
+\bibitem{DevopsCICD2}
+Indika~Perera S.A.I.B.S.~Arachchi,
+\newblock ``Continuous integration and continuous delivery pipeline automation
+  for agile software project management,''
+\newblock in {\em Moratuwa Engineering Research Conference (MERCon)}, May 2018.
 
 \bibitem{DevopsCICD1}
 M.~Virmani,

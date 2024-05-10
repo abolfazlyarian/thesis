@@ -41,6 +41,11 @@ Too many commas in name 1 of "M. Artac, T. Borovssak, E. D. Nitto, M. Guerriero,
 while executing---line 1120 of file IEEEsort.bst
 Name 1 in "N. Delgado, A. Q. Gates, and S. Roach" has a comma at the end for entry DevopsMonitor
 while executing---line 1120 of file IEEEsort.bst
+Name 1 in "Florian Beetz, Anja Kammer, and Dr. Simon Harrer" has a comma at the end for entry Devopsgitops
+while executing---line 1120 of file IEEEsort.bst
+Name 1 in "Florian Beetz, Anja Kammer, and Dr. Simon Harrer" has a comma at the end for entry Devopsgitops
+while executing---line 1165 of file IEEEsort.bst
+Warning--empty publisher in Devopsgitops
 Warning--empty publisher in DevopsIaac1
 Too many commas in name 1 of "K. Beck, M. Beedle, A. Van Bennekum, A. Cockburn, W. Cunningham, M. Fowler, J. Grenning, J. Highsmith, A. Hunt, R. Jeffries" for entry DevopsAgile
 while executing---line 1165 of file IEEEsort.bst
@@ -65,45 +70,45 @@ while executing---line 1165 of file IEEEsort.bst
 Name 1 in "R. Jabbari, N. Ali, K. Petersen, and B. Tanveer" has a comma at the end for entry DevopsDef1
 while executing---line 1165 of file IEEEsort.bst
 Warning--empty booktitle in DevopsDef1
-You've used 10 entries,
+You've used 12 entries,
             2163 wiz_defined-function locations,
-            581 strings with 5776 characters,
-and the built_in function-call counts, 2451 in all, are:
-= -- 213
-> -- 94
+            593 strings with 6138 characters,
+and the built_in function-call counts, 2950 in all, are:
+= -- 257
+> -- 114
 < -- 1
-+ -- 40
-- -- 28
-* -- 150
-:= -- 404
-add.period$ -- 10
-call.type$ -- 10
-change.case$ -- 42
++ -- 48
+- -- 34
+* -- 180
+:= -- 488
+add.period$ -- 12
+call.type$ -- 12
+change.case$ -- 50
 chr.to.int$ -- 0
-cite$ -- 13
-duplicate$ -- 112
-empty$ -- 249
-format.name$ -- 28
-if$ -- 521
+cite$ -- 16
+duplicate$ -- 138
+empty$ -- 299
+format.name$ -- 34
+if$ -- 628
 int.to.chr$ -- 0
-int.to.str$ -- 10
-missing$ -- 9
-newline$ -- 50
-num.names$ -- 18
-pop$ -- 83
+int.to.str$ -- 12
+missing$ -- 12
+newline$ -- 60
+num.names$ -- 22
+pop$ -- 104
 preamble$ -- 1
-purify$ -- 34
+purify$ -- 41
 quote$ -- 0
-skip$ -- 75
+skip$ -- 85
 stack$ -- 0
-substring$ -- 73
-swap$ -- 14
+substring$ -- 83
+swap$ -- 17
 text.length$ -- 1
 text.prefix$ -- 0
 top$ -- 0
-type$ -- 36
-warning$ -- 3
-while$ -- 19
-width$ -- 12
-write$ -- 98
-(There were 22 error messages)
+type$ -- 42
+warning$ -- 4
+while$ -- 23
+width$ -- 14
+write$ -- 118
+(There were 24 error messages)
