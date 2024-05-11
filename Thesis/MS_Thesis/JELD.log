@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999995 (TeX Live 2023) (preloaded format=xelatex 2023.9.1)  4 MAY 2024 16:58
+This is XeTeX, Version 3.141592653-2.6-0.999995 (TeX Live 2023) (preloaded format=xelatex 2023.9.1)  11 MAY 2024 23:30
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -7,8 +7,8 @@ entering extended mode
 LaTeX2e <2022-11-01> patch level 1
 L3 programming layer <2023-02-22>
 ! Undefined control sequence.
-l.6 \mainjeldfont
-                 
+l.6 ^^I\mainjeldfont
+                    
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
 misspelled it (e.g., `\hobx'), type `I' and the correct
@@ -22,15 +22,15 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.8 \begin{latin}
-                 
+l.8 ^^I\begin{latin}
+                    
 Your command was ignored.
 Type  I <command> <return>  to replace it with another command,
 or  <return>  to continue without it.
 
 ! Undefined control sequence.
-l.10 \includegraphics
-                     [width=4cm]{Sharif_Logo.pdf}
+l.10 ^^I^^I\includegraphics
+                           [width=4cm]{Sharif_Logo.pdf}
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
 misspelled it (e.g., `\hobx'), type `I' and the correct
@@ -44,8 +44,8 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.10 \includegraphics[
-                      width=4cm]{Sharif_Logo.pdf}
+l.10 ^^I^^I\includegraphics[
+                            width=4cm]{Sharif_Logo.pdf}
 You're in trouble here.  Try typing  <return>  to proceed.
 If that doesn't work, type  X <return>  to quit.
 
@@ -69,8 +69,8 @@ Missing character: There is no f ("66) in font nullfont!
 ! Missing $ inserted.
 <inserted text> 
                 $
-l.10 \includegraphics[width=4cm]{Sharif_
-                                        Logo.pdf}
+l.10 ^^I^^I\includegraphics[width=4cm]{Sharif_
+                                              Logo.pdf}
 I've inserted a begin-math/end-math symbol since I think
 you left one out. Proceed, with fingers crossed.
 
@@ -79,8 +79,8 @@ LaTeX Font Info:    External font `cmex10' loaded for size
 LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <5> on input line 10.
 ! Extra }, or forgotten $.
-l.10 \includegraphics[width=4cm]{Sharif_Logo.pdf}
-                                                 
+l.10 ...ncludegraphics[width=4cm]{Sharif_Logo.pdf}
+                                                  
 I've deleted a group-closing symbol because it seems to be
 spurious, as in `$x}$'. But perhaps the } is legitimate and
 you forgot something else, as in `\hbox{$x}'. In such cases
@@ -94,8 +94,8 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.11 \end{latin}
-                
+l.11 ^^I\end{latin}
+                   
 Your command was ignored.
 Type  I <command> <return>  to replace it with another command,
 or  <return>  to continue without it.
@@ -103,8 +103,8 @@ or  <return>  to continue without it.
 ! Missing $ inserted.
 <inserted text> 
                 $
-l.11 \end{latin}
-                
+l.11 ^^I\end{latin}
+                   
 I've inserted something that you may have forgotten.
 (See the <inserted text> above.)
 With luck, this will get me unwedged. But if you
@@ -114,8 +114,8 @@ my insertion and my current dilemma will both disappear.
 ! Missing } inserted.
 <inserted text> 
                 }
-l.11 \end{latin}
-                
+l.11 ^^I\end{latin}
+                   
 I've inserted something that you may have forgotten.
 (See the <inserted text> above.)
 With luck, this will get me unwedged. But if you
@@ -128,8 +128,8 @@ Overfull \hbox (38.12856pt too wide) in paragraph at lines 10--13
  []
 
 ! Undefined control sequence.
-l.16 {\Large
-             دانشگاه صنعتی شریف \\ \vspace{0mm} \large دانشکده مهندسی برق}
+l.16 ^^I{\Large
+                دانشگاه صنعتی شریف \\ \vspace{0mm} \large دانشکده مهندسی برق}
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
 misspelled it (e.g., `\hobx'), type `I' and the correct
@@ -143,8 +143,8 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.16 {\Large د
-              انشگاه صنعتی شریف \\ \vspace{0mm} \large دانشکده مهندسی برق}
+l.16 ^^I{\Large د
+                 انشگاه صنعتی شریف \\ \vspace{0mm} \large دانشکده مهندسی برق}
 You're in trouble here.  Try typing  <return>  to proceed.
 If that doesn't work, type  X <return>  to quit.
 
@@ -202,8 +202,8 @@ Missing character: There is no ب ("628) in font nullfont!
 Missing character: There is no ر ("631) in font nullfont!
 Missing character: There is no ق ("642) in font nullfont!
 ! Undefined control sequence.
-l.20 {\large
-             پایان~نامه کارشناسی ارشد\par}
+l.20 ^^I{\large
+                پایان~نامه کارشناسی ارشد\par}
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
 misspelled it (e.g., `\hobx'), type `I' and the correct
@@ -217,8 +217,8 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.20 {\large پ
-              ایان~نامه کارشناسی ارشد\par}
+l.20 ^^I{\large پ
+                 ایان~نامه کارشناسی ارشد\par}
 You're in trouble here.  Try typing  <return>  to proceed.
 If that doesn't work, type  X <return>  to quit.
 
@@ -244,8 +244,8 @@ Missing character: There is no ر ("631) in font nullfont!
 Missing character: There is no ش ("634) in font nullfont!
 Missing character: There is no د ("62F) in font nullfont!
 ! Undefined control sequence.
-l.21 {\large
-              گرایش مخابرات\par}
+l.21 ^^I{\large
+                 گرایش سیستم های الکترونیک دیجیتال\par}
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
 misspelled it (e.g., `\hobx'), type `I' and the correct
@@ -259,8 +259,8 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.21 {\large  گ
-               رایش مخابرات\par}
+l.21 ^^I{\large  گ
+                  رایش سیستم های الکترونیک دیجیتال\par}
 You're in trouble here.  Try typing  <return>  to proceed.
 If that doesn't work, type  X <return>  to quit.
 
@@ -269,16 +269,33 @@ Missing character: There is no ر ("631) in font nullfont!
 Missing character: There is no ا ("627) in font nullfont!
 Missing character: There is no ی ("6CC) in font nullfont!
 Missing character: There is no ش ("634) in font nullfont!
-Missing character: There is no م ("645) in font nullfont!
-Missing character: There is no خ ("62E) in font nullfont!
-Missing character: There is no ا ("627) in font nullfont!
-Missing character: There is no ب ("628) in font nullfont!
-Missing character: There is no ر ("631) in font nullfont!
-Missing character: There is no ا ("627) in font nullfont!
+Missing character: There is no س ("633) in font nullfont!
+Missing character: There is no ی ("6CC) in font nullfont!
+Missing character: There is no س ("633) in font nullfont!
 Missing character: There is no ت ("62A) in font nullfont!
+Missing character: There is no م ("645) in font nullfont!
+Missing character: There is no ه ("647) in font nullfont!
+Missing character: There is no ا ("627) in font nullfont!
+Missing character: There is no ی ("6CC) in font nullfont!
+Missing character: There is no ا ("627) in font nullfont!
+Missing character: There is no ل ("644) in font nullfont!
+Missing character: There is no ک ("6A9) in font nullfont!
+Missing character: There is no ت ("62A) in font nullfont!
+Missing character: There is no ر ("631) in font nullfont!
+Missing character: There is no و ("648) in font nullfont!
+Missing character: There is no ن ("646) in font nullfont!
+Missing character: There is no ی ("6CC) in font nullfont!
+Missing character: There is no ک ("6A9) in font nullfont!
+Missing character: There is no د ("62F) in font nullfont!
+Missing character: There is no ی ("6CC) in font nullfont!
+Missing character: There is no ج ("62C) in font nullfont!
+Missing character: There is no ی ("6CC) in font nullfont!
+Missing character: There is no ت ("62A) in font nullfont!
+Missing character: There is no ا ("627) in font nullfont!
+Missing character: There is no ل ("644) in font nullfont!
 ! Undefined control sequence.
-l.23 {\Huge
-            \textbf{مدلسازی نهان~نگاری تصویر بر اساس تئوری اطلاعات} }\par
+l.23 ^^I{\Huge
+               \textbf{پیاده سازی یک پلتفرم MLOps به صورت ابری روی GPU} }\par
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
 misspelled it (e.g., `\hobx'), type `I' and the correct
@@ -292,16 +309,20 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.23 ...زی نهان~نگاری تصویر بر اساس تئوری اطلاعات}
+l.23 ...سازی یک پلتفرم MLOps به صورت ابری روی GPU}
                                                    }\par
 You're in trouble here.  Try typing  <return>  to proceed.
 If that doesn't work, type  X <return>  to quit.
 
-Missing character: There is no م (U+0645) in font [lmroman10-bold]:mapping=tex-
+Missing character: There is no پ (U+067E) in font [lmroman10-bold]:mapping=tex-
+text;!
+Missing character: There is no ی (U+06CC) in font [lmroman10-bold]:mapping=tex-
+text;!
+Missing character: There is no ا (U+0627) in font [lmroman10-bold]:mapping=tex-
 text;!
 Missing character: There is no د (U+062F) in font [lmroman10-bold]:mapping=tex-
 text;!
-Missing character: There is no ل (U+0644) in font [lmroman10-bold]:mapping=tex-
+Missing character: There is no ه (U+0647) in font [lmroman10-bold]:mapping=tex-
 text;!
 Missing character: There is no س (U+0633) in font [lmroman10-bold]:mapping=tex-
 text;!
@@ -311,108 +332,101 @@ Missing character: There is no ز (U+0632) in font [lmroman10-bold]:mapping=tex-
 text;!
 Missing character: There is no ی (U+06CC) in font [lmroman10-bold]:mapping=tex-
 text;!
-Missing character: There is no ن (U+0646) in font [lmroman10-bold]:mapping=tex-
+Missing character: There is no ی (U+06CC) in font [lmroman10-bold]:mapping=tex-
 text;!
-Missing character: There is no ه (U+0647) in font [lmroman10-bold]:mapping=tex-
+Missing character: There is no ک (U+06A9) in font [lmroman10-bold]:mapping=tex-
 text;!
-Missing character: There is no ا (U+0627) in font [lmroman10-bold]:mapping=tex-
+Missing character: There is no پ (U+067E) in font [lmroman10-bold]:mapping=tex-
 text;!
-Missing character: There is no ن (U+0646) in font [lmroman10-bold]:mapping=tex-
+Missing character: There is no ل (U+0644) in font [lmroman10-bold]:mapping=tex-
 text;!
-Missing character: There is no ن (U+0646) in font [lmroman10-bold]:mapping=tex-
+Missing character: There is no ت (U+062A) in font [lmroman10-bold]:mapping=tex-
 text;!
-Missing character: There is no گ (U+06AF) in font [lmroman10-bold]:mapping=tex-
-text;!
-Missing character: There is no ا (U+0627) in font [lmroman10-bold]:mapping=tex-
+Missing character: There is no ف (U+0641) in font [lmroman10-bold]:mapping=tex-
 text;!
 Missing character: There is no ر (U+0631) in font [lmroman10-bold]:mapping=tex-
 text;!
-Missing character: There is no ی (U+06CC) in font [lmroman10-bold]:mapping=tex-
+Missing character: There is no م (U+0645) in font [lmroman10-bold]:mapping=tex-
 text;!
-Missing character: There is no ت (U+062A) in font [lmroman10-bold]:mapping=tex-
+Missing character: There is no ب (U+0628) in font [lmroman10-bold]:mapping=tex-
+text;!
+Missing character: There is no ه (U+0647) in font [lmroman10-bold]:mapping=tex-
 text;!
 Missing character: There is no ص (U+0635) in font [lmroman10-bold]:mapping=tex-
 text;!
 Missing character: There is no و (U+0648) in font [lmroman10-bold]:mapping=tex-
 text;!
-Missing character: There is no ی (U+06CC) in font [lmroman10-bold]:mapping=tex-
-text;!
 Missing character: There is no ر (U+0631) in font [lmroman10-bold]:mapping=tex-
+text;!
+Missing character: There is no ت (U+062A) in font [lmroman10-bold]:mapping=tex-
+text;!
+Missing character: There is no ا (U+0627) in font [lmroman10-bold]:mapping=tex-
 text;!
 Missing character: There is no ب (U+0628) in font [lmroman10-bold]:mapping=tex-
 text;!
 Missing character: There is no ر (U+0631) in font [lmroman10-bold]:mapping=tex-
 text;!
-Missing character: There is no ا (U+0627) in font [lmroman10-bold]:mapping=tex-
-text;!
-Missing character: There is no س (U+0633) in font [lmroman10-bold]:mapping=tex-
-text;!
-Missing character: There is no ا (U+0627) in font [lmroman10-bold]:mapping=tex-
-text;!
-Missing character: There is no س (U+0633) in font [lmroman10-bold]:mapping=tex-
-text;!
-Missing character: There is no ت (U+062A) in font [lmroman10-bold]:mapping=tex-
-text;!
-Missing character: There is no ئ (U+0626) in font [lmroman10-bold]:mapping=tex-
-text;!
-Missing character: There is no و (U+0648) in font [lmroman10-bold]:mapping=tex-
+Missing character: There is no ی (U+06CC) in font [lmroman10-bold]:mapping=tex-
 text;!
 Missing character: There is no ر (U+0631) in font [lmroman10-bold]:mapping=tex-
 text;!
+Missing character: There is no و (U+0648) in font [lmroman10-bold]:mapping=tex-
+text;!
 Missing character: There is no ی (U+06CC) in font [lmroman10-bold]:mapping=tex-
 text;!
-Missing character: There is no ا (U+0627) in font [lmroman10-bold]:mapping=tex-
-text;!
-Missing character: There is no ط (U+0637) in font [lmroman10-bold]:mapping=tex-
-text;!
-Missing character: There is no ل (U+0644) in font [lmroman10-bold]:mapping=tex-
-text;!
-Missing character: There is no ا (U+0627) in font [lmroman10-bold]:mapping=tex-
-text;!
-Missing character: There is no ع (U+0639) in font [lmroman10-bold]:mapping=tex-
-text;!
-Missing character: There is no ا (U+0627) in font [lmroman10-bold]:mapping=tex-
-text;!
-Missing character: There is no ت (U+062A) in font [lmroman10-bold]:mapping=tex-
-text;!
-
-Overfull \hbox (19.6pt too wide) in paragraph at lines 23--23
- []\TU/lmr/bx/n/10 مدلسازی 
- []
-
-
-Overfull \hbox (27.75334pt too wide) in paragraph at lines 23--23
- \TU/lmr/bx/n/10 نهان نگاری 
- []
-
 
 Overfull \hbox (14.0pt too wide) in paragraph at lines 23--23
- \TU/lmr/bx/n/10 تصویر 
- []
-
-
-Overfull \hbox (5.6pt too wide) in paragraph at lines 23--23
- \TU/lmr/bx/n/10 بر 
+ []\TU/lmr/bx/n/10 پیاده 
  []
 
 
 Overfull \hbox (11.2pt too wide) in paragraph at lines 23--23
- \TU/lmr/bx/n/10 اساس 
+ \TU/lmr/bx/n/10 سازی 
  []
 
 
-Overfull \hbox (14.0pt too wide) in paragraph at lines 23--23
- \TU/lmr/bx/n/10 تئوری 
+Overfull \hbox (5.6pt too wide) in paragraph at lines 23--23
+ \TU/lmr/bx/n/10 یک 
  []
 
 
-Overfull \hbox (19.6pt too wide) in paragraph at lines 23--23
- \TU/lmr/bx/n/10 اطلاعات 
+Overfull \hbox (16.8pt too wide) in paragraph at lines 23--23
+ \TU/lmr/bx/n/10 پلتفرم 
+ []
+
+
+Overfull \hbox (37.41pt too wide) in paragraph at lines 23--23
+ \TU/lmr/bx/n/10 MLOps 
+ []
+
+
+Overfull \hbox (5.6pt too wide) in paragraph at lines 23--23
+ \TU/lmr/bx/n/10 به 
+ []
+
+
+Overfull \hbox (11.2pt too wide) in paragraph at lines 23--23
+ \TU/lmr/bx/n/10 صورت 
+ []
+
+
+Overfull \hbox (11.2pt too wide) in paragraph at lines 23--23
+ \TU/lmr/bx/n/10 ابری 
+ []
+
+
+Overfull \hbox (8.4pt too wide) in paragraph at lines 23--23
+ \TU/lmr/bx/n/10 روی 
+ []
+
+
+Overfull \hbox (25.75pt too wide) in paragraph at lines 23--23
+ \TU/lmr/bx/n/10 GPU 
  []
 
 ! Undefined control sequence.
-l.27 {\fieldnamefont
-                     نگارنده} \par
+l.27 ^^I{\fieldnamefont
+                        نگارنده} \par
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
 misspelled it (e.g., `\hobx'), type `I' and the correct
@@ -426,8 +440,8 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.27 {\fieldnamefont ن
-                      گارنده} \par
+l.27 ^^I{\fieldnamefont ن
+                         گارنده} \par
 You're in trouble here.  Try typing  <return>  to proceed.
 If that doesn't work, type  X <return>  to quit.
 
@@ -439,8 +453,8 @@ Missing character: There is no ن ("646) in font nullfont!
 Missing character: There is no د ("62F) in font nullfont!
 Missing character: There is no ه ("647) in font nullfont!
 ! Undefined control sequence.
-l.28 {\Large
-            \textbf{ابوالفضل یاریان}}
+l.28 ^^I{\Large
+               \textbf{ابوالفضل یاریان}}
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
 misspelled it (e.g., `\hobx'), type `I' and the correct
@@ -454,8 +468,8 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.28 {\Large\textbf{ابوالفضل یاریان}
-                                    }
+l.28 ^^I{\Large\textbf{ابوالفضل یاریان}
+                                       }
 You're in trouble here.  Try typing  <return>  to proceed.
 If that doesn't work, type  X <return>  to quit.
 
@@ -498,8 +512,8 @@ Overfull \hbox (16.8pt too wide) in paragraph at lines 28--29
  []
 
 ! Undefined control sequence.
-l.31 {\fieldnamefont
-                     استاد راهنما} \par
+l.31 ^^I{\fieldnamefont
+                        استاد راهنما} \par
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
 misspelled it (e.g., `\hobx'), type `I' and the correct
@@ -513,8 +527,8 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.31 {\fieldnamefont ا
-                      ستاد راهنما} \par
+l.31 ^^I{\fieldnamefont ا
+                         ستاد راهنما} \par
 You're in trouble here.  Try typing  <return>  to proceed.
 If that doesn't work, type  X <return>  to quit.
 
@@ -530,8 +544,8 @@ Missing character: There is no ن ("646) in font nullfont!
 Missing character: There is no م ("645) in font nullfont!
 Missing character: There is no ا ("627) in font nullfont!
 ! Undefined control sequence.
-l.32 {\Large
-            \textbf{دکتر مسعود بابائی‌زاده}}\\
+l.32 ^^I{\Large
+               \textbf{دکتر متین هاشمی}}\\
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
 misspelled it (e.g., `\hobx'), type `I' and the correct
@@ -545,8 +559,8 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.32 {\Large\textbf{دکتر مسعود بابائی‌زاده}
-                                           }\\
+l.32 ^^I{\Large\textbf{دکتر متین هاشمی}
+                                       }\\
 You're in trouble here.  Try typing  <return>  to proceed.
 If that doesn't work, type  X <return>  to quit.
 
@@ -560,35 +574,21 @@ Missing character: There is no ر (U+0631) in font [lmroman10-bold]:mapping=tex-
 text;!
 Missing character: There is no م (U+0645) in font [lmroman10-bold]:mapping=tex-
 text;!
-Missing character: There is no س (U+0633) in font [lmroman10-bold]:mapping=tex-
-text;!
-Missing character: There is no ع (U+0639) in font [lmroman10-bold]:mapping=tex-
-text;!
-Missing character: There is no و (U+0648) in font [lmroman10-bold]:mapping=tex-
-text;!
-Missing character: There is no د (U+062F) in font [lmroman10-bold]:mapping=tex-
-text;!
-Missing character: There is no ب (U+0628) in font [lmroman10-bold]:mapping=tex-
-text;!
-Missing character: There is no ا (U+0627) in font [lmroman10-bold]:mapping=tex-
-text;!
-Missing character: There is no ب (U+0628) in font [lmroman10-bold]:mapping=tex-
-text;!
-Missing character: There is no ا (U+0627) in font [lmroman10-bold]:mapping=tex-
-text;!
-Missing character: There is no ئ (U+0626) in font [lmroman10-bold]:mapping=tex-
+Missing character: There is no ت (U+062A) in font [lmroman10-bold]:mapping=tex-
 text;!
 Missing character: There is no ی (U+06CC) in font [lmroman10-bold]:mapping=tex-
 text;!
-Missing character: There is no ‌ (U+200C) in font [lmroman10-bold]:mapping=tex-
+Missing character: There is no ن (U+0646) in font [lmroman10-bold]:mapping=tex-
 text;!
-Missing character: There is no ز (U+0632) in font [lmroman10-bold]:mapping=tex-
+Missing character: There is no ه (U+0647) in font [lmroman10-bold]:mapping=tex-
 text;!
 Missing character: There is no ا (U+0627) in font [lmroman10-bold]:mapping=tex-
 text;!
-Missing character: There is no د (U+062F) in font [lmroman10-bold]:mapping=tex-
+Missing character: There is no ش (U+0634) in font [lmroman10-bold]:mapping=tex-
 text;!
-Missing character: There is no ه (U+0647) in font [lmroman10-bold]:mapping=tex-
+Missing character: There is no م (U+0645) in font [lmroman10-bold]:mapping=tex-
+text;!
+Missing character: There is no ی (U+06CC) in font [lmroman10-bold]:mapping=tex-
 text;!
 
 Overfull \hbox (11.2pt too wide) in paragraph at lines 32--32
@@ -596,13 +596,13 @@ Overfull \hbox (11.2pt too wide) in paragraph at lines 32--32
  []
 
 
-Overfull \hbox (14.0pt too wide) in paragraph at lines 32--32
- \TU/lmr/bx/n/10 مسعود 
+Overfull \hbox (11.2pt too wide) in paragraph at lines 32--32
+ \TU/lmr/bx/n/10 متین 
  []
 
 
-Overfull \hbox (28.0pt too wide) in paragraph at lines 32--32
- \TU/lmr/bx/n/10 بابائی‌زاده 
+Overfull \hbox (14.0pt too wide) in paragraph at lines 32--32
+ \TU/lmr/bx/n/10 هاشمی 
  []
 
 
@@ -612,22 +612,20 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.43 {\textbf{شهریورماه ۱۳۸۴}
-                             }
+l.43 ^^I{\textbf{خردادماه 1403}
+                               }
 You're in trouble here.  Try typing  <return>  to proceed.
 If that doesn't work, type  X <return>  to quit.
 
-Missing character: There is no ش (U+0634) in font [lmroman10-bold]:mapping=tex-
-text;!
-Missing character: There is no ه (U+0647) in font [lmroman10-bold]:mapping=tex-
+Missing character: There is no خ (U+062E) in font [lmroman10-bold]:mapping=tex-
 text;!
 Missing character: There is no ر (U+0631) in font [lmroman10-bold]:mapping=tex-
 text;!
-Missing character: There is no ی (U+06CC) in font [lmroman10-bold]:mapping=tex-
+Missing character: There is no د (U+062F) in font [lmroman10-bold]:mapping=tex-
 text;!
-Missing character: There is no و (U+0648) in font [lmroman10-bold]:mapping=tex-
+Missing character: There is no ا (U+0627) in font [lmroman10-bold]:mapping=tex-
 text;!
-Missing character: There is no ر (U+0631) in font [lmroman10-bold]:mapping=tex-
+Missing character: There is no د (U+062F) in font [lmroman10-bold]:mapping=tex-
 text;!
 Missing character: There is no م (U+0645) in font [lmroman10-bold]:mapping=tex-
 text;!
@@ -635,154 +633,16 @@ Missing character: There is no ا (U+0627) in font [lmroman10-bold]:mapping=tex-
 text;!
 Missing character: There is no ه (U+0647) in font [lmroman10-bold]:mapping=tex-
 text;!
-Missing character: There is no ۱ (U+06F1) in font [lmroman10-bold]:mapping=tex-
-text;!
-Missing character: There is no ۳ (U+06F3) in font [lmroman10-bold]:mapping=tex-
-text;!
-Missing character: There is no ۸ (U+06F8) in font [lmroman10-bold]:mapping=tex-
-text;!
-Missing character: There is no ۴ (U+06F4) in font [lmroman10-bold]:mapping=tex-
-text;!
 
-Overfull \hbox (25.2pt too wide) in paragraph at lines 43--44
- []\TU/lmr/bx/n/10 شهریورماه 
+Overfull \hbox (22.4pt too wide) in paragraph at lines 43--44
+ []\TU/lmr/bx/n/10 خردادماه 
  []
 
 
-Overfull \hbox (11.2pt too wide) in paragraph at lines 43--44
- \TU/lmr/bx/n/10 ۱۳۸۴ 
+Overfull \hbox (23.0pt too wide) in paragraph at lines 43--44
+ \TU/lmr/bx/n/10 1403 
  []
 
-! Undefined control sequence.
-l.47 {\ITRCthanksfont
-                      این پروژه تحت قرارداد پژوهشی شماره ......... مورخ  ......
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-
-! LaTeX Error: Missing \begin{document}.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.47 {\ITRCthanksfont ا
-                       ین پروژه تحت قرارداد پژوهشی شماره ......... مورخ  ......
-
-You're in trouble here.  Try typing  <return>  to proceed.
-If that doesn't work, type  X <return>  to quit.
-
-Missing character: There is no ا ("627) in font nullfont!
-Missing character: There is no ی ("6CC) in font nullfont!
-Missing character: There is no ن ("646) in font nullfont!
-Missing character: There is no پ ("67E) in font nullfont!
-Missing character: There is no ر ("631) in font nullfont!
-Missing character: There is no و ("648) in font nullfont!
-Missing character: There is no ژ ("698) in font nullfont!
-Missing character: There is no ه ("647) in font nullfont!
-Missing character: There is no ت ("62A) in font nullfont!
-Missing character: There is no ح ("62D) in font nullfont!
-Missing character: There is no ت ("62A) in font nullfont!
-Missing character: There is no ق ("642) in font nullfont!
-Missing character: There is no ر ("631) in font nullfont!
-Missing character: There is no ا ("627) in font nullfont!
-Missing character: There is no ر ("631) in font nullfont!
-Missing character: There is no د ("62F) in font nullfont!
-Missing character: There is no ا ("627) in font nullfont!
-Missing character: There is no د ("62F) in font nullfont!
-Missing character: There is no پ ("67E) in font nullfont!
-Missing character: There is no ژ ("698) in font nullfont!
-Missing character: There is no و ("648) in font nullfont!
-Missing character: There is no ه ("647) in font nullfont!
-Missing character: There is no ش ("634) in font nullfont!
-Missing character: There is no ی ("6CC) in font nullfont!
-Missing character: There is no ش ("634) in font nullfont!
-Missing character: There is no م ("645) in font nullfont!
-Missing character: There is no ا ("627) in font nullfont!
-Missing character: There is no ر ("631) in font nullfont!
-Missing character: There is no ه ("647) in font nullfont!
-Missing character: There is no . ("2E) in font nullfont!
-Missing character: There is no . ("2E) in font nullfont!
-Missing character: There is no . ("2E) in font nullfont!
-Missing character: There is no . ("2E) in font nullfont!
-Missing character: There is no . ("2E) in font nullfont!
-Missing character: There is no . ("2E) in font nullfont!
-Missing character: There is no . ("2E) in font nullfont!
-Missing character: There is no . ("2E) in font nullfont!
-Missing character: There is no . ("2E) in font nullfont!
-Missing character: There is no م ("645) in font nullfont!
-Missing character: There is no و ("648) in font nullfont!
-Missing character: There is no ر ("631) in font nullfont!
-Missing character: There is no خ ("62E) in font nullfont!
-Missing character: There is no . ("2E) in font nullfont!
-Missing character: There is no . ("2E) in font nullfont!
-Missing character: There is no . ("2E) in font nullfont!
-Missing character: There is no . ("2E) in font nullfont!
-Missing character: There is no . ("2E) in font nullfont!
-Missing character: There is no . ("2E) in font nullfont!
-Missing character: There is no . ("2E) in font nullfont!
-Missing character: There is no . ("2E) in font nullfont!
-Missing character: There is no ا ("627) in font nullfont!
-Missing character: There is no ز ("632) in font nullfont!
-Missing character: There is no پ ("67E) in font nullfont!
-Missing character: There is no ش ("634) in font nullfont!
-Missing character: There is no ت ("62A) in font nullfont!
-Missing character: There is no ی ("6CC) in font nullfont!
-Missing character: There is no ب ("628) in font nullfont!
-Missing character: There is no ا ("627) in font nullfont!
-Missing character: There is no ن ("646) in font nullfont!
-Missing character: There is no ی ("6CC) in font nullfont!
-Missing character: There is no م ("645) in font nullfont!
-Missing character: There is no ا ("627) in font nullfont!
-Missing character: There is no د ("62F) in font nullfont!
-Missing character: There is no ی ("6CC) in font nullfont!
-Missing character: There is no و ("648) in font nullfont!
-Missing character: There is no م ("645) in font nullfont!
-Missing character: There is no ع ("639) in font nullfont!
-Missing character: There is no ن ("646) in font nullfont!
-Missing character: There is no و ("648) in font nullfont!
-Missing character: There is no ی ("6CC) in font nullfont!
-Missing character: There is no م ("645) in font nullfont!
-Missing character: There is no ر ("631) in font nullfont!
-Missing character: There is no ک ("6A9) in font nullfont!
-Missing character: There is no ز ("632) in font nullfont!
-Missing character: There is no ت ("62A) in font nullfont!
-Missing character: There is no ح ("62D) in font nullfont!
-Missing character: There is no ق ("642) in font nullfont!
-Missing character: There is no ی ("6CC) in font nullfont!
-Missing character: There is no ق ("642) in font nullfont!
-Missing character: There is no ا ("627) in font nullfont!
-Missing character: There is no ت ("62A) in font nullfont!
-Missing character: There is no م ("645) in font nullfont!
-Missing character: There is no خ ("62E) in font nullfont!
-Missing character: There is no ا ("627) in font nullfont!
-Missing character: There is no ب ("628) in font nullfont!
-Missing character: There is no ر ("631) in font nullfont!
-Missing character: There is no ا ("627) in font nullfont!
-Missing character: There is no ت ("62A) in font nullfont!
-Missing character: There is no ا ("627) in font nullfont!
-Missing character: There is no ی ("6CC) in font nullfont!
-Missing character: There is no ر ("631) in font nullfont!
-Missing character: There is no ا ("627) in font nullfont!
-Missing character: There is no ن ("646) in font nullfont!
-Missing character: There is no ب ("628) in font nullfont!
-Missing character: There is no ه ("647) in font nullfont!
-Missing character: There is no ر ("631) in font nullfont!
-Missing character: There is no ه ("647) in font nullfont!
-Missing character: There is no ‌ ("200C) in font nullfont!
-Missing character: There is no م ("645) in font nullfont!
-Missing character: There is no ن ("646) in font nullfont!
-Missing character: There is no د ("62F) in font nullfont!
-Missing character: There is no ش ("634) in font nullfont!
-Missing character: There is no د ("62F) in font nullfont!
-Missing character: There is no ه ("647) in font nullfont!
-Missing character: There is no ا ("627) in font nullfont!
-Missing character: There is no س ("633) in font nullfont!
-Missing character: There is no ت ("62A) in font nullfont!
-Missing character: There is no . ("2E) in font nullfont!
 )
 ! Emergency stop.
 <*> JELD.tex
@@ -797,5 +657,5 @@ Here is how much of TeX's memory you used:
  20368 multiletter control sequences out of 15000+600000
  512295 words of font info for 33 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
- 18i,1n,12p,188b,102s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 18i,1n,12p,160b,102s stack positions out of 10000i,1000n,20000p,200000b,200000s
 No pages of output.

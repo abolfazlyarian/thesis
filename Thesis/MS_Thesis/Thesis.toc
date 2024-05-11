@@ -8,8 +8,8 @@
 \contentsline {section}{\numberline {2-2}مجازی سازی و کانتینرها}{9}{}%
 \contentsline {subsection}{\numberline {2-2-1}مجازی سازی}{9}{}%
 \contentsline {subsection}{\numberline {2-2-2}کانتینرها}{11}{}%
-\contentsline {section}{\numberline {2-3}هماهنگ سازی کانتینرها (کوبرنتیز)}{13}{}%
-\contentsline {subsection}{\numberline {2-3-1}معماری کوبرنتیز}{14}{}%
+\contentsline {subsection}{\numberline {2-2-3}هماهنگ سازی کانتینرها (کوبرنتیز)}{13}{}%
+\contentsline {subsubsection}{معماری کوبرنتیز}{14}{}%
 \contentsline {chapter}{\numberline {3}مدل بینایی انسان و کاربرد آن در نهان\nobreakspace {}نگاری}{16}{}%
 \contentsline {section}{\numberline {3-1}مقدمه}{16}{}%
 \contentsline {chapter}{\numberline {4}آنتروپی و استفاده از آن در نهان\nobreakspace {}نگاری}{17}{}%
