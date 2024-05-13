@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999995 (TeX Live 2023) (preloaded format=xelatex 2023.9.1)  13 MAY 2024 19:34
+This is XeTeX, Version 3.141592653-2.6-0.999995 (TeX Live 2023) (preloaded format=xelatex 2023.9.1)  14 MAY 2024 00:15
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1315,17 +1315,26 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 
  (./HVS.tex
 فصل 3.
-) [16
+[16
 
 
 
 
-]
+])
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 12.25702pt, for example:
+(fancyhdr)                \setlength{\headheight}{12.25702pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-0.25702pt}.
+
+[17]
 \openout2 = `Entropy.aux'.
 
  (./Entropy.tex
 فصل 4.
-) [17
+) [18
 
 
 
@@ -1335,7 +1344,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 
  (./Conclusion.tex
 فصل 5.
-) [18
+) [19
 
 
 
@@ -1347,7 +1356,7 @@ Underfull \hbox (badness 1342) in paragraph at lines 11--13
 ][][][][]$ [Accessed:[]
  []
 
-) [19
+) [20
 
 
 
@@ -1364,7 +1373,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 40--49
 [][]
  []
 
-) [20
+) [21
 
 ]
 \openout2 = `EnglishJeld.aux'.
@@ -1372,7 +1381,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 40--49
  (./EnglishJeld.tex
 File: Sharif_Logo.pdf Graphic file (type pdf)
 <use Sharif_Logo.pdf>
-) [21
+) [22
 
 
 
@@ -1393,12 +1402,12 @@ LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 ### simple group (level 1) entered at line 21 ({)
 ### bottom level 
 Here is how much of TeX's memory you used:
- 20282 strings out of 476683
- 456827 string characters out of 5807576
- 1902012 words of memory out of 5000000
- 39947 multiletter control sequences out of 15000+600000
+ 20286 strings out of 476683
+ 456882 string characters out of 5807576
+ 1901012 words of memory out of 5000000
+ 39951 multiletter control sequences out of 15000+600000
  517857 words of font info for 118 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
- 87i,11n,97p,1388b,983s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 87i,12n,97p,1388b,983s stack positions out of 10000i,1000n,20000p,200000b,200000s
 
-Output written on Thesis.pdf (32 pages).
+Output written on Thesis.pdf (33 pages).
