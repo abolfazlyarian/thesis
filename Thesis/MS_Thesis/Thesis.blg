@@ -17,7 +17,8 @@ The style file: IEEEsort.bst
 A level-1 auxiliary file: EnglishAbstract.aux
 A level-1 auxiliary file: EnglishJeld.aux
 Database file #1: SepSrc.bib
-Warning--I didn't find a database entry for "LevFo04"
+Warning--entry type for "MLOpsPipeline1" isn't style-file defined
+--line 253 of file SepSrc.bib
 Too many commas in name 1 of "F Rodriguez-Haro, F Freitag, L Navarro, E Hernanchez-sanchez" for entry virtualization1
 while executing---line 1120 of file IEEEsort.bst
 Name 1 in "R. Jabbari, N. Ali, K. Petersen, and B. Tanveer" has a comma at the end for entry DevopsDef1
@@ -50,6 +51,8 @@ Too many commas in name 1 of "Amit M Potdara, Narayan D Gb, Shivaraj Kengondc, M
 while executing---line 1120 of file IEEEsort.bst
 Warning--to sort, need author or key in Docker2
 Warning--to sort, need author or key in Docker1
+Name 1 in "Y. Zhou, Y. Yu, and B. Ding" has a comma at the end for entry MLOpsPipeline1
+while executing---line 1120 of file IEEEsort.bst
 Too many commas in name 1 of "Amit M Potdara, Narayan D Gb, Shivaraj Kengondc, Mohammed Moin Mullad" for entry Dockervm
 while executing---line 1165 of file IEEEsort.bst
 Too many commas in name 1 of "F Rodriguez-Haro, F Freitag, L Navarro, E Hernanchez-sanchez" for entry virtualization1
@@ -81,45 +84,47 @@ while executing---line 1165 of file IEEEsort.bst
 Name 1 in "R. Jabbari, N. Ali, K. Petersen, and B. Tanveer" has a comma at the end for entry DevopsDef1
 while executing---line 1165 of file IEEEsort.bst
 Warning--empty booktitle in DevopsDef1
-You've used 17 entries,
+Name 1 in "Y. Zhou, Y. Yu, and B. Ding" has a comma at the end for entry MLOpsPipeline1
+while executing---line 1165 of file IEEEsort.bst
+You've used 21 entries,
             2163 wiz_defined-function locations,
-            614 strings with 6841 characters,
-and the built_in function-call counts, 3896 in all, are:
-= -- 342
-> -- 131
-< -- 1
-+ -- 58
-- -- 38
-* -- 227
-:= -- 614
-add.period$ -- 17
-call.type$ -- 17
-change.case$ -- 67
+            638 strings with 7549 characters,
+and the built_in function-call counts, 5295 in all, are:
+= -- 477
+> -- 192
+< -- 3
++ -- 82
+- -- 58
+* -- 323
+:= -- 830
+add.period$ -- 21
+call.type$ -- 21
+change.case$ -- 89
 chr.to.int$ -- 0
-cite$ -- 24
-duplicate$ -- 187
-empty$ -- 421
-format.name$ -- 38
-if$ -- 846
+cite$ -- 28
+duplicate$ -- 247
+empty$ -- 538
+format.name$ -- 58
+if$ -- 1155
 int.to.chr$ -- 0
-int.to.str$ -- 17
-missing$ -- 14
-newline$ -- 79
-num.names$ -- 26
-pop$ -- 150
+int.to.str$ -- 21
+missing$ -- 17
+newline$ -- 98
+num.names$ -- 34
+pop$ -- 180
 preamble$ -- 1
-purify$ -- 53
+purify$ -- 71
 quote$ -- 0
-skip$ -- 120
+skip$ -- 172
 stack$ -- 0
-substring$ -- 109
-swap$ -- 24
-text.length$ -- 1
+substring$ -- 181
+swap$ -- 46
+text.length$ -- 3
 text.prefix$ -- 0
 top$ -- 0
-type$ -- 62
+type$ -- 78
 warning$ -- 7
-while$ -- 27
-width$ -- 19
-write$ -- 159
-(There were 28 error messages)
+while$ -- 40
+width$ -- 23
+write$ -- 201
+(There were 30 error messages)

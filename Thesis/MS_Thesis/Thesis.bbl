@@ -21,6 +21,11 @@ Shivaraj Kengondc Mohammed Moin~Mullad Amit M~Potdara, Narayan D~Gb,
 \newblock in {\em International Conference on Computing and Network
   Communications}, June 2020.
 
+\bibitem{MLOpsCT2}
+Behrouz Derakhshan, Alireza~Rezaei Mahdiraji, Tilmann Rabl, and Volker Markl,
+\newblock ``Continuous deployment of machine learning pipelines.,''
+\newblock in {\em EDBT}, March 2019, pp. 397--408.
+
 \bibitem{virtualization1}
 L~Navarro E Hernanchez-sanchez F~Rodriguez-Haro, F~Freitag,
 \newblock ``A summary of virtualization techniques,''
@@ -55,6 +60,12 @@ A.~Van Bennekum A. Cockburn-W. Cunningham M. Fowler J. Grenning J. Highsmith A.
 \newblock ``Manifesto for agile software development,'' 2001,
 \newblock URL: \url{https://agilemanifesto.org/} [Accessed: 2024-02-17].
 
+\bibitem{MLOpsCT1}
+Ioannis Karamitsos, Saeed Albarhami, and Charalampos Apostolopoulos,
+\newblock ``Applying devops practices of continuous automation for machine
+  learning,''
+\newblock {\em Information}, vol. 11, no. 7, 2020.
+
 \bibitem{DevopsIaac2}
 E.~D. Nitto M.~Guerriero M.~Artac, T.~Borovssak and D.~A. Tamburri,
 \newblock ``Devops: Introducing infrastructure-as-code,''
@@ -85,11 +96,22 @@ Indika~Perera S.A.I.B.S.~Arachchi,
   for agile software project management,''
 \newblock in {\em Moratuwa Engineering Research Conference (MERCon)}, May 2018.
 
+\bibitem{MLOpsWO1}
+Damian~A. Tamburri,
+\newblock ``Sustainable mlops: Trends and challenges,''
+\newblock in {\em 2020 22nd International Symposium on Symbolic and Numeric
+  Algorithms for Scientific Computing (SYNASC)}, 2020, pp. 17--23.
+
 \bibitem{DevopsCICD1}
 M.~Virmani,
 \newblock ``Understanding devops bridging the gap from continuous integration
   to continuous delivery,''
 \newblock in {\em Fifth International Conference on the Innovative Computing
   Technology (INTECH 2015)}, May 2015.
+
+\bibitem{MLOpsPipeline1}
+Y.~Yu Y.~Zhou and B.~Ding,
+\newblock ``Towards mlops: A case study of ml pipeline platform,'' October
+  2020.
 
 \end{thebibliography}
