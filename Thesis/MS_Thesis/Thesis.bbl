@@ -1,7 +1,7 @@
 \begin{thebibliography}{10}
 
 \bibitem{Docker2}
-``containerization,'' URL: \url{https://www.ibm.com/topics/containerization}
+``Containerization,'' URL: \url{https://www.ibm.com/topics/containerization}
   [Accessed: 2023-05-21].
 
 \bibitem{Docker1}
@@ -15,11 +15,26 @@
 ``What is virtualization?,'' URL:
   \url{https://aws.amazon.com/what-is/virtualization/} [Accessed: 2024-05-08].
 
-\bibitem{Dockervm}
-Shivaraj Kengondc Mohammed Moin~Mullad Amit M~Potdara, Narayan D~Gb,
-\newblock ``Performance evaluation of docker container and virtual machine,''
-\newblock in {\em International Conference on Computing and Network
-  Communications}, June 2020.
+\bibitem{DevopsCICD2}
+SAIBS Arachchi and Indika Perera,
+\newblock ``Continuous integration and continuous delivery pipeline automation
+  for agile software project management,''
+\newblock in {\em Moratuwa Engineering Research Conference (MERCon)}, May 2018,
+  pp. 156--161.
+
+\bibitem{DevopsIaac2}
+Matej Artac, Tadej Borovssak, Elisabetta Di~Nitto, Michele Guerriero, and
+  Damian~Andrew Tamburri,
+\newblock ``Devops: introducing infrastructure-as-code,''
+\newblock in {\em 2017 IEEE/ACM 39th International Conference on Software
+  Engineering Companion (ICSE-C)}, May 2017, pp. 497--498.
+
+\bibitem{DevopsMonitor}
+Nelly Delgado, Ann~Q Gates, and Steve Roach,
+\newblock ``A taxonomy and catalog of runtime software-fault monitoring
+  tools,''
+\newblock {\em IEEE Transactions on software Engineering}, vol. 30, no. 12, pp.
+  859--872, 2004.
 
 \bibitem{MLOpsCT2}
 Behrouz Derakhshan, Alireza~Rezaei Mahdiraji, Tilmann Rabl, and Volker Markl,
@@ -29,8 +44,7 @@ Behrouz Derakhshan, Alireza~Rezaei Mahdiraji, Tilmann Rabl, and Volker Markl,
 \bibitem{virtualization1}
 L~Navarro E Hernanchez-sanchez F~Rodriguez-Haro, F~Freitag,
 \newblock ``A summary of virtualization techniques,''
-\newblock in {\em Iberoamerican Conference on Electronics Engineering and
-  Computer Science}, 2012.
+\newblock .
 
 \bibitem{Devopsgitops}
 Anja~Kammer Florian~Beetz and Dr.~Simon Harrer,
@@ -41,7 +55,7 @@ Anja~Kammer Florian~Beetz and Dr.~Simon Harrer,
 N.~Forsgren and J.~Humble,
 \newblock ``The role of continuous delivery in it and organizational
   performance,''
-\newblock in {\em Western Decision Sciences Institute (WDSI)}, March 2016.
+\newblock March 2016.
 
 \bibitem{DevopsCD}
 Jez Humble and David Farley,
@@ -53,6 +67,13 @@ Jez Humble and David Farley,
 M.~Huttermann,
 \newblock {\em DevOps for Developers}, chapter Infrastructure as Code,
 \newblock 2012.
+
+\bibitem{DevopsDef1}
+Ramtin Jabbari, Nauman bin Ali, Kai Petersen, and Binish Tanveer,
+\newblock ``What is devops? a systematic mapping study on definitions and
+  practices,''
+\newblock in {\em Proceedings of the Scientific Workshop Proceedings of
+  XP2016}. 2016, Association for Computing Machinery.
 
 \bibitem{DevopsAgile}
 A.~Van Bennekum A. Cockburn-W. Cunningham M. Fowler J. Grenning J. Highsmith A.
@@ -66,35 +87,15 @@ Ioannis Karamitsos, Saeed Albarhami, and Charalampos Apostolopoulos,
   learning,''
 \newblock {\em Information}, vol. 11, no. 7, 2020.
 
-\bibitem{DevopsIaac2}
-E.~D. Nitto M.~Guerriero M.~Artac, T.~Borovssak and D.~A. Tamburri,
-\newblock ``Devops: Introducing infrastructure-as-code,''
-\newblock in {\em International Conference on Software Engineering Companion
-  (ICSE-C)}, May 2017.
-
-\bibitem{DevopsMonitor}
-A.~Q.~Gates N.~Delgado and S.~Roach,
-\newblock ``A taxonomy and catalog of runtime software-fault monitoring
-  tools,''
-\newblock {\em IEEE Transactions on Software Engineering}, vol. 30, pp.
-  859--872, December 2004.
-
 \bibitem{Devopstrunk}
 paul hammant,
 \newblock ``Trunk based development,'' URL:
   \url{https://trunkbaseddevelopment.com/} [Accessed: 2023-11-01].
 
-\bibitem{DevopsDef1}
-K.~Petersen R.~Jabbari, N.~Ali and B.~Tanveer,
-\newblock ``What is devops?: A systematic mapping study on definitions and
-  practices,''
-\newblock May 2016.
-
-\bibitem{DevopsCICD2}
-Indika~Perera S.A.I.B.S.~Arachchi,
-\newblock ``Continuous integration and continuous delivery pipeline automation
-  for agile software project management,''
-\newblock in {\em Moratuwa Engineering Research Conference (MERCon)}, May 2018.
+\bibitem{Dockervm}
+Amit~M Potdar, DG~Narayan, Shivaraj Kengond, and Mohammed~Moin Mulla,
+\newblock ``Performance evaluation of docker container and virtual machine,''
+\newblock {\em Procedia Computer Science}, vol. 171, pp. 1419--1428, 2020.
 
 \bibitem{MLOpsWO1}
 Damian~A. Tamburri,
@@ -103,11 +104,11 @@ Damian~A. Tamburri,
   Algorithms for Scientific Computing (SYNASC)}, 2020, pp. 17--23.
 
 \bibitem{DevopsCICD1}
-M.~Virmani,
-\newblock ``Understanding devops bridging the gap from continuous integration
-  to continuous delivery,''
+Manish Virmani,
+\newblock ``Understanding devops and bridging the gap from continuous
+  integration to continuous delivery,''
 \newblock in {\em Fifth International Conference on the Innovative Computing
-  Technology (INTECH 2015)}, May 2015.
+  Technology (INTECH 2015)}, 2015, pp. 78--82.
 
 \bibitem{MLOpsPipeline1}
 Y.~Yu Y.~Zhou and B.~Ding,

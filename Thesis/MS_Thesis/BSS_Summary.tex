@@ -76,18 +76,19 @@
 
 \textbf{استقرار مداوم}
  که گاهی با تحویل مداوم اشتباه گرفته می‌شود، به فرآیندی اطلاق می‌شود که در آن هر تغییر در کد که تمام مراحل تست و تأیید را با موفقیت پشت سر می‌گذارد، به صورت خودکار در محیط تولید قرار می‌گیرد \cite{DevopsCICD2}. این به معنای آن است که نسخه‌های جدید نرم‌افزار می‌توانند به طور مداوم و بدون دخالت دستی به کاربران نهایی تحویل داده شوند. این رویکرد به تیم‌ها کمک می‌کند تا سریعتر به بازخوردها پاسخ دهند و بهبودهای مستمری را در محصول خود اعمال کنند، اما نیازمند یک فرآیند آزمایشی بسیار قوی و اطمینان از کیفیت کد است.
+ 
 \begin{table}
 	\centering
 	\caption{نمونه هایی از ابزار برای مراحل خاص اتوماسیون خط لوله \lr{CI/CD}}
 	\label{tb: ci/cd tools}
 	\begin{tabular}{|c|c|}
 		\hline
-		Phase     & Tools            \\ \hline
-		Build     & Gradle, Bazel      \\ \hline
-		Test      & Selenium, pytest   \\ \hline
-		Configure & Ansible, Terraform \\ \hline
-		Deploy    & ArgoCD, Jenkins    \\ \hline
-		Monitor   & Prometheus, Sentry \\ \hline
+		\lr{Tools} & \lr{Phase} \\ \hline
+		\lr{Gradle, Bazel} & \lr{Build} \\ \hline
+		\lr{Selenium, pytest} & \lr{Test} \\ \hline
+		\lr{Ansible, Terraform} & \lr{Configure} \\ \hline
+		\lr{ArgoCD, Jenkins} & \lr{Deploy} \\ \hline
+		\lr{Prometheus, Sentry} & \lr{Monitor} \\ \hline
 	\end{tabular}
 \end{table}
 

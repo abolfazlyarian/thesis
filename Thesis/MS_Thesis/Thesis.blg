@@ -17,11 +17,18 @@ The style file: IEEEsort.bst
 A level-1 auxiliary file: EnglishAbstract.aux
 A level-1 auxiliary file: EnglishJeld.aux
 Database file #1: SepSrc.bib
+"{" immediately follows a field name---line 201 of file SepSrc.bib
+ :  booktitle
+ :           {Iberoamerican Conference on Electronics Engineering and Computer Science},
+I'm skipping whatever remains of this entry
+I was expecting a `,' or a `}'---line 257 of file SepSrc.bib
+ :  
+ :  month={June},
+(Error may have been on previous line)
+I'm skipping whatever remains of this entry
 Warning--entry type for "MLOpsPipeline1" isn't style-file defined
---line 253 of file SepSrc.bib
+--line 265 of file SepSrc.bib
 Too many commas in name 1 of "F Rodriguez-Haro, F Freitag, L Navarro, E Hernanchez-sanchez" for entry virtualization1
-while executing---line 1120 of file IEEEsort.bst
-Name 1 in "R. Jabbari, N. Ali, K. Petersen, and B. Tanveer" has a comma at the end for entry DevopsDef1
 while executing---line 1120 of file IEEEsort.bst
 Warning--to sort, need author or key in DevopsDef2
 Too many commas in name 1 of "K. Beck, M. Beedle, A. Van Bennekum, A. Cockburn, W. Cunningham, M. Fowler, J. Grenning, J. Highsmith, A. Hunt, R. Jeffries" for entry DevopsAgile
@@ -38,28 +45,21 @@ Too many commas in name 1 of "K. Beck, M. Beedle, A. Van Bennekum, A. Cockburn, 
 while executing---line 1120 of file IEEEsort.bst
 Too many commas in name 1 of "K. Beck, M. Beedle, A. Van Bennekum, A. Cockburn, W. Cunningham, M. Fowler, J. Grenning, J. Highsmith, A. Hunt, R. Jeffries" for entry DevopsAgile
 while executing---line 1120 of file IEEEsort.bst
-Name 1 in "M. Artac, T. Borovssak, E. D. Nitto, M. Guerriero, and D. A. Tamburri" has a comma at the end for entry DevopsIaac2
-while executing---line 1120 of file IEEEsort.bst
-Too many commas in name 1 of "M. Artac, T. Borovssak, E. D. Nitto, M. Guerriero, and D. A. Tamburri" for entry DevopsIaac2
-while executing---line 1120 of file IEEEsort.bst
-Name 1 in "N. Delgado, A. Q. Gates, and S. Roach" has a comma at the end for entry DevopsMonitor
-while executing---line 1120 of file IEEEsort.bst
 Name 1 in "Florian Beetz, Anja Kammer, and Dr. Simon Harrer" has a comma at the end for entry Devopsgitops
 while executing---line 1120 of file IEEEsort.bst
 Warning--to sort, need author or key in virtualization2
-Too many commas in name 1 of "Amit M Potdara, Narayan D Gb, Shivaraj Kengondc, Mohammed Moin Mullad" for entry Dockervm
-while executing---line 1120 of file IEEEsort.bst
 Warning--to sort, need author or key in Docker2
 Warning--to sort, need author or key in Docker1
 Name 1 in "Y. Zhou, Y. Yu, and B. Ding" has a comma at the end for entry MLOpsPipeline1
 while executing---line 1120 of file IEEEsort.bst
-Too many commas in name 1 of "Amit M Potdara, Narayan D Gb, Shivaraj Kengondc, Mohammed Moin Mullad" for entry Dockervm
-while executing---line 1165 of file IEEEsort.bst
 Too many commas in name 1 of "F Rodriguez-Haro, F Freitag, L Navarro, E Hernanchez-sanchez" for entry virtualization1
 while executing---line 1165 of file IEEEsort.bst
+Warning--empty booktitle in virtualization1
+Warning--empty year in virtualization1
 Name 1 in "Florian Beetz, Anja Kammer, and Dr. Simon Harrer" has a comma at the end for entry Devopsgitops
 while executing---line 1165 of file IEEEsort.bst
 Warning--empty publisher in Devopsgitops
+Warning--empty journal in Devopsorg
 Warning--empty publisher in DevopsIaac1
 Too many commas in name 1 of "K. Beck, M. Beedle, A. Van Bennekum, A. Cockburn, W. Cunningham, M. Fowler, J. Grenning, J. Highsmith, A. Hunt, R. Jeffries" for entry DevopsAgile
 while executing---line 1165 of file IEEEsort.bst
@@ -75,56 +75,47 @@ Too many commas in name 1 of "K. Beck, M. Beedle, A. Van Bennekum, A. Cockburn, 
 while executing---line 1165 of file IEEEsort.bst
 Too many commas in name 1 of "K. Beck, M. Beedle, A. Van Bennekum, A. Cockburn, W. Cunningham, M. Fowler, J. Grenning, J. Highsmith, A. Hunt, R. Jeffries" for entry DevopsAgile
 while executing---line 1165 of file IEEEsort.bst
-Name 1 in "M. Artac, T. Borovssak, E. D. Nitto, M. Guerriero, and D. A. Tamburri" has a comma at the end for entry DevopsIaac2
-while executing---line 1165 of file IEEEsort.bst
-Too many commas in name 1 of "M. Artac, T. Borovssak, E. D. Nitto, M. Guerriero, and D. A. Tamburri" for entry DevopsIaac2
-while executing---line 1165 of file IEEEsort.bst
-Name 1 in "N. Delgado, A. Q. Gates, and S. Roach" has a comma at the end for entry DevopsMonitor
-while executing---line 1165 of file IEEEsort.bst
-Name 1 in "R. Jabbari, N. Ali, K. Petersen, and B. Tanveer" has a comma at the end for entry DevopsDef1
-while executing---line 1165 of file IEEEsort.bst
-Warning--empty booktitle in DevopsDef1
 Name 1 in "Y. Zhou, Y. Yu, and B. Ding" has a comma at the end for entry MLOpsPipeline1
 while executing---line 1165 of file IEEEsort.bst
 You've used 21 entries,
             2163 wiz_defined-function locations,
-            638 strings with 7549 characters,
-and the built_in function-call counts, 5295 in all, are:
-= -- 477
-> -- 192
-< -- 3
-+ -- 82
-- -- 58
-* -- 323
-:= -- 830
-add.period$ -- 21
+            647 strings with 7727 characters,
+and the built_in function-call counts, 6156 in all, are:
+= -- 581
+> -- 244
+< -- 6
++ -- 102
+- -- 78
+* -- 408
+:= -- 946
+add.period$ -- 22
 call.type$ -- 21
-change.case$ -- 89
+change.case$ -- 99
 chr.to.int$ -- 0
-cite$ -- 28
-duplicate$ -- 247
-empty$ -- 538
-format.name$ -- 58
-if$ -- 1155
+cite$ -- 30
+duplicate$ -- 263
+empty$ -- 563
+format.name$ -- 78
+if$ -- 1342
 int.to.chr$ -- 0
 int.to.str$ -- 21
 missing$ -- 17
 newline$ -- 98
 num.names$ -- 34
-pop$ -- 180
+pop$ -- 179
 preamble$ -- 1
-purify$ -- 71
+purify$ -- 81
 quote$ -- 0
-skip$ -- 172
+skip$ -- 203
 stack$ -- 0
-substring$ -- 181
-swap$ -- 46
-text.length$ -- 3
+substring$ -- 300
+swap$ -- 68
+text.length$ -- 6
 text.prefix$ -- 0
 top$ -- 0
 type$ -- 78
-warning$ -- 7
-while$ -- 40
+warning$ -- 9
+while$ -- 51
 width$ -- 23
-write$ -- 201
-(There were 30 error messages)
+write$ -- 204
+(There were 22 error messages)
