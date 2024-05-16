@@ -14,7 +14,12 @@
 \contentsline {section}{\numberline {3-1}مقدمه}{16}{}%
 \contentsline {section}{\numberline {3-2}تعریف مفاهیم اولیه}{16}{}%
 \contentsline {subsection}{\numberline {3-2-1}اصول}{17}{}%
-\contentsline {chapter}{\numberline {4}آنتروپی و استفاده از آن در نهان\nobreakspace {}نگاری}{19}{}%
-\contentsline {section}{\numberline {4-1}مقدمه}{19}{}%
-\contentsline {section}{\numberline {4-2}آنتروپی}{19}{}%
-\contentsline {chapter}{\numberline {5}نتیجه‌گیری و پیشنهادات}{20}{}%
+\contentsline {subsection}{\numberline {3-2-2}اجزاء}{19}{}%
+\contentsline {subsubsection}{سازآرایی جریان کاری}{19}{}%
+\contentsline {subsubsection}{انباره ویژگی}{19}{}%
+\contentsline {subsubsection}{مخزن کد منبع}{21}{}%
+\contentsline {subsubsection}{خط لوله \lr {CI/CD}}{21}{}%
+\contentsline {chapter}{\numberline {4}آنتروپی و استفاده از آن در نهان\nobreakspace {}نگاری}{22}{}%
+\contentsline {section}{\numberline {4-1}مقدمه}{22}{}%
+\contentsline {section}{\numberline {4-2}آنتروپی}{22}{}%
+\contentsline {chapter}{\numberline {5}نتیجه‌گیری و پیشنهادات}{23}{}%

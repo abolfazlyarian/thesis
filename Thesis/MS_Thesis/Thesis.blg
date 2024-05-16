@@ -52,6 +52,12 @@ Warning--to sort, need author or key in Docker2
 Warning--to sort, need author or key in Docker1
 Name 1 in "Y. Zhou, Y. Yu, and B. Ding" has a comma at the end for entry MLOpsPipeline1
 while executing---line 1120 of file IEEEsort.bst
+Warning--to sort, need author or key in Airflow
+Warning--to sort, need author or key in Kubeflow
+Warning--to sort, need author or key in Feast
+Warning--to sort, need author or key in GitLab
+Warning--to sort, need author or key in Gerrit
+Warning--to sort, need author or key in Jenkins
 Too many commas in name 1 of "F Rodriguez-Haro, F Freitag, L Navarro, E Hernanchez-sanchez" for entry virtualization1
 while executing---line 1165 of file IEEEsort.bst
 Warning--empty booktitle in virtualization1
@@ -77,45 +83,45 @@ Too many commas in name 1 of "K. Beck, M. Beedle, A. Van Bennekum, A. Cockburn, 
 while executing---line 1165 of file IEEEsort.bst
 Name 1 in "Y. Zhou, Y. Yu, and B. Ding" has a comma at the end for entry MLOpsPipeline1
 while executing---line 1165 of file IEEEsort.bst
-You've used 21 entries,
+You've used 31 entries,
             2163 wiz_defined-function locations,
-            647 strings with 7727 characters,
-and the built_in function-call counts, 6156 in all, are:
-= -- 581
-> -- 244
-< -- 6
-+ -- 102
-- -- 78
-* -- 408
-:= -- 946
-add.period$ -- 22
-call.type$ -- 21
-change.case$ -- 99
+            695 strings with 9204 characters,
+and the built_in function-call counts, 8726 in all, are:
+= -- 825
+> -- 336
+< -- 8
++ -- 141
+- -- 107
+* -- 573
+:= -- 1299
+add.period$ -- 32
+call.type$ -- 31
+change.case$ -- 142
 chr.to.int$ -- 0
-cite$ -- 30
-duplicate$ -- 263
-empty$ -- 563
-format.name$ -- 78
-if$ -- 1342
+cite$ -- 46
+duplicate$ -- 368
+empty$ -- 821
+format.name$ -- 107
+if$ -- 1925
 int.to.chr$ -- 0
-int.to.str$ -- 21
-missing$ -- 17
-newline$ -- 98
-num.names$ -- 34
-pop$ -- 179
+int.to.str$ -- 31
+missing$ -- 20
+newline$ -- 135
+num.names$ -- 44
+pop$ -- 273
 preamble$ -- 1
-purify$ -- 81
+purify$ -- 114
 quote$ -- 0
-skip$ -- 203
+skip$ -- 295
 stack$ -- 0
-substring$ -- 300
-swap$ -- 68
-text.length$ -- 6
+substring$ -- 425
+swap$ -- 97
+text.length$ -- 8
 text.prefix$ -- 0
 top$ -- 0
-type$ -- 78
-warning$ -- 9
-while$ -- 51
-width$ -- 23
-write$ -- 204
+type$ -- 118
+warning$ -- 15
+while$ -- 66
+width$ -- 33
+write$ -- 290
 (There were 22 error messages)

@@ -1,11 +1,31 @@
 \begin{thebibliography}{10}
 
+\bibitem{Airflow}
+``Apache airflow,'' URL: \url{https://airflow.apache.org/} [Accessed:
+  2023-11-02].
+
 \bibitem{Docker2}
 ``Containerization,'' URL: \url{https://www.ibm.com/topics/containerization}
   [Accessed: 2023-05-21].
 
 \bibitem{Docker1}
 ``Docker,'' URL: \url{https://docs.docker.com/} [Accessed: 2023-05-18].
+
+\bibitem{Feast}
+``Feast,'' URL: \url{https://feast.dev/} [Accessed: 2023-11-05].
+
+\bibitem{Gerrit}
+``Gerritcodereview,'' URL: \url{https://www.gerritcodereview.com/} [Accessed:
+  2024-05-16].
+
+\bibitem{GitLab}
+``Gitlab,'' URL: \url{https://about.gitlab.com/} [Accessed: 2024-05-16].
+
+\bibitem{Jenkins}
+``Jenkins,'' URL: \url{https://www.jenkins.io/} [Accessed: 2023-11-01].
+
+\bibitem{Kubeflow}
+``Kubeflow,'' URL: \url{https://www.kubeflow.org/} [Accessed: 2023-11-02].
 
 \bibitem{DevopsDef2}
 ``What is devops?,'' URL: \url{https://aws.amazon.com/devops/what-is-devops/}
@@ -28,6 +48,14 @@ Matej Artac, Tadej Borovssak, Elisabetta Di~Nitto, Michele Guerriero, and
 \newblock ``Devops: introducing infrastructure-as-code,''
 \newblock in {\em 2017 IEEE/ACM 39th International Conference on Software
   Engineering Companion (ICSE-C)}, May 2017, pp. 497--498.
+
+\bibitem{MLOpsProd1}
+Lucas Cardoso~Silva, Fernando Rezende~Zagatti, Bruno Silva~Sette, Lucas
+  Nildaimon~dos Santos~Silva, Daniel Lucrédio, Diego Furtado~Silva, and Helena
+  de~Medeiros~Caseli,
+\newblock ``Benchmarking machine learning solutions in production,''
+\newblock in {\em 2020 19th IEEE International Conference on Machine Learning
+  and Applications (ICMLA)}, 2020, pp. 626--633.
 
 \bibitem{DevopsMonitor}
 Nelly Delgado, Ann~Q Gates, and Steve Roach,
@@ -87,15 +115,34 @@ Ioannis Karamitsos, Saeed Albarhami, and Charalampos Apostolopoulos,
   learning,''
 \newblock {\em Information}, vol. 11, no. 7, 2020.
 
+\bibitem{MLOpsWO2}
+Lucy~Ellen Lwakatare, Ivica Crnkovic, Ellinor R{\aa}nge, and Jan Bosch,
+\newblock ``From a data science driven process to a continuous delivery process
+  for machine learning systems,''
+\newblock in {\em Product-Focused Software Process Improvement}, Maurizio
+  Morisio, Marco Torchiano, and Andreas Jedlitschka, Eds., Cham, 2020, pp.
+  185--201, Springer International Publishing.
+
 \bibitem{Devopstrunk}
 paul hammant,
 \newblock ``Trunk based development,'' URL:
   \url{https://trunkbaseddevelopment.com/} [Accessed: 2023-11-01].
 
+\bibitem{MLOpsProd2}
+Alexandra Posoldova,
+\newblock ``Machine learning pipelines: From research to production,''
+\newblock {\em IEEE Potentials}, vol. 39, no. 6, pp. 38--42, 2020.
+
 \bibitem{Dockervm}
 Amit~M Potdar, DG~Narayan, Shivaraj Kengond, and Mohammed~Moin Mulla,
 \newblock ``Performance evaluation of docker container and virtual machine,''
 \newblock {\em Procedia Computer Science}, vol. 171, pp. 1419--1428, 2020.
+
+\bibitem{MLOpsWFCOMP1}
+M.~Schmitt,
+\newblock ``Airflow vs. luigi vs. argo vs. mlflow vs. kubeflow,'' URL:
+  \url{https://www.datarevenue.com/en-blog/airflow-vs-luigi-vs-argo-vs-mlflow-vs-kubeflow}
+  [Accessed: 2023-11-02].
 
 \bibitem{MLOpsWO1}
 Damian~A. Tamburri,
