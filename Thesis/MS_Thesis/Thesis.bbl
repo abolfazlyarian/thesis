@@ -4,6 +4,9 @@
 ``Apache airflow,'' URL: \url{https://airflow.apache.org/} [Accessed:
   2023-11-02].
 
+\bibitem{Spark}
+``Apache spark,'' URL: \url{https://spark.apache.org/} [Accessed: 2023-11-29].
+
 \bibitem{Docker2}
 ``Containerization,'' URL: \url{https://www.ibm.com/topics/containerization}
   [Accessed: 2023-05-21].
@@ -24,8 +27,14 @@
 \bibitem{Jenkins}
 ``Jenkins,'' URL: \url{https://www.jenkins.io/} [Accessed: 2023-11-01].
 
+\bibitem{Knative}
+``Knative,'' URL: \url{https://knative.dev/docs/} [Accessed: 2023-11-29].
+
 \bibitem{Kubeflow}
 ``Kubeflow,'' URL: \url{https://www.kubeflow.org/} [Accessed: 2023-11-02].
+
+\bibitem{MLflow}
+``Mlflow,'' .
 
 \bibitem{DevopsDef2}
 ``What is devops?,'' URL: \url{https://aws.amazon.com/devops/what-is-devops/}
@@ -123,6 +132,18 @@ Lucy~Ellen Lwakatare, Ivica Crnkovic, Ellinor R{\aa}nge, and Jan Bosch,
   Morisio, Marco Torchiano, and Andreas Jedlitschka, Eds., Cham, 2020, pp.
   185--201, Springer International Publishing.
 
+\bibitem{MLOpsCloud1}
+Álvaro López~García, Jesús~Marco De~Lucas, Marica Antonacci, Wolfgang
+  Zu~Castell, Mario David, Marcus Hardt, Lara Lloret~Iglesias, Germán Moltó,
+  Marcin Plociennik, Viet Tran, Andy~S. Alic, Miguel Caballer, Isabel~Campos
+  Plasencia, Alessandro Costantini, Stefan Dlugolinsky, Doina~Cristina Duma,
+  Giacinto Donvito, Jorge Gomes, Ignacio Heredia~Cacha, Keiichi Ito,
+  Valentin~Y. Kozlov, Giang Nguyen, Pablo Orviz~Fernández, Zděnek Šustr, and
+  Pawel Wolniewicz,
+\newblock ``A cloud-based framework for machine learning workloads and
+  applications,''
+\newblock {\em IEEE Access}, vol. 8, pp. 18681--18692, 2020.
+
 \bibitem{Devopstrunk}
 paul hammant,
 \newblock ``Trunk based development,'' URL:
@@ -137,6 +158,13 @@ Alexandra Posoldova,
 Amit~M Potdar, DG~Narayan, Shivaraj Kengond, and Mohammed~Moin Mulla,
 \newblock ``Performance evaluation of docker container and virtual machine,''
 \newblock {\em Procedia Computer Science}, vol. 171, pp. 1419--1428, 2020.
+
+\bibitem{MLOpsData}
+C{\'{e}}dric Renggli, Luka Rimanic, Nezihe~Merve G{\"{u}}rel, Bojan Karlas,
+  Wentao Wu, and Ce~Zhang,
+\newblock ``A data quality-driven view of mlops,''
+\newblock {\em CoRR}, vol. abs/2102.07750, 2021,
+\newblock URL: \url{https://arxiv.org/abs/2102.07750} [Accessed: 2023-11-30].
 
 \bibitem{MLOpsWFCOMP1}
 M.~Schmitt,
