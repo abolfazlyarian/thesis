@@ -190,4 +190,21 @@ C{\'{e}}dric Renggli, Luka Rimanic, Nezihe~Merve G{\"{u}}rel, Bojan Karlas,
 \bibitem{Jenkins}
 ``Jenkins,'' URL: \url{https://www.jenkins.io/} [Accessed: 2023-11-01].
 
+\bibitem{MLOpsArchfeature1}
+Armin Esmaeilzadeh, Maryam Heidari, Reyhaneh Abdolazimi, Parisa Hajibabaee, and
+  Masoud Malekzadeh,
+\newblock ``Efficient large scale nlp feature engineering with apache spark,''
+\newblock in {\em 2022 IEEE 12th Annual Computing and Communication Workshop
+  and Conference (CCWC)}, 2022, pp. 0274--0280.
+
+\bibitem{MLOpsArchfeature2}
+Jun Xu,
+\newblock ``Mlops in the financial industry: Philosophy, practices, and
+  tools,''
+\newblock in {\em Future and Fintech, the, Abcdi and Beyond}, p. 451. World
+  Scientific, 2022.
+
+\bibitem{Kafka}
+``Kafka,'' URL: \url{https://kafka.apache.org/} [Accessed: 2023-11-31].
+
 \end{thebibliography}
