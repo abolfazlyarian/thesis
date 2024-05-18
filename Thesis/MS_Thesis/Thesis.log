@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999995 (TeX Live 2023) (preloaded format=xelatex 2023.9.1)  16 MAY 2024 19:04
+This is XeTeX, Version 3.141592653-2.6-0.999995 (TeX Live 2023) (preloaded format=xelatex 2023.9.1)  18 MAY 2024 14:35
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1389,7 +1389,10 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 
 (fancyhdr)                \addtolength{\topmargin}{-0.25702pt}.
 
-[23])
+[23]
+File: ./picture//mlops-roles.png Graphic file (type bmp)
+<./picture//mlops-roles.png>
+
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
 (fancyhdr)                Make it at least 12.25702pt, for example:
@@ -1399,11 +1402,45 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-0.25702pt}.
 
 [24]
+File: ./picture//mlops-architecture.jpg Graphic file (type bmp)
+<./picture//mlops-architecture.jpg>
+
+Overfull \hbox (23.60182pt too wide) in paragraph at lines 121--122
+ [][][][][][] 
+ []
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 12.25702pt, for example:
+(fancyhdr)                \setlength{\headheight}{12.25702pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-0.25702pt}.
+
+[25]
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 12.25702pt, for example:
+(fancyhdr)                \setlength{\headheight}{12.25702pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-0.25702pt}.
+
+[26])
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 12.25702pt, for example:
+(fancyhdr)                \setlength{\headheight}{12.25702pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-0.25702pt}.
+
+[27]
 \openout2 = `Entropy.aux'.
 
  (./Entropy.tex
 فصل 4.
-) [25
+) [28
 
 
 
@@ -1413,19 +1450,19 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 
  (./Conclusion.tex
 فصل 5.
-) [26
+) [29
 
 
 
 
 ] (./Thesis.bbl
-Underfull \hbox (badness 1342) in paragraph at lines 40--42
+Underfull \hbox (badness 1342) in paragraph at lines 16--18
 [][]\TU/lmroman10-regular(0)/m/n/10 “What is devops?,” URL: $[][][][][] [] [] [
 ] [][][] [] [][][][][][] [] [][][] [] [][][][][][] [] [][][][][][][][][][][][][
 ][][][][]$ [Accessed:[]
  []
 
-[27
+[30
 
 
 
@@ -1438,7 +1475,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 
 (fancyhdr)                \addtolength{\topmargin}{-1.86893pt}.
 
-[28]
+[31]
 \openout2 = `EnglishAbstract.aux'.
 
  (./EnglishAbstract.tex
@@ -1451,7 +1488,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 40--49
 [][]
  []
 
-) [29
+) [32
 
 ]
 \openout2 = `EnglishJeld.aux'.
@@ -1459,7 +1496,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 40--49
  (./EnglishJeld.tex
 File: Sharif_Logo.pdf Graphic file (type pdf)
 <use Sharif_Logo.pdf>
-) [30
+) [33
 
 
 
@@ -1480,12 +1517,12 @@ LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 ### simple group (level 1) entered at line 21 ({)
 ### bottom level 
 Here is how much of TeX's memory you used:
- 20382 strings out of 476683
- 458541 string characters out of 5807576
- 1901012 words of memory out of 5000000
- 40044 multiletter control sequences out of 15000+600000
+ 20408 strings out of 476683
+ 459257 string characters out of 5807576
+ 1906012 words of memory out of 5000000
+ 40068 multiletter control sequences out of 15000+600000
  517857 words of font info for 118 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
  87i,12n,97p,1388b,983s stack positions out of 10000i,1000n,20000p,200000b,200000s
 
-Output written on Thesis.pdf (41 pages).
+Output written on Thesis.pdf (44 pages).

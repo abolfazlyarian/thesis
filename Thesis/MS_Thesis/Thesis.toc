@@ -24,7 +24,10 @@
 \contentsline {subsubsection}{زیرساخت آموزش و استقرار مدل}{23}{}%
 \contentsline {subsubsection}{مخزن کد منبع}{24}{}%
 \contentsline {subsubsection}{خط لوله \lr {CI/CD}}{24}{}%
-\contentsline {chapter}{\numberline {4}آنتروپی و استفاده از آن در نهان\nobreakspace {}نگاری}{25}{}%
-\contentsline {section}{\numberline {4-1}مقدمه}{25}{}%
-\contentsline {section}{\numberline {4-2}آنتروپی}{25}{}%
-\contentsline {chapter}{\numberline {5}نتیجه‌گیری و پیشنهادات}{26}{}%
+\contentsline {subsection}{\numberline {3-2-3}نقش ها}{25}{}%
+\contentsline {section}{\numberline {3-3}معماری کلی}{26}{}%
+\contentsline {subsubsection}{مرحله اولیه}{27}{}%
+\contentsline {chapter}{\numberline {4}آنتروپی و استفاده از آن در نهان\nobreakspace {}نگاری}{28}{}%
+\contentsline {section}{\numberline {4-1}مقدمه}{28}{}%
+\contentsline {section}{\numberline {4-2}آنتروپی}{28}{}%
+\contentsline {chapter}{\numberline {5}نتیجه‌گیری و پیشنهادات}{29}{}%

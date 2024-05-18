@@ -1,55 +1,49 @@
 \begin{thebibliography}{10}
 
-\bibitem{Airflow}
-``Apache airflow,'' URL: \url{https://airflow.apache.org/} [Accessed:
-  2023-11-02].
+\bibitem{virtualization1}
+L~Navarro E Hernanchez-sanchez F~Rodriguez-Haro, F~Freitag,
+\newblock ``A summary of virtualization techniques,''
+\newblock .
 
-\bibitem{Spark}
-``Apache spark,'' URL: \url{https://spark.apache.org/} [Accessed: 2023-11-29].
-
-\bibitem{Docker2}
-``Containerization,'' URL: \url{https://www.ibm.com/topics/containerization}
-  [Accessed: 2023-05-21].
-
-\bibitem{Docker1}
-``Docker,'' URL: \url{https://docs.docker.com/} [Accessed: 2023-05-18].
-
-\bibitem{Feast}
-``Feast,'' URL: \url{https://feast.dev/} [Accessed: 2023-11-05].
-
-\bibitem{Gerrit}
-``Gerritcodereview,'' URL: \url{https://www.gerritcodereview.com/} [Accessed:
-  2024-05-16].
-
-\bibitem{GitLab}
-``Gitlab,'' URL: \url{https://about.gitlab.com/} [Accessed: 2024-05-16].
-
-\bibitem{Jenkins}
-``Jenkins,'' URL: \url{https://www.jenkins.io/} [Accessed: 2023-11-01].
-
-\bibitem{Knative}
-``Knative,'' URL: \url{https://knative.dev/docs/} [Accessed: 2023-11-29].
-
-\bibitem{Kubeflow}
-``Kubeflow,'' URL: \url{https://www.kubeflow.org/} [Accessed: 2023-11-02].
-
-\bibitem{MLflow}
-``Mlflow,'' .
+\bibitem{DevopsDef1}
+Ramtin Jabbari, Nauman bin Ali, Kai Petersen, and Binish Tanveer,
+\newblock ``What is devops? a systematic mapping study on definitions and
+  practices,''
+\newblock in {\em Proceedings of the Scientific Workshop Proceedings of
+  XP2016}. 2016, Association for Computing Machinery.
 
 \bibitem{DevopsDef2}
 ``What is devops?,'' URL: \url{https://aws.amazon.com/devops/what-is-devops/}
   [Accessed: 2024-05-07].
 
-\bibitem{virtualization2}
-``What is virtualization?,'' URL:
-  \url{https://aws.amazon.com/what-is/virtualization/} [Accessed: 2024-05-08].
+\bibitem{DevopsCICD1}
+Manish Virmani,
+\newblock ``Understanding devops and bridging the gap from continuous
+  integration to continuous delivery,''
+\newblock in {\em Fifth International Conference on the Innovative Computing
+  Technology (INTECH 2015)}, 2015, pp. 78--82.
 
-\bibitem{DevopsCICD2}
-SAIBS Arachchi and Indika Perera,
-\newblock ``Continuous integration and continuous delivery pipeline automation
-  for agile software project management,''
-\newblock in {\em Moratuwa Engineering Research Conference (MERCon)}, May 2018,
-  pp. 156--161.
+\bibitem{DevopsAgile}
+A.~Van Bennekum A. Cockburn-W. Cunningham M. Fowler J. Grenning J. Highsmith A.
+  Hunt R.~Jeffries K.~Beck, M.~Beedle,
+\newblock ``Manifesto for agile software development,'' 2001,
+\newblock URL: \url{https://agilemanifesto.org/} [Accessed: 2024-02-17].
+
+\bibitem{DevopsCD}
+Jez Humble and David Farley,
+\newblock {\em Continuous Delivery: Reliable Software Releases through Build,
+  Test, and Deployment Automation},
+\newblock Addison-Wesley Professional, 2010.
+
+\bibitem{Devopstrunk}
+paul hammant,
+\newblock ``Trunk based development,'' URL:
+  \url{https://trunkbaseddevelopment.com/} [Accessed: 2023-11-01].
+
+\bibitem{DevopsIaac1}
+M.~Huttermann,
+\newblock {\em DevOps for Developers}, chapter Infrastructure as Code,
+\newblock 2012.
 
 \bibitem{DevopsIaac2}
 Matej Artac, Tadej Borovssak, Elisabetta Di~Nitto, Michele Guerriero, and
@@ -58,14 +52,6 @@ Matej Artac, Tadej Borovssak, Elisabetta Di~Nitto, Michele Guerriero, and
 \newblock in {\em 2017 IEEE/ACM 39th International Conference on Software
   Engineering Companion (ICSE-C)}, May 2017, pp. 497--498.
 
-\bibitem{MLOpsProd1}
-Lucas Cardoso~Silva, Fernando Rezende~Zagatti, Bruno Silva~Sette, Lucas
-  Nildaimon~dos Santos~Silva, Daniel Lucrédio, Diego Furtado~Silva, and Helena
-  de~Medeiros~Caseli,
-\newblock ``Benchmarking machine learning solutions in production,''
-\newblock in {\em 2020 19th IEEE International Conference on Machine Learning
-  and Applications (ICMLA)}, 2020, pp. 626--633.
-
 \bibitem{DevopsMonitor}
 Nelly Delgado, Ann~Q Gates, and Steve Roach,
 \newblock ``A taxonomy and catalog of runtime software-fault monitoring
@@ -73,15 +59,12 @@ Nelly Delgado, Ann~Q Gates, and Steve Roach,
 \newblock {\em IEEE Transactions on software Engineering}, vol. 30, no. 12, pp.
   859--872, 2004.
 
-\bibitem{MLOpsCT2}
-Behrouz Derakhshan, Alireza~Rezaei Mahdiraji, Tilmann Rabl, and Volker Markl,
-\newblock ``Continuous deployment of machine learning pipelines.,''
-\newblock in {\em EDBT}, March 2019, pp. 397--408.
-
-\bibitem{virtualization1}
-L~Navarro E Hernanchez-sanchez F~Rodriguez-Haro, F~Freitag,
-\newblock ``A summary of virtualization techniques,''
-\newblock .
+\bibitem{DevopsCICD2}
+SAIBS Arachchi and Indika Perera,
+\newblock ``Continuous integration and continuous delivery pipeline automation
+  for agile software project management,''
+\newblock in {\em Moratuwa Engineering Research Conference (MERCon)}, May 2018,
+  pp. 156--161.
 
 \bibitem{Devopsgitops}
 Anja~Kammer Florian~Beetz and Dr.~Simon Harrer,
@@ -94,35 +77,32 @@ N.~Forsgren and J.~Humble,
   performance,''
 \newblock March 2016.
 
-\bibitem{DevopsCD}
-Jez Humble and David Farley,
-\newblock {\em Continuous Delivery: Reliable Software Releases through Build,
-  Test, and Deployment Automation},
-\newblock Addison-Wesley Professional, 2010.
+\bibitem{virtualization2}
+``What is virtualization?,'' URL:
+  \url{https://aws.amazon.com/what-is/virtualization/} [Accessed: 2024-05-08].
 
-\bibitem{DevopsIaac1}
-M.~Huttermann,
-\newblock {\em DevOps for Developers}, chapter Infrastructure as Code,
-\newblock 2012.
+\bibitem{Dockervm}
+Amit~M Potdar, DG~Narayan, Shivaraj Kengond, and Mohammed~Moin Mulla,
+\newblock ``Performance evaluation of docker container and virtual machine,''
+\newblock {\em Procedia Computer Science}, vol. 171, pp. 1419--1428, 2020.
 
-\bibitem{DevopsDef1}
-Ramtin Jabbari, Nauman bin Ali, Kai Petersen, and Binish Tanveer,
-\newblock ``What is devops? a systematic mapping study on definitions and
-  practices,''
-\newblock in {\em Proceedings of the Scientific Workshop Proceedings of
-  XP2016}. 2016, Association for Computing Machinery.
+\bibitem{Docker2}
+``Containerization,'' URL: \url{https://www.ibm.com/topics/containerization}
+  [Accessed: 2023-05-21].
 
-\bibitem{DevopsAgile}
-A.~Van Bennekum A. Cockburn-W. Cunningham M. Fowler J. Grenning J. Highsmith A.
-  Hunt R.~Jeffries K.~Beck, M.~Beedle,
-\newblock ``Manifesto for agile software development,'' 2001,
-\newblock URL: \url{https://agilemanifesto.org/} [Accessed: 2024-02-17].
+\bibitem{Docker1}
+``Docker,'' URL: \url{https://docs.docker.com/} [Accessed: 2023-05-18].
 
-\bibitem{MLOpsCT1}
-Ioannis Karamitsos, Saeed Albarhami, and Charalampos Apostolopoulos,
-\newblock ``Applying devops practices of continuous automation for machine
-  learning,''
-\newblock {\em Information}, vol. 11, no. 7, 2020.
+\bibitem{MLOpsPipeline1}
+Y.~Yu Y.~Zhou and B.~Ding,
+\newblock ``Towards mlops: A case study of ml pipeline platform,'' October
+  2020.
+
+\bibitem{MLOpsWO1}
+Damian~A. Tamburri,
+\newblock ``Sustainable mlops: Trends and challenges,''
+\newblock in {\em 2020 22nd International Symposium on Symbolic and Numeric
+  Algorithms for Scientific Computing (SYNASC)}, 2020, pp. 17--23.
 
 \bibitem{MLOpsWO2}
 Lucy~Ellen Lwakatare, Ivica Crnkovic, Ellinor R{\aa}nge, and Jan Bosch,
@@ -131,6 +111,46 @@ Lucy~Ellen Lwakatare, Ivica Crnkovic, Ellinor R{\aa}nge, and Jan Bosch,
 \newblock in {\em Product-Focused Software Process Improvement}, Maurizio
   Morisio, Marco Torchiano, and Andreas Jedlitschka, Eds., Cham, 2020, pp.
   185--201, Springer International Publishing.
+
+\bibitem{MLOpsCT1}
+Ioannis Karamitsos, Saeed Albarhami, and Charalampos Apostolopoulos,
+\newblock ``Applying devops practices of continuous automation for machine
+  learning,''
+\newblock {\em Information}, vol. 11, no. 7, 2020.
+
+\bibitem{MLOpsProd1}
+Lucas Cardoso~Silva, Fernando Rezende~Zagatti, Bruno Silva~Sette, Lucas
+  Nildaimon~dos Santos~Silva, Daniel Lucrédio, Diego Furtado~Silva, and Helena
+  de~Medeiros~Caseli,
+\newblock ``Benchmarking machine learning solutions in production,''
+\newblock in {\em 2020 19th IEEE International Conference on Machine Learning
+  and Applications (ICMLA)}, 2020, pp. 626--633.
+
+\bibitem{MLOpsCT2}
+Behrouz Derakhshan, Alireza~Rezaei Mahdiraji, Tilmann Rabl, and Volker Markl,
+\newblock ``Continuous deployment of machine learning pipelines.,''
+\newblock in {\em EDBT}, March 2019, pp. 397--408.
+
+\bibitem{MLOpsProd2}
+Alexandra Posoldova,
+\newblock ``Machine learning pipelines: From research to production,''
+\newblock {\em IEEE Potentials}, vol. 39, no. 6, pp. 38--42, 2020.
+
+\bibitem{Airflow}
+``Apache airflow,'' URL: \url{https://airflow.apache.org/} [Accessed:
+  2023-11-02].
+
+\bibitem{Kubeflow}
+``Kubeflow,'' URL: \url{https://www.kubeflow.org/} [Accessed: 2023-11-02].
+
+\bibitem{MLOpsWFCOMP1}
+M.~Schmitt,
+\newblock ``Airflow vs. luigi vs. argo vs. mlflow vs. kubeflow,'' URL:
+  \url{https://www.datarevenue.com/en-blog/airflow-vs-luigi-vs-argo-vs-mlflow-vs-kubeflow}
+  [Accessed: 2023-11-02].
+
+\bibitem{Feast}
+``Feast,'' URL: \url{https://feast.dev/} [Accessed: 2023-11-05].
 
 \bibitem{MLOpsCloud1}
 Álvaro López~García, Jesús~Marco De~Lucas, Marica Antonacci, Wolfgang
@@ -144,20 +164,14 @@ Lucy~Ellen Lwakatare, Ivica Crnkovic, Ellinor R{\aa}nge, and Jan Bosch,
   applications,''
 \newblock {\em IEEE Access}, vol. 8, pp. 18681--18692, 2020.
 
-\bibitem{Devopstrunk}
-paul hammant,
-\newblock ``Trunk based development,'' URL:
-  \url{https://trunkbaseddevelopment.com/} [Accessed: 2023-11-01].
+\bibitem{MLflow}
+``Mlflow,'' URL: \url{https://mlflow.org/} [Accessed: 2023-11-21].
 
-\bibitem{MLOpsProd2}
-Alexandra Posoldova,
-\newblock ``Machine learning pipelines: From research to production,''
-\newblock {\em IEEE Potentials}, vol. 39, no. 6, pp. 38--42, 2020.
+\bibitem{Spark}
+``Apache spark,'' URL: \url{https://spark.apache.org/} [Accessed: 2023-11-29].
 
-\bibitem{Dockervm}
-Amit~M Potdar, DG~Narayan, Shivaraj Kengond, and Mohammed~Moin Mulla,
-\newblock ``Performance evaluation of docker container and virtual machine,''
-\newblock {\em Procedia Computer Science}, vol. 171, pp. 1419--1428, 2020.
+\bibitem{Knative}
+``Knative,'' URL: \url{https://knative.dev/docs/} [Accessed: 2023-11-29].
 
 \bibitem{MLOpsData}
 C{\'{e}}dric Renggli, Luka Rimanic, Nezihe~Merve G{\"{u}}rel, Bojan Karlas,
@@ -166,28 +180,14 @@ C{\'{e}}dric Renggli, Luka Rimanic, Nezihe~Merve G{\"{u}}rel, Bojan Karlas,
 \newblock {\em CoRR}, vol. abs/2102.07750, 2021,
 \newblock URL: \url{https://arxiv.org/abs/2102.07750} [Accessed: 2023-11-30].
 
-\bibitem{MLOpsWFCOMP1}
-M.~Schmitt,
-\newblock ``Airflow vs. luigi vs. argo vs. mlflow vs. kubeflow,'' URL:
-  \url{https://www.datarevenue.com/en-blog/airflow-vs-luigi-vs-argo-vs-mlflow-vs-kubeflow}
-  [Accessed: 2023-11-02].
+\bibitem{GitLab}
+``Gitlab,'' URL: \url{https://about.gitlab.com/} [Accessed: 2024-05-16].
 
-\bibitem{MLOpsWO1}
-Damian~A. Tamburri,
-\newblock ``Sustainable mlops: Trends and challenges,''
-\newblock in {\em 2020 22nd International Symposium on Symbolic and Numeric
-  Algorithms for Scientific Computing (SYNASC)}, 2020, pp. 17--23.
+\bibitem{Gerrit}
+``Gerritcodereview,'' URL: \url{https://www.gerritcodereview.com/} [Accessed:
+  2024-05-16].
 
-\bibitem{DevopsCICD1}
-Manish Virmani,
-\newblock ``Understanding devops and bridging the gap from continuous
-  integration to continuous delivery,''
-\newblock in {\em Fifth International Conference on the Innovative Computing
-  Technology (INTECH 2015)}, 2015, pp. 78--82.
-
-\bibitem{MLOpsPipeline1}
-Y.~Yu Y.~Zhou and B.~Ding,
-\newblock ``Towards mlops: A case study of ml pipeline platform,'' October
-  2020.
+\bibitem{Jenkins}
+``Jenkins,'' URL: \url{https://www.jenkins.io/} [Accessed: 2023-11-01].
 
 \end{thebibliography}
