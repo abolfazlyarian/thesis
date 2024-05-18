@@ -28,7 +28,8 @@
 \contentsline {section}{\numberline {3-3}معماری کلی}{26}{}%
 \contentsline {subsubsection}{مرحله اولیه}{27}{}%
 \contentsline {subsubsection}{خط لوله مهندسی ویژگی}{27}{}%
-\contentsline {chapter}{\numberline {4}آنتروپی و استفاده از آن در نهان\nobreakspace {}نگاری}{30}{}%
-\contentsline {section}{\numberline {4-1}مقدمه}{30}{}%
-\contentsline {section}{\numberline {4-2}آنتروپی}{30}{}%
-\contentsline {chapter}{\numberline {5}نتیجه‌گیری و پیشنهادات}{31}{}%
+\contentsline {subsubsection}{بررسی و آزمایش}{29}{}%
+\contentsline {chapter}{\numberline {4}آنتروپی و استفاده از آن در نهان\nobreakspace {}نگاری}{31}{}%
+\contentsline {section}{\numberline {4-1}مقدمه}{31}{}%
+\contentsline {section}{\numberline {4-2}آنتروپی}{31}{}%
+\contentsline {chapter}{\numberline {5}نتیجه‌گیری و پیشنهادات}{32}{}%
