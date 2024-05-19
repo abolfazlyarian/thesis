@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999995 (TeX Live 2023) (preloaded format=xelatex 2023.9.1)  18 MAY 2024 18:19
+This is XeTeX, Version 3.141592653-2.6-0.999995 (TeX Live 2023) (preloaded format=xelatex 2023.9.1)  19 MAY 2024 08:13
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1292,7 +1292,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 [13]
 File: ./picture//components-of-kubernetes.png Graphic file (type bmp)
 <./picture//components-of-kubernetes.png>
-)
+
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
 (fancyhdr)                Make it at least 13.7346pt, for example:
@@ -1301,7 +1301,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 
 (fancyhdr)                \addtolength{\topmargin}{-1.7346pt}.
 
-[14]
+[14])
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
 (fancyhdr)                Make it at least 13.7346pt, for example:
@@ -1453,7 +1453,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 
 (fancyhdr)                \addtolength{\topmargin}{-0.25702pt}.
 
-[29])
+[29]
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
 (fancyhdr)                Make it at least 12.25702pt, for example:
@@ -1463,11 +1463,38 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-0.25702pt}.
 
 [30]
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 12.25702pt, for example:
+(fancyhdr)                \setlength{\headheight}{12.25702pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-0.25702pt}.
+
+[31])
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 12.25702pt, for example:
+(fancyhdr)                \setlength{\headheight}{12.25702pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-0.25702pt}.
+
+[32]
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 12.25702pt, for example:
+(fancyhdr)                \setlength{\headheight}{12.25702pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-0.25702pt}.
+
+[33]
 \openout2 = `Entropy.aux'.
 
  (./Entropy.tex
 فصل 4.
-) [31
+) [34
 
 
 
@@ -1477,7 +1504,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 
  (./Conclusion.tex
 فصل 5.
-) [32
+) [35
 
 
 
@@ -1489,7 +1516,7 @@ Underfull \hbox (badness 1342) in paragraph at lines 16--18
 ][][][][]$ [Accessed:[]
  []
 
-[33
+[36
 
 
 
@@ -1502,7 +1529,16 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 
 (fancyhdr)                \addtolength{\topmargin}{-1.86893pt}.
 
-[34]
+[37]
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 13.86893pt, for example:
+(fancyhdr)                \setlength{\headheight}{13.86893pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-1.86893pt}.
+
+[38]
 \openout2 = `EnglishAbstract.aux'.
 
  (./EnglishAbstract.tex
@@ -1515,7 +1551,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 40--49
 [][]
  []
 
-) [35
+) [39
 
 ]
 \openout2 = `EnglishJeld.aux'.
@@ -1523,7 +1559,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 40--49
  (./EnglishJeld.tex
 File: Sharif_Logo.pdf Graphic file (type pdf)
 <use Sharif_Logo.pdf>
-) [36
+) [40
 
 
 
@@ -1544,12 +1580,12 @@ LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 ### simple group (level 1) entered at line 21 ({)
 ### bottom level 
 Here is how much of TeX's memory you used:
- 20436 strings out of 476683
- 459651 string characters out of 5807576
- 1906012 words of memory out of 5000000
- 40096 multiletter control sequences out of 15000+600000
+ 20445 strings out of 476683
+ 459778 string characters out of 5807576
+ 1905012 words of memory out of 5000000
+ 40105 multiletter control sequences out of 15000+600000
  517857 words of font info for 118 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
  87i,13n,97p,1388b,983s stack positions out of 10000i,1000n,20000p,200000b,200000s
 
-Output written on Thesis.pdf (47 pages).
+Output written on Thesis.pdf (51 pages).

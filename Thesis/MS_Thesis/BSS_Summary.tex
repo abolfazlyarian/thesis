@@ -233,6 +233,14 @@
 \subsubsection{معماری کوبرنتیز}
 یک سیستم کوبرنتیز با تمام اجزای آن را یک خوشه\footnote{\lr{Cluster}} می‌گویند. هر خوشه شامل یک یا چند گره\footnote{\lr{Node}} است که می توانند فیزیکی\footnote{\lr{Bare-metal}} یا مجازی باشند. این گره ها به دو دسته اصلی یا همان سطح کنترل\footnote{\lr{Control plane}} و کارگر\footnote{\lr{Worker}} تقسیم می شوند.
 گره اصلی به عنوان مغز متفکر کوبرنتیز عمل می‌کند و وظایف مدیریتی خوشه را بر عهده دارد. این گره شامل مولفه‌های اصلی زیر است:
+
+\begin{figure}[t]
+	\centering
+	\includegraphics[scale=0.6]{components-of-kubernetes.png}
+	\caption{مولفه های یک خوشه کوبرنتیز}
+	\label{fig: components of kuber}
+\end{figure}
+
 \begin{itemize}
 	\item 
 \lr{API Server}: 
@@ -259,12 +267,7 @@
 \end{itemize}
 
 
-\begin{figure}[t]
-	\centering
-	\includegraphics[scale=0.6]{components-of-kubernetes.png}
-	\caption{مولفه های یک خوشه کوبرنتیز}
-	\label{fig: components of kuber}
-\end{figure}
+
 
 
 

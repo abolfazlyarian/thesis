@@ -210,4 +210,9 @@ Jun Xu,
 \bibitem{Jupyter}
 ``Jupyter,'' URL: \url{https://jupyter.org/} [Accessed: 2023-11-31].
 
+\bibitem{MLOpsArch3}
+Tao Cui, Ye~Wang, and Bassel Namih,
+\newblock ``Build an intelligent online marketing system: An overview,''
+\newblock {\em IEEE Internet Computing}, vol. 23, no. 4, pp. 53--60, 2019.
+
 \end{thebibliography}

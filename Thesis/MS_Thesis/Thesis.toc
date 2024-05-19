@@ -29,7 +29,8 @@
 \contentsline {subsubsection}{مرحله اولیه}{27}{}%
 \contentsline {subsubsection}{خط لوله مهندسی ویژگی}{27}{}%
 \contentsline {subsubsection}{بررسی و آزمایش}{29}{}%
-\contentsline {chapter}{\numberline {4}آنتروپی و استفاده از آن در نهان\nobreakspace {}نگاری}{31}{}%
-\contentsline {section}{\numberline {4-1}مقدمه}{31}{}%
-\contentsline {section}{\numberline {4-2}آنتروپی}{31}{}%
-\contentsline {chapter}{\numberline {5}نتیجه‌گیری و پیشنهادات}{32}{}%
+\contentsline {subsubsection}{خودکارسازی جریان کاری یادگیری ماشین}{30}{}%
+\contentsline {chapter}{\numberline {4}آنتروپی و استفاده از آن در نهان\nobreakspace {}نگاری}{34}{}%
+\contentsline {section}{\numberline {4-1}مقدمه}{34}{}%
+\contentsline {section}{\numberline {4-2}آنتروپی}{34}{}%
+\contentsline {chapter}{\numberline {5}نتیجه‌گیری و پیشنهادات}{35}{}%
