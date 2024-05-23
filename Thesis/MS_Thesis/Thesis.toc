@@ -37,4 +37,8 @@
 \contentsline {subsubsection}{طراحی خط لوله}{36}{}%
 \contentsline {subsection}{\numberline {4-2-2}مخزن کد منبع}{36}{}%
 \contentsline {subsection}{\numberline {4-2-3}مخزن مؤلفه ها}{37}{}%
+\contentsline {subsubsection}{مخازن \lr {APT}}{37}{}%
+\contentsline {subsubsection}{مخزن \lr {PyPI}}{38}{}%
+\contentsline {subsubsection}{مخزن \lr {Docker}}{38}{}%
+\contentsline {subsubsection}{مخزن \lr {raw}}{38}{}%
 \contentsline {chapter}{\numberline {5}نتیجه‌گیری و پیشنهادات}{39}{}%
