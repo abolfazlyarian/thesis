@@ -30,7 +30,8 @@
 \contentsline {subsubsection}{خط لوله مهندسی ویژگی}{27}{}%
 \contentsline {subsubsection}{بررسی و آزمایش}{29}{}%
 \contentsline {subsubsection}{خودکارسازی جریان کاری یادگیری ماشین}{30}{}%
-\contentsline {chapter}{\numberline {4}آنتروپی و استفاده از آن در نهان\nobreakspace {}نگاری}{34}{}%
+\contentsline {chapter}{\numberline {4}طراحی یگ پلتفرم \lr {MLOps}}{34}{}%
 \contentsline {section}{\numberline {4-1}مقدمه}{34}{}%
-\contentsline {section}{\numberline {4-2}آنتروپی}{34}{}%
-\contentsline {chapter}{\numberline {5}نتیجه‌گیری و پیشنهادات}{35}{}%
+\contentsline {section}{\numberline {4-2}مدیریت سیستم}{34}{}%
+\contentsline {subsection}{\numberline {4-2-1}خط لوله \lr {CI/CD}}{34}{}%
+\contentsline {chapter}{\numberline {5}نتیجه‌گیری و پیشنهادات}{37}{}%
