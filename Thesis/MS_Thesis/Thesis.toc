@@ -34,4 +34,5 @@
 \contentsline {section}{\numberline {4-1}مقدمه}{34}{}%
 \contentsline {section}{\numberline {4-2}مدیریت سیستم}{34}{}%
 \contentsline {subsection}{\numberline {4-2-1}خط لوله \lr {CI/CD}}{34}{}%
-\contentsline {chapter}{\numberline {5}نتیجه‌گیری و پیشنهادات}{37}{}%
+\contentsline {subsection}{\numberline {4-2-2}مخزن کد منبع}{36}{}%
+\contentsline {chapter}{\numberline {5}نتیجه‌گیری و پیشنهادات}{38}{}%
