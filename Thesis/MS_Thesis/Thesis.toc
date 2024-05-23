@@ -32,7 +32,9 @@
 \contentsline {subsubsection}{خودکارسازی جریان کاری یادگیری ماشین}{30}{}%
 \contentsline {chapter}{\numberline {4}طراحی یگ پلتفرم \lr {MLOps}}{34}{}%
 \contentsline {section}{\numberline {4-1}مقدمه}{34}{}%
-\contentsline {section}{\numberline {4-2}مدیریت سیستم}{34}{}%
+\contentsline {section}{\numberline {4-2}سیستم مدیریت}{34}{}%
 \contentsline {subsection}{\numberline {4-2-1}خط لوله \lr {CI/CD}}{34}{}%
+\contentsline {subsubsection}{طراحی خط لوله}{36}{}%
 \contentsline {subsection}{\numberline {4-2-2}مخزن کد منبع}{36}{}%
-\contentsline {chapter}{\numberline {5}نتیجه‌گیری و پیشنهادات}{38}{}%
+\contentsline {subsection}{\numberline {4-2-3}مخزن مؤلفه ها}{37}{}%
+\contentsline {chapter}{\numberline {5}نتیجه‌گیری و پیشنهادات}{39}{}%
