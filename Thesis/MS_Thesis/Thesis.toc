@@ -35,13 +35,13 @@
 \contentsline {section}{\numberline {4-2}سیستم مدیریت پلتفرم}{34}{}%
 \contentsline {subsection}{\numberline {4-2-1}مدیریت پیکربندی و فراهم سازی زیرساخت}{34}{}%
 \contentsline {subsubsection}{مدیریت پیکربندی}{35}{}%
-\contentsline {subsubsection}{فراهم سازی زیرساخت}{35}{}%
+\contentsline {subsubsection}{فراهم سازی زیرساخت}{36}{}%
 \contentsline {subsection}{\numberline {4-2-2}خط لوله \lr {CI/CD}}{36}{}%
 \contentsline {subsubsection}{طراحی خط لوله}{38}{}%
 \contentsline {subsection}{\numberline {4-2-3}مخزن کد منبع}{38}{}%
-\contentsline {subsection}{\numberline {4-2-4}مخزن مؤلفه ها}{38}{}%
+\contentsline {subsection}{\numberline {4-2-4}مخزن مؤلفه ها}{39}{}%
 \contentsline {subsubsection}{مخازن \lr {APT}}{39}{}%
 \contentsline {subsubsection}{مخزن \lr {PyPI}}{39}{}%
-\contentsline {subsubsection}{مخزن \lr {Docker}}{39}{}%
+\contentsline {subsubsection}{مخزن \lr {Docker}}{40}{}%
 \contentsline {subsubsection}{مخزن \lr {raw}}{40}{}%
 \contentsline {chapter}{\numberline {5}نتیجه‌گیری و پیشنهادات}{41}{}%
