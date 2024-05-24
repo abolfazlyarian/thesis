@@ -215,4 +215,10 @@ Tao Cui, Ye~Wang, and Bassel Namih,
 \newblock ``Build an intelligent online marketing system: An overview,''
 \newblock {\em IEEE Internet Computing}, vol. 23, no. 4, pp. 53--60, 2019.
 
+\bibitem{Ansible}
+``Ansible,'' URL: \url{https://www.ansible.com/} [Accessed: 2023-12-01].
+
+\bibitem{Terraform}
+``Terraform,'' URL: \url{https://www.terraform.io/} [Accessed: 2023-12-01].
+
 \end{thebibliography}

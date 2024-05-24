@@ -25,20 +25,23 @@
 \contentsline {subsubsection}{مخزن کد منبع}{24}{}%
 \contentsline {subsubsection}{خط لوله \lr {CI/CD}}{24}{}%
 \contentsline {subsection}{\numberline {3-2-3}نقش ها}{25}{}%
-\contentsline {section}{\numberline {3-3}معماری کلی}{26}{}%
+\contentsline {section}{\numberline {3-3}معماری جامع}{26}{}%
 \contentsline {subsubsection}{مرحله اولیه}{27}{}%
 \contentsline {subsubsection}{خط لوله مهندسی ویژگی}{27}{}%
 \contentsline {subsubsection}{بررسی و آزمایش}{29}{}%
 \contentsline {subsubsection}{خودکارسازی جریان کاری یادگیری ماشین}{30}{}%
-\contentsline {chapter}{\numberline {4}طراحی یگ پلتفرم \lr {MLOps}}{34}{}%
+\contentsline {chapter}{\numberline {4}طراحی یک پلتفرم \lr {MLOps}}{34}{}%
 \contentsline {section}{\numberline {4-1}مقدمه}{34}{}%
-\contentsline {section}{\numberline {4-2}سیستم مدیریت}{34}{}%
-\contentsline {subsection}{\numberline {4-2-1}خط لوله \lr {CI/CD}}{34}{}%
-\contentsline {subsubsection}{طراحی خط لوله}{36}{}%
-\contentsline {subsection}{\numberline {4-2-2}مخزن کد منبع}{36}{}%
-\contentsline {subsection}{\numberline {4-2-3}مخزن مؤلفه ها}{37}{}%
-\contentsline {subsubsection}{مخازن \lr {APT}}{37}{}%
-\contentsline {subsubsection}{مخزن \lr {PyPI}}{38}{}%
-\contentsline {subsubsection}{مخزن \lr {Docker}}{38}{}%
-\contentsline {subsubsection}{مخزن \lr {raw}}{38}{}%
-\contentsline {chapter}{\numberline {5}نتیجه‌گیری و پیشنهادات}{39}{}%
+\contentsline {section}{\numberline {4-2}سیستم مدیریت پلتفرم}{34}{}%
+\contentsline {subsection}{\numberline {4-2-1}مدیریت پیکربندی و فراهم سازی زیرساخت}{34}{}%
+\contentsline {subsubsection}{مدیریت پیکربندی}{35}{}%
+\contentsline {subsubsection}{فراهم سازی زیرساخت}{35}{}%
+\contentsline {subsection}{\numberline {4-2-2}خط لوله \lr {CI/CD}}{36}{}%
+\contentsline {subsubsection}{طراحی خط لوله}{38}{}%
+\contentsline {subsection}{\numberline {4-2-3}مخزن کد منبع}{38}{}%
+\contentsline {subsection}{\numberline {4-2-4}مخزن مؤلفه ها}{38}{}%
+\contentsline {subsubsection}{مخازن \lr {APT}}{39}{}%
+\contentsline {subsubsection}{مخزن \lr {PyPI}}{39}{}%
+\contentsline {subsubsection}{مخزن \lr {Docker}}{39}{}%
+\contentsline {subsubsection}{مخزن \lr {raw}}{40}{}%
+\contentsline {chapter}{\numberline {5}نتیجه‌گیری و پیشنهادات}{41}{}%
