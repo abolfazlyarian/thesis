@@ -44,4 +44,6 @@
 \contentsline {subsubsection}{مخزن \lr {PyPI}}{39}{}%
 \contentsline {subsubsection}{مخزن \lr {Docker}}{40}{}%
 \contentsline {subsubsection}{مخزن \lr {raw}}{40}{}%
-\contentsline {chapter}{\numberline {5}نتیجه‌گیری و پیشنهادات}{41}{}%
+\contentsline {section}{\numberline {4-3}خوشه کوبرنتیز}{40}{}%
+\contentsline {subsection}{\numberline {4-3-1}ذخیره سازی داده}{41}{}%
+\contentsline {chapter}{\numberline {5}نتیجه‌گیری و پیشنهادات}{43}{}%
