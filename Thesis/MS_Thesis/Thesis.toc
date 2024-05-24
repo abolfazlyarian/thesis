@@ -45,5 +45,8 @@
 \contentsline {subsubsection}{مخزن \lr {Docker}}{40}{}%
 \contentsline {subsubsection}{مخزن \lr {raw}}{40}{}%
 \contentsline {section}{\numberline {4-3}خوشه کوبرنتیز}{40}{}%
-\contentsline {subsection}{\numberline {4-3-1}ذخیره سازی داده}{41}{}%
-\contentsline {chapter}{\numberline {5}نتیجه‌گیری و پیشنهادات}{43}{}%
+\contentsline {subsection}{\numberline {4-3-1}مدیریت داده و ویژگی}{41}{}%
+\contentsline {subsubsection}{حجم پایدار و فراهم سازهای پویا}{41}{}%
+\contentsline {subsubsection}{ذخیره سازی داده}{42}{}%
+\contentsline {subsubsection}{انبار داده}{43}{}%
+\contentsline {chapter}{\numberline {5}نتیجه‌گیری و پیشنهادات}{44}{}%
