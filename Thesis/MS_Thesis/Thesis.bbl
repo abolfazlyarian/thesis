@@ -221,4 +221,18 @@ Tao Cui, Ye~Wang, and Bassel Namih,
 \bibitem{Terraform}
 ``Terraform,'' URL: \url{https://www.terraform.io/} [Accessed: 2023-12-01].
 
+\bibitem{Kubernetes1}
+M.~Luksa,
+\newblock {\em Kubernetes in Action},
+\newblock Manning, 2018.
+
+\bibitem{Kubernetes2}
+K.~Hightower, B.~Burns, and J.~Beda,
+\newblock {\em Kubernetes: Up and Running: Dive into the Future of
+  Infrastructure},
+\newblock O'Reilly Media, 2017.
+
+\bibitem{MinIO}
+``Minio,'' URL: \url{https://min.io/} [Accessed: 2023-12-05].
+
 \end{thebibliography}
