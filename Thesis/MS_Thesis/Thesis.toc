@@ -52,4 +52,8 @@
 \contentsline {subsection}{\numberline {4-3-2}شبکه}{44}{}%
 \contentsline {subsubsection}{سطح داده}{45}{}%
 \contentsline {subsubsection}{سطح کنترل}{46}{}%
-\contentsline {chapter}{\numberline {5}نتیجه‌گیری و پیشنهادات}{48}{}%
+\contentsline {subsection}{\numberline {4-3-3}مدیریت کاربران و چندمستاجری}{47}{}%
+\contentsline {subsubsection}{احراز هویت}{47}{}%
+\contentsline {subsubsection}{ایزوله‌سازی}{48}{}%
+\contentsline {subsubsection}{مجوزدهی}{48}{}%
+\contentsline {chapter}{\numberline {5}نتیجه‌گیری و پیشنهادات}{50}{}%

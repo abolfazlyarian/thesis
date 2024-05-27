@@ -13,8 +13,9 @@ Ramtin Jabbari, Nauman bin Ali, Kai Petersen, and Binish Tanveer,
   XP2016}. 2016, Association for Computing Machinery.
 
 \bibitem{DevopsDef2}
-``What is devops?,'' URL: \url{https://aws.amazon.com/devops/what-is-devops/}
-  [Accessed: 2024-05-07].
+Inc. Amazon Web~Services,
+\newblock ``What is devops?,'' URL:
+  \url{https://aws.amazon.com/devops/what-is-devops/} [Accessed: 2024-05-07].
 
 \bibitem{DevopsCICD1}
 Manish Virmani,
@@ -91,7 +92,9 @@ Amit~M Potdar, DG~Narayan, Shivaraj Kengond, and Mohammed~Moin Mulla,
   [Accessed: 2023-05-21].
 
 \bibitem{Docker1}
-``Docker,'' URL: \url{https://docs.docker.com/} [Accessed: 2023-05-18].
+Docker Inc.,
+\newblock ``Docker,'' URL: \url{https://docs.docker.com/} [Accessed:
+  2023-05-18].
 
 \bibitem{MLOpsPipeline1}
 Y.~Yu Y.~Zhou and B.~Ding,
@@ -234,5 +237,25 @@ K.~Hightower, B.~Burns, and J.~Beda,
 
 \bibitem{MinIO}
 ``Minio,'' URL: \url{https://min.io/} [Accessed: 2023-12-05].
+
+\bibitem{Istio1}
+Wubin Li, Yves Lemieux, Jing Gao, Zhuofeng Zhao, and Yanbo Han,
+\newblock ``Service mesh: Challenges, state of the art, and future research
+  opportunities,''
+\newblock in {\em 2019 IEEE International Conference on Service-Oriented System
+  Engineering (SOSE)}, 2019, pp. 122--1225.
+
+\bibitem{Istio2}
+L.~Calcote and Z.~Butcher,
+\newblock {\em Istio: Up and Running: Using a Service Mesh to Connect, Secure,
+  Control, and Observe},
+\newblock O'Reilly Media, 2019.
+
+\bibitem{OIDC1}
+Daniel Fett, Ralf Küsters, and Guido Schmitz,
+\newblock ``The web sso standard openid connect: In-depth formal security
+  analysis and security guidelines,''
+\newblock in {\em 2017 IEEE 30th Computer Security Foundations Symposium
+  (CSF)}, 2017, pp. 189--202.
 
 \end{thebibliography}
