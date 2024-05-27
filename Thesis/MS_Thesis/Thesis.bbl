@@ -258,4 +258,13 @@ Daniel Fett, Ralf Küsters, and Guido Schmitz,
 \newblock in {\em 2017 IEEE 30th Computer Security Foundations Symposium
   (CSF)}, 2017, pp. 189--202.
 
+\bibitem{Prometheus1}
+J.~Pivotto and B.~Brazil,
+\newblock {\em Prometheus: Up \& Running},
+\newblock O'Reilly Media, 2023.
+
+\bibitem{Grafana}
+Raintank Inc.,
+\newblock ``Grafana,'' URL: \url{https://grafana.com/} [Accessed: 2023-12-29].
+
 \end{thebibliography}

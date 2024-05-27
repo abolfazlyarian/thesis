@@ -56,4 +56,8 @@
 \contentsline {subsubsection}{احراز هویت}{47}{}%
 \contentsline {subsubsection}{ایزوله‌سازی}{48}{}%
 \contentsline {subsubsection}{مجوزدهی}{48}{}%
-\contentsline {chapter}{\numberline {5}نتیجه‌گیری و پیشنهادات}{50}{}%
+\contentsline {subsection}{\numberline {4-3-4}نظارت}{49}{}%
+\contentsline {subsubsection}{متریک‌های سیستم}{49}{}%
+\contentsline {subsubsection}{متریک‌های مدل}{49}{}%
+\contentsline {subsubsection}{متریک‌های داده}{49}{}%
+\contentsline {chapter}{\numberline {5}نتیجه‌گیری و پیشنهادات}{51}{}%
