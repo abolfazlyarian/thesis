@@ -65,4 +65,7 @@
 \contentsline {section}{\numberline {5-1}پیاده سازی پلتفرم}{51}{}%
 \contentsline {subsection}{\numberline {5-1-1}سیستم مدیریت}{51}{}%
 \contentsline {subsection}{\numberline {5-1-2}خوشه کوبرنتیز}{54}{}%
-\contentsline {chapter}{\numberline {6}نتیجه‌گیری و پیشنهادات}{55}{}%
+\contentsline {subsubsection}{پیاده سازی خوشه کوبرنتیز}{54}{}%
+\contentsline {subsubsection}{پیاده سازی مولفه های پروژه}{55}{}%
+\contentsline {section}{\numberline {5-2}حل مسئله و نتایج}{56}{}%
+\contentsline {chapter}{\numberline {6}نتیجه‌گیری و پیشنهادات}{57}{}%
