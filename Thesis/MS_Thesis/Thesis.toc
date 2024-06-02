@@ -44,7 +44,7 @@
 \contentsline {subsubsection}{مخزن \lr {PyPI}}{39}{}%
 \contentsline {subsubsection}{مخزن \lr {Docker}}{40}{}%
 \contentsline {subsubsection}{مخزن \lr {raw}}{40}{}%
-\contentsline {section}{\numberline {4-3}خوشه کوبرنتیز}{40}{}%
+\contentsline {section}{\numberline {4-3}معماری خوشه کوبرنتیز}{40}{}%
 \contentsline {subsection}{\numberline {4-3-1}مدیریت داده}{41}{}%
 \contentsline {subsubsection}{حجم پایدار و فراهم سازهای پویا}{41}{}%
 \contentsline {subsubsection}{ذخیره سازی داده}{42}{}%
@@ -60,4 +60,9 @@
 \contentsline {subsubsection}{متریک‌های سیستم}{49}{}%
 \contentsline {subsubsection}{متریک‌های مدل}{49}{}%
 \contentsline {subsubsection}{متریک‌های داده}{49}{}%
-\contentsline {chapter}{\numberline {5}نتیجه‌گیری و پیشنهادات}{51}{}%
+\contentsline {subsection}{\numberline {4-3-5}استقرار مدل}{50}{}%
+\contentsline {chapter}{\numberline {5}پیاده سازی و نتایج}{51}{}%
+\contentsline {section}{\numberline {5-1}پیاده سازی پلتفرم}{51}{}%
+\contentsline {subsection}{\numberline {5-1-1}سیستم مدیریت}{51}{}%
+\contentsline {subsection}{\numberline {5-1-2}خوشه کوبرنتیز}{54}{}%
+\contentsline {chapter}{\numberline {6}نتیجه‌گیری و پیشنهادات}{55}{}%

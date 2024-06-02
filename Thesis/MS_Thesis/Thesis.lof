@@ -19,3 +19,7 @@
 \contentsline {figure}{\numberline {4-6}{\ignorespaces معماری \lr {Istio}}}{46}{}%
 \contentsline {figure}{\numberline {4-7}{\ignorespaces روند احراز هویت}}{48}{}%
 \addvspace {10\p@ }
+\contentsline {figure}{\numberline {5-1}{\ignorespaces مخازن مولفه در \lr {Nexus}}}{53}{}%
+\contentsline {figure}{\numberline {5-2}{\ignorespaces خط لوله ها \lr {CI/CD} در \lr {Jenkins}}}{53}{}%
+\contentsline {figure}{\numberline {5-3}{\ignorespaces مخازن کد در \lr {Gitlab}}}{53}{}%
+\addvspace {10\p@ }
