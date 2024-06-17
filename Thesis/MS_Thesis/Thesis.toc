@@ -71,6 +71,7 @@
 \contentsline {subsection}{\numberline {5-2-1}مسئله تشخیص ارقام}{56}{}%
 \contentsline {subsection}{\numberline {5-2-2}مسئله تحلیل احساسات در بازار سهام}{56}{}%
 \contentsline {subsubsection}{خط لوله آموزش}{57}{}%
-\contentsline {subsubsection}{استقرار}{58}{}%
-\contentsline {subsection}{\numberline {5-2-3}مسئله توصیه گر کتاب}{58}{}%
-\contentsline {chapter}{\numberline {6}نتیجه‌گیری و پیشنهادات}{59}{}%
+\contentsline {subsubsection}{خط لوله استقرار}{59}{}%
+\contentsline {subsubsection}{نتایج}{59}{}%
+\contentsline {subsection}{\numberline {5-2-3}مسئله توصیه گر کتاب}{60}{}%
+\contentsline {chapter}{\numberline {6}نتیجه‌گیری و پیشنهادات}{62}{}%

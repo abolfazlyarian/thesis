@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999995 (TeX Live 2023) (preloaded format=xelatex 2023.9.1)  14 JUN 2024 18:19
+This is XeTeX, Version 3.141592653-2.6-0.999995 (TeX Live 2023) (preloaded format=xelatex 2023.9.1)  17 JUN 2024 20:43
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1763,7 +1763,16 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 
 (fancyhdr)                \addtolength{\topmargin}{-1.72821pt}.
 
-[57])
+[57]
+File: ./picture//stock-workflow.png Graphic file (type bmp)
+<./picture//stock-workflow.png>
+File: ./picture//stock-serve.png Graphic file (type bmp)
+<./picture//stock-serve.png>
+
+Overfull \hbox (14.79651pt too wide) in paragraph at lines 171--172
+ [][][][][][] 
+ []
+
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
 (fancyhdr)                Make it at least 13.72821pt, for example:
@@ -1773,16 +1782,46 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-1.72821pt}.
 
 [58]
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 13.72821pt, for example:
+(fancyhdr)                \setlength{\headheight}{13.72821pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-1.72821pt}.
+
+[59]
+File: ./picture//stock-time-req.png Graphic file (type bmp)
+<./picture//stock-time-req.png>
+)
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 13.72821pt, for example:
+(fancyhdr)                \setlength{\headheight}{13.72821pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-1.72821pt}.
+
+[60]
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 13.72821pt, for example:
+(fancyhdr)                \setlength{\headheight}{13.72821pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-1.72821pt}.
+
+[61]
 \openout2 = `Conclusion.aux'.
 
  (./Conclusion.tex
 فصل 6.
-) [59
+) [62
 
 
 
 
-] (./Thesis.bbl [60
+] (./Thesis.bbl [63
 
 
 
@@ -1795,7 +1834,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 
 (fancyhdr)                \addtolength{\topmargin}{-1.86893pt}.
 
-[61])
+[64])
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
 (fancyhdr)                Make it at least 13.86893pt, for example:
@@ -1804,7 +1843,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 
 (fancyhdr)                \addtolength{\topmargin}{-1.86893pt}.
 
-[62]
+[65]
 \openout2 = `EnglishAbstract.aux'.
 
  (./EnglishAbstract.tex
@@ -1817,7 +1856,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 40--49
 [][]
  []
 
-) [63
+) [66
 
 ]
 \openout2 = `EnglishJeld.aux'.
@@ -1825,7 +1864,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 40--49
  (./EnglishJeld.tex
 File: Sharif_Logo.pdf Graphic file (type pdf)
 <use Sharif_Logo.pdf>
-) [64
+) [67
 
 
 
@@ -1847,12 +1886,12 @@ LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 ### simple group (level 1) entered at line 21 ({)
 ### bottom level 
 Here is how much of TeX's memory you used:
- 20742 strings out of 476683
- 465998 string characters out of 5807576
+ 20781 strings out of 476683
+ 467039 string characters out of 5807576
  1905012 words of memory out of 5000000
- 40380 multiletter control sequences out of 15000+600000
+ 40416 multiletter control sequences out of 15000+600000
  517865 words of font info for 119 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
  87i,13n,97p,1542b,983s stack positions out of 10000i,1000n,20000p,200000b,200000s
 
-Output written on Thesis.pdf (75 pages).
+Output written on Thesis.pdf (78 pages).
