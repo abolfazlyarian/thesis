@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999995 (TeX Live 2023) (preloaded format=xelatex 2023.9.1)  17 JUN 2024 20:43
+This is XeTeX, Version 3.141592653-2.6-0.999995 (TeX Live 2023) (preloaded format=xelatex 2023.9.1)  20 JUN 2024 12:46
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -433,7 +433,33 @@ File: pgflibraryarrows.code.tex 2023-01-15 v3.1.10 (3.1.10)
 (c:/texlive/2023/texmf-dist/tex/generic/pgf/frontendlayer/tikz/libraries/tikzli
 brarypositioning.code.tex
 File: tikzlibrarypositioning.code.tex 2023-01-15 v3.1.10 (3.1.10)
-) (./MBZ_ThesisSettings1.tex
+)
+(c:/texlive/2023/texmf-dist/tex/latex/listings/listings.sty
+\lst@mode=\count290
+\lst@gtempboxa=\box64
+\lst@token=\toks34
+\lst@length=\count291
+\lst@currlwidth=\dimen259
+\lst@column=\count292
+\lst@pos=\count293
+\lst@lostspace=\dimen260
+\lst@width=\dimen261
+\lst@newlines=\count294
+\lst@lineno=\count295
+\lst@maxwidth=\dimen262
+
+(c:/texlive/2023/texmf-dist/tex/latex/listings/lstmisc.sty
+File: lstmisc.sty 2023/02/27 1.9 (Carsten Heinz)
+\c@lstnumber=\count296
+\lst@skipnumbers=\count297
+\lst@framebox=\box65
+)
+(c:/texlive/2023/texmf-dist/tex/latex/listings/listings.cfg
+File: listings.cfg 2023/02/27 1.9 listings configuration
+))
+Package: listings 2023/02/27 1.9 (Carsten Heinz)
+
+(./MBZ_ThesisSettings1.tex
 \MyLeftMargin=\skip62
 \MyRightMargin=\skip63
 \MyTopMargin=\skip64
@@ -448,18 +474,18 @@ Package: ifvtex 2019/10/25 v1.7 ifvtex legacy package. Use iftex instead.
 (c:/texlive/2023/texmf-dist/tex/generic/iftex/iftex.sty
 Package: iftex 2022/02/03 v1.0f TeX engine tests
 ))
-\Gm@cnth=\count290
-\Gm@cntv=\count291
-\c@Gm@tempcnt=\count292
-\Gm@bindingoffset=\dimen259
-\Gm@wd@mp=\dimen260
-\Gm@odd@mp=\dimen261
-\Gm@even@mp=\dimen262
-\Gm@layoutwidth=\dimen263
-\Gm@layoutheight=\dimen264
-\Gm@layouthoffset=\dimen265
-\Gm@layoutvoffset=\dimen266
-\Gm@dimlist=\toks34
+\Gm@cnth=\count298
+\Gm@cntv=\count299
+\c@Gm@tempcnt=\count300
+\Gm@bindingoffset=\dimen263
+\Gm@wd@mp=\dimen264
+\Gm@odd@mp=\dimen265
+\Gm@even@mp=\dimen266
+\Gm@layoutwidth=\dimen267
+\Gm@layoutheight=\dimen268
+\Gm@layouthoffset=\dimen269
+\Gm@layoutvoffset=\dimen270
+\Gm@dimlist=\toks35
 )
 (c:/texlive/2023/texmf-dist/tex/xelatex/xepersian/xepersian.sty
 Package: xepersian 2022/10/30 v24.8 (Release Women, Life, and Freedom) Persian 
@@ -472,11 +498,11 @@ Package: expl3 2023-02-22 L3 programming layer (loader)
 
 (c:/texlive/2023/texmf-dist/tex/latex/l3backend/l3backend-xetex.def
 File: l3backend-xetex.def 2023-01-16 L3 backend support: XeTeX
-\g__graphics_track_int=\count293
-\l__pdf_internal_box=\box64
-\g__pdf_backend_object_int=\count294
-\g__pdf_backend_annotation_int=\count295
-\g__pdf_backend_link_int=\count296
+\g__graphics_track_int=\count301
+\l__pdf_internal_box=\box66
+\g__pdf_backend_object_int=\count302
+\g__pdf_backend_annotation_int=\count303
+\g__pdf_backend_link_int=\count304
 ))
 Package: xparse 2023-02-02 L3 Experimental document command parser
 )
@@ -485,20 +511,20 @@ Package: fontspec 2022/01/15 v2.8a Font selection for XeLaTeX and LuaLaTeX
 (c:/texlive/2023/texmf-dist/tex/latex/fontspec/fontspec-xetex.sty
 Package: fontspec-xetex 2022/01/15 v2.8a Font selection for XeLaTeX and LuaLaTe
 X
-\l__fontspec_script_int=\count297
-\l__fontspec_language_int=\count298
-\l__fontspec_strnum_int=\count299
-\l__fontspec_tmp_int=\count300
-\l__fontspec_tmpa_int=\count301
-\l__fontspec_tmpb_int=\count302
-\l__fontspec_tmpc_int=\count303
-\l__fontspec_em_int=\count304
-\l__fontspec_emdef_int=\count305
-\l__fontspec_strong_int=\count306
-\l__fontspec_strongdef_int=\count307
-\l__fontspec_tmpa_dim=\dimen267
-\l__fontspec_tmpb_dim=\dimen268
-\l__fontspec_tmpc_dim=\dimen269
+\l__fontspec_script_int=\count305
+\l__fontspec_language_int=\count306
+\l__fontspec_strnum_int=\count307
+\l__fontspec_tmp_int=\count308
+\l__fontspec_tmpa_int=\count309
+\l__fontspec_tmpb_int=\count310
+\l__fontspec_tmpc_int=\count311
+\l__fontspec_em_int=\count312
+\l__fontspec_emdef_int=\count313
+\l__fontspec_strong_int=\count314
+\l__fontspec_strongdef_int=\count315
+\l__fontspec_tmpa_dim=\dimen271
+\l__fontspec_tmpb_dim=\dimen272
+\l__fontspec_tmpc_dim=\dimen273
 
 (c:/texlive/2023/texmf-dist/tex/latex/base/fontenc.sty
 Package: fontenc 2021/04/29 v2.0v Standard LaTeX package
@@ -506,43 +532,43 @@ Package: fontenc 2021/04/29 v2.0v Standard LaTeX package
 (c:/texlive/2023/texmf-dist/tex/latex/fontspec/fontspec.cfg)))
 (c:/texlive/2023/texmf-dist/tex/xelatex/xepersian/xepersian-persiancal.sty
 Package: xepersian-persiancal 2012/07/25 v0.2 provides Persian calendar
-\XePersian@i=\count308
-\XePersian@y=\count309
-\XePersian@m=\count310
-\XePersian@d=\count311
-\XePersian@latini=\count312
-\XePersian@persiani=\count313
-\XePersian@latinii=\count314
-\XePersian@persianii=\count315
-\XePersian@latiniii=\count316
-\XePersian@persianiii=\count317
-\XePersian@latiniv=\count318
-\XePersian@persianiv=\count319
-\XePersian@latinv=\count320
-\XePersian@persianv=\count321
-\XePersian@latinvi=\count322
-\XePersian@persianvi=\count323
-\XePersian@latinvii=\count324
-\XePersian@persianvii=\count325
-\XePersian@latinviii=\count326
-\XePersian@persianviii=\count327
-\XePersian@latinix=\count328
-\XePersian@persianix=\count329
-\XePersian@latinx=\count330
-\XePersian@persianx=\count331
-\XePersian@latinxi=\count332
-\XePersian@persianxi=\count333
-\XePersian@latinxii=\count334
-\XePersian@persianxii=\count335
-\XePersian@persianxiii=\count336
-\XePersian@temp=\count337
-\XePersian@temptwo=\count338
-\XePersian@tempthree=\count339
-\XePersian@yModHundred=\count340
-\XePersian@thirtytwo=\count341
-\XePersian@dn=\count342
-\XePersian@sn=\count343
-\XePersian@mminusone=\count344
+\XePersian@i=\count316
+\XePersian@y=\count317
+\XePersian@m=\count318
+\XePersian@d=\count319
+\XePersian@latini=\count320
+\XePersian@persiani=\count321
+\XePersian@latinii=\count322
+\XePersian@persianii=\count323
+\XePersian@latiniii=\count324
+\XePersian@persianiii=\count325
+\XePersian@latiniv=\count326
+\XePersian@persianiv=\count327
+\XePersian@latinv=\count328
+\XePersian@persianv=\count329
+\XePersian@latinvi=\count330
+\XePersian@persianvi=\count331
+\XePersian@latinvii=\count332
+\XePersian@persianvii=\count333
+\XePersian@latinviii=\count334
+\XePersian@persianviii=\count335
+\XePersian@latinix=\count336
+\XePersian@persianix=\count337
+\XePersian@latinx=\count338
+\XePersian@persianx=\count339
+\XePersian@latinxi=\count340
+\XePersian@persianxi=\count341
+\XePersian@latinxii=\count342
+\XePersian@persianxii=\count343
+\XePersian@persianxiii=\count344
+\XePersian@temp=\count345
+\XePersian@temptwo=\count346
+\XePersian@tempthree=\count347
+\XePersian@yModHundred=\count348
+\XePersian@thirtytwo=\count349
+\XePersian@dn=\count350
+\XePersian@sn=\count351
+\XePersian@mminusone=\count352
 )
 (c:/texlive/2023/texmf-dist/tex/xelatex/xepersian/xepersian-mathdigitspec.sty
 Package: xepersian-mathdigitspec 2022/05/20 v1.2.0 Unicode Persian math digits 
@@ -581,19 +607,19 @@ n plain TeX and LaTeX
 ****************************************************
 (c:/texlive/2023/texmf-dist/tex/xelatex/bidi/biditools.sty
 Package: biditools 2022/06/15 v2.3 Programming tools for bidi package
-\@bidi@envbody=\toks35
-\@bidi@emptytoks=\toks36
-\bidi@poscount=\count345
-\bidi@tempcountb=\count346
-\bidi@temptoksa=\toks37
-\bidi@temptoksb=\toks38
-\bidi@dummies=\count347
-\bidi@are@these@correct=\toks39
-\bidi@toks@lista=\toks40
-\bidi@toks@listb=\toks41
-\bidi@stack@length=\count348
-\bidi@empty@stack=\toks42
-\bidi@looprepeat@depth=\count349
+\@bidi@envbody=\toks36
+\@bidi@emptytoks=\toks37
+\bidi@poscount=\count353
+\bidi@tempcountb=\count354
+\bidi@temptoksa=\toks38
+\bidi@temptoksb=\toks39
+\bidi@dummies=\count355
+\bidi@are@these@correct=\toks40
+\bidi@toks@lista=\toks41
+\bidi@toks@listb=\toks42
+\bidi@stack@length=\count356
+\bidi@empty@stack=\toks43
+\bidi@looprepeat@depth=\count357
 )
 (c:/texlive/2023/texmf-dist/tex/latex/zref/zref-abspage.sty
 Package: zref-abspage 2022-04-07 v2.34 Module abspage for zref (HO)
@@ -634,7 +660,7 @@ Package zref Info: New property: page on input line 769.
 Package: atbegshi-ltx 2021/01/10 v1.0c Emulation of the original atbegshi
 package with kernel methods
 )
-\c@abspage=\count350
+\c@abspage=\count358
 Package zref Info: New property: abspage on input line 65.
 )
 (c:/texlive/2023/texmf-dist/tex/latex/xkeyval/xkeyval.sty
@@ -642,10 +668,10 @@ Package: xkeyval 2022/06/16 v2.9 package option processing (HA)
 
 (c:/texlive/2023/texmf-dist/tex/generic/xkeyval/xkeyval.tex
 (c:/texlive/2023/texmf-dist/tex/generic/xkeyval/xkvutils.tex
-\XKV@toks=\toks43
-\XKV@tempa@toks=\toks44
+\XKV@toks=\toks44
+\XKV@tempa@toks=\toks45
 )
-\XKV@depth=\count351
+\XKV@depth=\count359
 File: xkeyval.tex 2014/12/03 v2.7a key=value parser (HA)
 ))
 \@bidi@copyins@=\insert252
@@ -653,14 +679,14 @@ File: xkeyval.tex 2014/12/03 v2.7a key=value parser (HA)
 (c:/texlive/2023/texmf-dist/tex/xelatex/bidi/latex-xetex-bidi.def
 File: latex-xetex-bidi.def 2022/07/04 v1.4.9 bidi adaptations for `latex.ltx' f
 or XeTeX engine
-\bidi@n@everypar=\toks45
-\bidi@column@check@number=\count352
+\bidi@n@everypar=\toks46
+\bidi@column@check@number=\count360
 
 (c:/texlive/2023/texmf-dist/tex/xelatex/bidi/footnote-xetex-bidi.def
 File: footnote-xetex-bidi.def 2023/01/18 v1.2 bidi footnote macros for XeTeX en
 gine
-\c@footdir@label=\count353
-\footdir@toks=\toks46
+\c@footdir@label=\count361
+\footdir@toks=\toks47
 )
 (c:/texlive/2023/texmf-dist/tex/xelatex/bidi/report-xetex-bidi.def
 File: report-xetex-bidi.def 2017/06/09 v0.8 bidi adaptations for standard repor
@@ -697,6 +723,10 @@ kage for XeTeX engine
 File: fancyhdr-xetex-bidi.def 2018/02/15 v0.7 bidi adaptations for fancyhdr pac
 kage for XeTeX engine
 )
+(c:/texlive/2023/texmf-dist/tex/xelatex/bidi/listings-xetex-bidi.def
+File: listings-xetex-bidi.def 2018/09/15 v1.5 bidi adaptations for listings pac
+kage for XeTeX engine
+)
 (c:/texlive/2023/texmf-dist/tex/xelatex/bidi/pgfcorescopes.code-xetex-bidi.def
 File: pgfcorescopes.code-xetex-bidi.def 2015/11/14 v0.1 bidi adaptations for pg
 f package for XeTeX engine
@@ -708,7 +738,7 @@ de.tex file for XeTeX engine
 File: loadingorder-xetex-bidi.def 2017/12/29 v0.97 making sure that bidi is the
  last package loaded
 )
-\bidi@digits=\count354
+\bidi@digits=\count362
 \bidi@digits@charclass=\XeTeXcharclass1
 \bidi@sepmark@charclass=\XeTeXcharclass2
 )
@@ -737,9 +767,9 @@ File: loadingorder-xetex-bidi.def 2017/12/29 v0.97 making sure that bidi is the
 * Primary author of xepersian package: Vafa Khalighi.
 * 
 ****************************************************
-\xepersian@tcl=\count355
-\xepersian@ilg=\dimen270
-\xepersian@strutilg=\dimen271
+\xepersian@tcl=\count363
+\xepersian@ilg=\dimen274
+\xepersian@strutilg=\dimen275
 (c:/texlive/2023/texmf-dist/tex/xelatex/xepersian/loadingorder-xepersian.def
 File: loadingorder-xepersian.def 2018/09/29 v0.5 making sure that xepersian is 
 the last package loaded
@@ -747,6 +777,10 @@ the last package loaded
 (c:/texlive/2023/texmf-dist/tex/xelatex/xepersian/footnote-xepersian.def
 File: footnote-xepersian.def 2017/08/09 v0.6 footnote macros for xepersian pack
 age
+)
+(c:/texlive/2023/texmf-dist/tex/xelatex/xepersian/listings-xepersian.def
+File: listings-xepersian.def 2014/07/17 v0.3 bilingual captions for listings pa
+ckage
 )
 (c:/texlive/2023/texmf-dist/tex/xelatex/xepersian/url-xepersian.def
 File: url-xepersian.def 2022/02/18 v0.1 adaptations for url package
@@ -929,11 +963,11 @@ ping=persian-tex-text;"
 (fontspec)             - 'small caps'  (m/sc) with NFSS spec.: 
 
 \dbendheight=\skip66
-\c@definition=\count356
-\c@property=\count357
-\c@theorem=\count358
-\c@lemma=\count359
-\c@corollary=\count360
+\c@definition=\count364
+\c@property=\count365
+\c@theorem=\count366
+\c@lemma=\count367
+\c@corollary=\count368
 ) (./Header.tex) (./Thesis.aux (./jeld.aux)
 (./Besmellah.aux) (./CommentPage.aux) (./TasvibNameh.aux) (./Tashakor.aux)
 (./PersianAbstract.aux) (./abbreviation.aux) (./Introduction.aux)
@@ -941,28 +975,29 @@ ping=persian-tex-text;"
 (./Conclusion.aux) (./EnglishAbstract.aux) (./EnglishJeld.aux))
 \openout1 = `Thesis.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 22.
-LaTeX Font Info:    ... okay on input line 22.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 22.
-LaTeX Font Info:    ... okay on input line 22.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 22.
-LaTeX Font Info:    ... okay on input line 22.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 22.
-LaTeX Font Info:    ... okay on input line 22.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 22.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 25.
+LaTeX Font Info:    ... okay on input line 25.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 25.
+LaTeX Font Info:    ... okay on input line 25.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 25.
+LaTeX Font Info:    ... okay on input line 25.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 25.
+LaTeX Font Info:    ... okay on input line 25.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 25.
 LaTeX Font Info:    Trying to load font information for TS1+cmr on input line 2
-2.
+5.
 
 (c:/texlive/2023/texmf-dist/tex/latex/base/ts1cmr.fd
 File: ts1cmr.fd 2022/07/10 v2.5l Standard LaTeX font definitions
 )
-LaTeX Font Info:    ... okay on input line 22.
-LaTeX Font Info:    Checking defaults for TU/lmr/m/n on input line 22.
-LaTeX Font Info:    ... okay on input line 22.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 22.
-LaTeX Font Info:    ... okay on input line 22.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 22.
-LaTeX Font Info:    ... okay on input line 22.
+LaTeX Font Info:    ... okay on input line 25.
+LaTeX Font Info:    Checking defaults for TU/lmr/m/n on input line 25.
+LaTeX Font Info:    ... okay on input line 25.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 25.
+LaTeX Font Info:    ... okay on input line 25.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 25.
+LaTeX Font Info:    ... okay on input line 25.
+\c@lstlisting=\count369
 
 *geometry* driver: auto-detecting
 *geometry* detected driver: xetex
@@ -1101,11 +1136,11 @@ LaTeX Font Info:    Font shape `TU/IRLotusICEE.ttf(1)/m/it' will be
 
 ]
 LaTeX Font Info:    Font shape `TU/IRTitr.ttf(0)/m/n' will be
-(Font)              scaled to size 24.88pt on input line 37.
+(Font)              scaled to size 24.88pt on input line 40.
 
 
 LaTeX Font Warning: Font shape `TU/IRTitr.ttf(0)/b/n' undefined
-(Font)              using `TU/IRTitr.ttf(0)/m/n' instead on input line 37.
+(Font)              using `TU/IRTitr.ttf(0)/m/n' instead on input line 40.
 
 (./Thesis.toc [1
 
@@ -1117,24 +1152,32 @@ LaTeX Font Warning: Font shape `TU/IRTitr.ttf(0)/b/n' undefined
 
  [2]
 LaTeX Font Info:    Font shape `TU/IRTitr.ttf(0)/b/n' will be
-(Font)              scaled to size 24.88pt on input line 38.
+(Font)              scaled to size 24.88pt on input line 41.
  (./Thesis.lot)
 \tf@lot=\write5
 \openout5 = `Thesis.lot'.
 
  [3
 
-] (./Thesis.lof)
+] (./Thesis.lof [4
+
+])
 \tf@lof=\write6
 \openout6 = `Thesis.lof'.
 
- [4
 
-]
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 13.72821pt, for example:
+(fancyhdr)                \setlength{\headheight}{13.72821pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-1.72821pt}.
+
+[5]
 \openout2 = `abbreviation.aux'.
 
-
-(./abbreviation.tex) [5
+ (./abbreviation.tex) [6
 
 
 ]
@@ -1730,19 +1773,8 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-1.72821pt}.
 
 [55]
-File: ./picture//stock-table.png Graphic file (type bmp)
-<./picture//stock-table.png>
-
-Overfull \hbox (13.60349pt too wide) in paragraph at lines 130--131
- [][][][][][] 
- []
-
-File: ./picture//stock-train.png Graphic file (type bmp)
-<./picture//stock-train.png>
-
-Overfull \hbox (15.76016pt too wide) in paragraph at lines 141--142
- [][][][][][] 
- []
+File: ./picture//mnist.png Graphic file (type bmp)
+<./picture//mnist.png>
 
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
@@ -1764,12 +1796,14 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-1.72821pt}.
 
 [57]
-File: ./picture//stock-workflow.png Graphic file (type bmp)
-<./picture//stock-workflow.png>
-File: ./picture//stock-serve.png Graphic file (type bmp)
-<./picture//stock-serve.png>
+File: ./picture//digit-graph2.png Graphic file (type bmp)
+<./picture//digit-graph2.png>
+File: ./picture//digit-time-req.png Graphic file (type bmp)
+<./picture//digit-time-req.png>
+File: ./picture//stock-table.png Graphic file (type bmp)
+<./picture//stock-table.png>
 
-Overfull \hbox (14.79651pt too wide) in paragraph at lines 171--172
+Overfull \hbox (13.60349pt too wide) in paragraph at lines 202--203
  [][][][][][] 
  []
 
@@ -1782,6 +1816,13 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-1.72821pt}.
 
 [58]
+File: ./picture//stock-train.png Graphic file (type bmp)
+<./picture//stock-train.png>
+
+Overfull \hbox (15.76016pt too wide) in paragraph at lines 213--214
+ [][][][][][] 
+ []
+
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
 (fancyhdr)                Make it at least 13.72821pt, for example:
@@ -1791,9 +1832,6 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-1.72821pt}.
 
 [59]
-File: ./picture//stock-time-req.png Graphic file (type bmp)
-<./picture//stock-time-req.png>
-)
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
 (fancyhdr)                Make it at least 13.72821pt, for example:
@@ -1803,6 +1841,15 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-1.72821pt}.
 
 [60]
+File: ./picture//stock-workflow.png Graphic file (type bmp)
+<./picture//stock-workflow.png>
+File: ./picture//stock-serve.png Graphic file (type bmp)
+<./picture//stock-serve.png>
+
+Overfull \hbox (14.79651pt too wide) in paragraph at lines 243--244
+ [][][][][][] 
+ []
+
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
 (fancyhdr)                Make it at least 13.72821pt, for example:
@@ -1812,16 +1859,80 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-1.72821pt}.
 
 [61]
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 13.72821pt, for example:
+(fancyhdr)                \setlength{\headheight}{13.72821pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-1.72821pt}.
+
+[62]
+File: ./picture//stock-time-req.png Graphic file (type bmp)
+<./picture//stock-time-req.png>
+
+
+LaTeX Warning: Reference `fig: amazon data' on page 63 undefined on input line 
+308.
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 13.72821pt, for example:
+(fancyhdr)                \setlength{\headheight}{13.72821pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-1.72821pt}.
+
+[63]
+
+LaTeX Warning: Reference `fig: amazon train' on page 64 undefined on input line
+ 317.
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 13.72821pt, for example:
+(fancyhdr)                \setlength{\headheight}{13.72821pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-1.72821pt}.
+
+[64]
+
+LaTeX Warning: Reference `fig: amazon workflow' on page 65 undefined on input l
+ine 333.
+
+
+LaTeX Warning: Reference `fig: amazon serve' on page 65 undefined on input line
+ 343.
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 13.72821pt, for example:
+(fancyhdr)                \setlength{\headheight}{13.72821pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-1.72821pt}.
+
+[65])
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 13.72821pt, for example:
+(fancyhdr)                \setlength{\headheight}{13.72821pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-1.72821pt}.
+
+[66]
 \openout2 = `Conclusion.aux'.
 
  (./Conclusion.tex
 فصل 6.
-) [62
+) [67
 
 
 
 
-] (./Thesis.bbl [63
+] (./Thesis.bbl [68
 
 
 
@@ -1834,7 +1945,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 
 (fancyhdr)                \addtolength{\topmargin}{-1.86893pt}.
 
-[64])
+[69])
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
 (fancyhdr)                Make it at least 13.86893pt, for example:
@@ -1843,7 +1954,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 
 (fancyhdr)                \addtolength{\topmargin}{-1.86893pt}.
 
-[65]
+[70]
 \openout2 = `EnglishAbstract.aux'.
 
  (./EnglishAbstract.tex
@@ -1856,7 +1967,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 40--49
 [][]
  []
 
-) [66
+) [71
 
 ]
 \openout2 = `EnglishJeld.aux'.
@@ -1864,7 +1975,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 40--49
  (./EnglishJeld.tex
 File: Sharif_Logo.pdf Graphic file (type pdf)
 <use Sharif_Logo.pdf>
-) [67
+) [72
 
 
 
@@ -1876,6 +1987,9 @@ File: Sharif_Logo.pdf Graphic file (type pdf)
 
 LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 
+
+LaTeX Warning: There were undefined references.
+
  )
 (\end occurred inside a group at level 5)
 
@@ -1886,12 +2000,12 @@ LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 ### simple group (level 1) entered at line 21 ({)
 ### bottom level 
 Here is how much of TeX's memory you used:
- 20781 strings out of 476683
- 467039 string characters out of 5807576
+ 22065 strings out of 476683
+ 487172 string characters out of 5807576
  1905012 words of memory out of 5000000
- 40416 multiletter control sequences out of 15000+600000
+ 41679 multiletter control sequences out of 15000+600000
  517865 words of font info for 119 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
  87i,13n,97p,1542b,983s stack positions out of 10000i,1000n,20000p,200000b,200000s
 
-Output written on Thesis.pdf (78 pages).
+Output written on Thesis.pdf (84 pages).

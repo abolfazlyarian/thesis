@@ -69,9 +69,14 @@
 \contentsline {subsubsection}{پیاده سازی مولفه های پروژه}{55}{}%
 \contentsline {section}{\numberline {5-2}حل مسئله و نتایج}{56}{}%
 \contentsline {subsection}{\numberline {5-2-1}مسئله تشخیص ارقام}{56}{}%
-\contentsline {subsection}{\numberline {5-2-2}مسئله تحلیل احساسات در بازار سهام}{56}{}%
-\contentsline {subsubsection}{خط لوله آموزش}{57}{}%
-\contentsline {subsubsection}{خط لوله استقرار}{59}{}%
-\contentsline {subsubsection}{نتایج}{59}{}%
-\contentsline {subsection}{\numberline {5-2-3}مسئله توصیه گر کتاب}{60}{}%
-\contentsline {chapter}{\numberline {6}نتیجه‌گیری و پیشنهادات}{62}{}%
+\contentsline {subsubsection}{چرخه‌کاری آموزش}{56}{}%
+\contentsline {subsubsection}{چرخه‌کاری استقرار}{57}{}%
+\contentsline {subsubsection}{نتایج}{57}{}%
+\contentsline {subsection}{\numberline {5-2-2}مسئله تحلیل احساسات در بازار سهام}{58}{}%
+\contentsline {subsubsection}{خط لوله آموزش}{60}{}%
+\contentsline {subsubsection}{خط لوله استقرار}{62}{}%
+\contentsline {subsubsection}{نتایج}{62}{}%
+\contentsline {subsection}{\numberline {5-2-3}مسئله توصیه گر کتاب}{63}{}%
+\contentsline {subsubsection}{خط لوله آموزش}{64}{}%
+\contentsline {subsubsection}{خط لوله استقرار}{66}{}%
+\contentsline {chapter}{\numberline {6}نتیجه‌گیری و پیشنهادات}{67}{}%
