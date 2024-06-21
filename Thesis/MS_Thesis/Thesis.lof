@@ -21,14 +21,19 @@
 \addvspace {10\p@ }
 \contentsline {figure}{\numberline {5-1}{\ignorespaces مخازن مولفه در \lr {Nexus}}}{53}{}%
 \contentsline {figure}{\numberline {5-2}{\ignorespaces خط لوله ها \lr {CI/CD} در \lr {Jenkins}}}{53}{}%
-\contentsline {figure}{\numberline {5-3}{\ignorespaces مخازن کد در \lr {Gitlab}}}{53}{}%
-\contentsline {figure}{\numberline {5-4}{\ignorespaces میزان مصرف منابع سخت افزاری پلتفرم بدون بار}}{55}{}%
-\contentsline {figure}{\numberline {5-5}{\ignorespaces نمونه داده مجموعه دادگان \lr {MNIST}}}{57}{}%
-\contentsline {figure}{\numberline {5-6}{\ignorespaces گراف استنتاج مدل در مسئله تشخیص ارقام (داشبورد \lr {Grafana})}}{58}{}%
-\contentsline {figure}{\numberline {5-7}{\ignorespaces زمان استنتاج مدل در مسئله تشخیص ارقام}}{59}{}%
-\contentsline {figure}{\numberline {5-8}{\ignorespaces مجموعه داده احساسات در بازار سهام}}{59}{}%
-\contentsline {figure}{\numberline {5-9}{\ignorespaces خط لوله آموزش مسئله تحلیل احساسات در بازار سهام}}{60}{}%
-\contentsline {figure}{\numberline {5-10}{\ignorespaces چرخه کاری آموزش مسئله تحلیل احساسات در بازار سهام}}{61}{}%
-\contentsline {figure}{\numberline {5-11}{\ignorespaces خط لوله استقرار مسئله تحلیل احساسات در بازار سهام}}{62}{}%
-\contentsline {figure}{\numberline {5-12}{\ignorespaces زمان استنتاج مدل در مسئله تحلیل احساسات دربازار سهام}}{64}{}%
+\contentsline {figure}{\numberline {5-3}{\ignorespaces مخازن کد در \lr {Gitlab}}}{54}{}%
+\contentsline {figure}{\numberline {5-4}{\ignorespaces وضعیت مولفه ها در خوشه کوبرنتیز}}{56}{}%
+\contentsline {figure}{\numberline {5-5}{\ignorespaces میزان مصرف منابع سخت افزاری پلتفرم بدون بار}}{57}{}%
+\contentsline {figure}{\numberline {5-6}{\ignorespaces داشبورد پلتفرم \lr {MLOps}}}{57}{}%
+\contentsline {figure}{\numberline {5-7}{\ignorespaces نمونه داده مجموعه دادگان \lr {MNIST}}}{58}{}%
+\contentsline {figure}{\numberline {5-8}{\ignorespaces گراف استنتاج مدل در مسئله تشخیص ارقام (داشبورد \lr {Grafana})}}{60}{}%
+\contentsline {figure}{\numberline {5-9}{\ignorespaces زمان چرخه های کاری یادگیری ماشین در مسئله تشخیص ارقام}}{61}{}%
+\contentsline {figure}{\numberline {5-10}{\ignorespaces زمان استنتاج مدل در مسئله تشخیص ارقام}}{61}{}%
+\contentsline {figure}{\numberline {5-11}{\ignorespaces گراف نظارت بر پردازنده گرافیکی در مسئله تشخیص ارقام (داشبورد \lr {Grafana})}}{62}{}%
+\contentsline {figure}{\numberline {5-12}{\ignorespaces مجموعه داده احساسات در بازار سهام}}{62}{}%
+\contentsline {figure}{\numberline {5-13}{\ignorespaces خط لوله آموزش مسئله تحلیل احساسات در بازار سهام}}{63}{}%
+\contentsline {figure}{\numberline {5-14}{\ignorespaces چرخه کاری آموزش مسئله تحلیل احساسات در بازار سهام}}{64}{}%
+\contentsline {figure}{\numberline {5-15}{\ignorespaces خط لوله استقرار مسئله تحلیل احساسات در بازار سهام}}{65}{}%
+\contentsline {figure}{\numberline {5-16}{\ignorespaces گراف استنتاج مدل در مسئله تحلیل احساسات دربازار سهام (داشبورد \lr {Grafana})}}{66}{}%
+\contentsline {figure}{\numberline {5-17}{\ignorespaces زمان استنتاج مدل در مسئله تحلیل احساسات دربازار سهام}}{67}{}%
 \addvspace {10\p@ }
