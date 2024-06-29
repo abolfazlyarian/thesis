@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999995 (TeX Live 2023) (preloaded format=xelatex 2023.9.1)  11 MAY 2024 23:30
+This is XeTeX, Version 3.141592653-2.6-0.999995 (TeX Live 2023) (preloaded format=xelatex 2023.9.1)  29 JUN 2024 15:20
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -295,7 +295,7 @@ Missing character: There is no ا ("627) in font nullfont!
 Missing character: There is no ل ("644) in font nullfont!
 ! Undefined control sequence.
 l.23 ^^I{\Huge
-               \textbf{پیاده سازی یک پلتفرم MLOps به صورت ابری روی GPU} }\par
+               \textbf{طراحی و پیاده‌سازی یک پلتفرم MLOps به صورت ابری} }\par
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
 misspelled it (e.g., `\hobx'), type `I' and the correct
@@ -309,11 +309,23 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.23 ...سازی یک پلتفرم MLOps به صورت ابری روی GPU}
+l.23 ...و پیاده‌سازی یک پلتفرم MLOps به صورت ابری}
                                                    }\par
 You're in trouble here.  Try typing  <return>  to proceed.
 If that doesn't work, type  X <return>  to quit.
 
+Missing character: There is no ط (U+0637) in font [lmroman10-bold]:mapping=tex-
+text;!
+Missing character: There is no ر (U+0631) in font [lmroman10-bold]:mapping=tex-
+text;!
+Missing character: There is no ا (U+0627) in font [lmroman10-bold]:mapping=tex-
+text;!
+Missing character: There is no ح (U+062D) in font [lmroman10-bold]:mapping=tex-
+text;!
+Missing character: There is no ی (U+06CC) in font [lmroman10-bold]:mapping=tex-
+text;!
+Missing character: There is no و (U+0648) in font [lmroman10-bold]:mapping=tex-
+text;!
 Missing character: There is no پ (U+067E) in font [lmroman10-bold]:mapping=tex-
 text;!
 Missing character: There is no ی (U+06CC) in font [lmroman10-bold]:mapping=tex-
@@ -323,6 +335,8 @@ text;!
 Missing character: There is no د (U+062F) in font [lmroman10-bold]:mapping=tex-
 text;!
 Missing character: There is no ه (U+0647) in font [lmroman10-bold]:mapping=tex-
+text;!
+Missing character: There is no ‌ (U+200C) in font [lmroman10-bold]:mapping=tex-
 text;!
 Missing character: There is no س (U+0633) in font [lmroman10-bold]:mapping=tex-
 text;!
@@ -368,20 +382,19 @@ Missing character: There is no ر (U+0631) in font [lmroman10-bold]:mapping=tex-
 text;!
 Missing character: There is no ی (U+06CC) in font [lmroman10-bold]:mapping=tex-
 text;!
-Missing character: There is no ر (U+0631) in font [lmroman10-bold]:mapping=tex-
-text;!
-Missing character: There is no و (U+0648) in font [lmroman10-bold]:mapping=tex-
-text;!
-Missing character: There is no ی (U+06CC) in font [lmroman10-bold]:mapping=tex-
-text;!
 
 Overfull \hbox (14.0pt too wide) in paragraph at lines 23--23
- []\TU/lmr/bx/n/10 پیاده 
+ []\TU/lmr/bx/n/10 طراحی 
  []
 
 
-Overfull \hbox (11.2pt too wide) in paragraph at lines 23--23
- \TU/lmr/bx/n/10 سازی 
+Overfull \hbox (2.8pt too wide) in paragraph at lines 23--23
+ \TU/lmr/bx/n/10 و 
+ []
+
+
+Overfull \hbox (25.2pt too wide) in paragraph at lines 23--23
+ \TU/lmr/bx/n/10 پیاده‌سازی 
  []
 
 
@@ -412,16 +425,6 @@ Overfull \hbox (11.2pt too wide) in paragraph at lines 23--23
 
 Overfull \hbox (11.2pt too wide) in paragraph at lines 23--23
  \TU/lmr/bx/n/10 ابری 
- []
-
-
-Overfull \hbox (8.4pt too wide) in paragraph at lines 23--23
- \TU/lmr/bx/n/10 روی 
- []
-
-
-Overfull \hbox (25.75pt too wide) in paragraph at lines 23--23
- \TU/lmr/bx/n/10 GPU 
  []
 
 ! Undefined control sequence.
@@ -612,20 +615,16 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.43 ^^I{\textbf{خردادماه 1403}
-                               }
+l.43 ^^I{\textbf{تیرماه 1403}
+                             }
 You're in trouble here.  Try typing  <return>  to proceed.
 If that doesn't work, type  X <return>  to quit.
 
-Missing character: There is no خ (U+062E) in font [lmroman10-bold]:mapping=tex-
+Missing character: There is no ت (U+062A) in font [lmroman10-bold]:mapping=tex-
+text;!
+Missing character: There is no ی (U+06CC) in font [lmroman10-bold]:mapping=tex-
 text;!
 Missing character: There is no ر (U+0631) in font [lmroman10-bold]:mapping=tex-
-text;!
-Missing character: There is no د (U+062F) in font [lmroman10-bold]:mapping=tex-
-text;!
-Missing character: There is no ا (U+0627) in font [lmroman10-bold]:mapping=tex-
-text;!
-Missing character: There is no د (U+062F) in font [lmroman10-bold]:mapping=tex-
 text;!
 Missing character: There is no م (U+0645) in font [lmroman10-bold]:mapping=tex-
 text;!
@@ -634,8 +633,8 @@ text;!
 Missing character: There is no ه (U+0647) in font [lmroman10-bold]:mapping=tex-
 text;!
 
-Overfull \hbox (22.4pt too wide) in paragraph at lines 43--44
- []\TU/lmr/bx/n/10 خردادماه 
+Overfull \hbox (16.8pt too wide) in paragraph at lines 43--44
+ []\TU/lmr/bx/n/10 تیرماه 
  []
 
 

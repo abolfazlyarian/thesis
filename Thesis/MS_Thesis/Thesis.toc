@@ -1,81 +1,90 @@
 \contentsline {chapter}{\numberline {1}مقدمه}{1}{}%
-\contentsline {chapter}{\numberline {2}مرور مفاهیم پایه}{2}{}%
-\contentsline {section}{\numberline {2-1}\lr {DevOps}}{2}{}%
-\contentsline {subsection}{\numberline {2-1-1}تعریف}{2}{}%
-\contentsline {subsection}{\numberline {2-1-2}چرخه کاری \lr {DevOps}}{3}{}%
-\contentsline {subsection}{\numberline {2-1-3}خط لوله \lr {CI/CD}}{4}{}%
-\contentsline {subsection}{\numberline {2-1-4}مزایای متدلوژی \lr {DevOps}}{7}{}%
-\contentsline {section}{\numberline {2-2}مجازی سازی و کانتینرها}{9}{}%
-\contentsline {subsection}{\numberline {2-2-1}مجازی سازی}{9}{}%
-\contentsline {subsection}{\numberline {2-2-2}کانتینرها}{11}{}%
-\contentsline {subsection}{\numberline {2-2-3}هماهنگ سازی کانتینرها (کوبرنتیز)}{13}{}%
-\contentsline {subsubsection}{معماری کوبرنتیز}{14}{}%
-\contentsline {chapter}{\numberline {3}\lr {MLOps}}{16}{}%
-\contentsline {section}{\numberline {3-1}مقدمه}{16}{}%
-\contentsline {section}{\numberline {3-2}تعریف مفاهیم اولیه}{16}{}%
-\contentsline {subsection}{\numberline {3-2-1}اصول}{17}{}%
-\contentsline {subsection}{\numberline {3-2-2}اجزاء}{19}{}%
-\contentsline {subsubsection}{سازآرایی جریان کاری}{19}{}%
-\contentsline {subsubsection}{انبار ویژگی}{19}{}%
-\contentsline {subsubsection}{بانک مدل}{21}{}%
-\contentsline {subsubsection}{انبار فراداده}{21}{}%
-\contentsline {subsubsection}{استقرار مدل}{22}{}%
-\contentsline {subsubsection}{نظارت}{23}{}%
-\contentsline {subsubsection}{زیرساخت آموزش و استقرار مدل}{23}{}%
-\contentsline {subsubsection}{مخزن کد منبع}{24}{}%
-\contentsline {subsubsection}{خط لوله \lr {CI/CD}}{24}{}%
-\contentsline {subsection}{\numberline {3-2-3}نقش ها}{25}{}%
-\contentsline {section}{\numberline {3-3}معماری جامع}{26}{}%
-\contentsline {subsubsection}{مرحله اولیه}{27}{}%
-\contentsline {subsubsection}{خط لوله مهندسی ویژگی}{27}{}%
-\contentsline {subsubsection}{بررسی و آزمایش}{29}{}%
-\contentsline {subsubsection}{خودکارسازی جریان کاری یادگیری ماشین}{30}{}%
-\contentsline {chapter}{\numberline {4}طراحی یک پلتفرم \lr {MLOps}}{34}{}%
-\contentsline {section}{\numberline {4-1}مقدمه}{34}{}%
-\contentsline {section}{\numberline {4-2}سیستم مدیریت پلتفرم}{34}{}%
-\contentsline {subsection}{\numberline {4-2-1}مدیریت پیکربندی و فراهم سازی زیرساخت}{34}{}%
-\contentsline {subsubsection}{مدیریت پیکربندی}{35}{}%
-\contentsline {subsubsection}{فراهم سازی زیرساخت}{36}{}%
-\contentsline {subsection}{\numberline {4-2-2}خط لوله \lr {CI/CD}}{36}{}%
-\contentsline {subsubsection}{طراحی خط لوله}{38}{}%
-\contentsline {subsection}{\numberline {4-2-3}مخزن کد منبع}{38}{}%
-\contentsline {subsection}{\numberline {4-2-4}مخزن مؤلفه ها}{39}{}%
-\contentsline {subsubsection}{مخازن \lr {APT}}{39}{}%
-\contentsline {subsubsection}{مخزن \lr {PyPI}}{39}{}%
-\contentsline {subsubsection}{مخزن \lr {Docker}}{40}{}%
-\contentsline {subsubsection}{مخزن \lr {raw}}{40}{}%
-\contentsline {section}{\numberline {4-3}معماری خوشه کوبرنتیز}{40}{}%
-\contentsline {subsection}{\numberline {4-3-1}مدیریت داده}{41}{}%
-\contentsline {subsubsection}{حجم پایدار و فراهم سازهای پویا}{41}{}%
-\contentsline {subsubsection}{ذخیره سازی داده}{42}{}%
-\contentsline {subsubsection}{پایگاه داده}{43}{}%
-\contentsline {subsection}{\numberline {4-3-2}شبکه}{44}{}%
-\contentsline {subsubsection}{سطح داده}{45}{}%
-\contentsline {subsubsection}{سطح کنترل}{46}{}%
-\contentsline {subsection}{\numberline {4-3-3}مدیریت کاربران و چندمستاجری}{47}{}%
-\contentsline {subsubsection}{احراز هویت}{47}{}%
-\contentsline {subsubsection}{ایزوله‌سازی}{48}{}%
-\contentsline {subsubsection}{مجوزدهی}{48}{}%
-\contentsline {subsection}{\numberline {4-3-4}نظارت}{49}{}%
-\contentsline {subsubsection}{متریک‌های سیستم}{49}{}%
-\contentsline {subsubsection}{متریک‌های مدل}{49}{}%
-\contentsline {subsubsection}{متریک‌های داده}{49}{}%
-\contentsline {subsection}{\numberline {4-3-5}استقرار مدل}{50}{}%
-\contentsline {chapter}{\numberline {5}پیاده سازی و نتایج}{51}{}%
-\contentsline {section}{\numberline {5-1}مقدمه}{51}{}%
-\contentsline {section}{\numberline {5-2}پیاده سازی پلتفرم}{51}{}%
-\contentsline {subsection}{\numberline {5-2-1}سیستم مدیریت}{51}{}%
-\contentsline {subsection}{\numberline {5-2-2}خوشه کوبرنتیز}{54}{}%
-\contentsline {subsubsection}{پیاده سازی خوشه کوبرنتیز}{54}{}%
-\contentsline {subsubsection}{پیاده سازی مولفه های پروژه}{55}{}%
-\contentsline {section}{\numberline {5-3}حل مسئله و نتایج}{57}{}%
-\contentsline {subsection}{\numberline {5-3-1}مسئله تشخیص ارقام}{58}{}%
-\contentsline {subsubsection}{چرخه‌کاری آموزش}{58}{}%
-\contentsline {subsubsection}{چرخه‌کاری استقرار}{59}{}%
-\contentsline {subsubsection}{نتایج}{59}{}%
-\contentsline {subsubsection}{مقایسه}{59}{}%
-\contentsline {subsection}{\numberline {5-3-2}مسئله تحلیل احساسات در بازار سهام}{62}{}%
-\contentsline {subsubsection}{خط لوله آموزش}{63}{}%
-\contentsline {subsubsection}{خط لوله استقرار}{65}{}%
+\contentsline {section}{\numberline {1-1}تعریف مسئله و چالش‌ها}{1}{}%
+\contentsline {section}{\numberline {1-2}روش تحقیق}{3}{}%
+\contentsline {subsubsection}{ابزار متن باز}{4}{}%
+\contentsline {subsubsection}{طراحی معماری سیستم}{4}{}%
+\contentsline {subsubsection}{پیاده‌سازی فرآیندهای \lr {CI/CD}}{5}{}%
+\contentsline {section}{\numberline {1-3}ساختار پایان نامه}{5}{}%
+\contentsline {chapter}{\numberline {2}مرور مفاهیم پایه}{7}{}%
+\contentsline {section}{\numberline {2-1}مقدمه}{7}{}%
+\contentsline {section}{\numberline {2-2}\lr {DevOps}}{7}{}%
+\contentsline {subsection}{\numberline {2-2-1}تعریف}{7}{}%
+\contentsline {subsection}{\numberline {2-2-2}چرخه کاری}{8}{}%
+\contentsline {subsection}{\numberline {2-2-3}خط لوله \lr {CI/CD}}{10}{}%
+\contentsline {subsection}{\numberline {2-2-4}مزایای متدلوژی \lr {DevOps}}{13}{}%
+\contentsline {section}{\numberline {2-3}مجازی سازی و کانتینرها}{14}{}%
+\contentsline {subsection}{\numberline {2-3-1}مجازی سازی}{14}{}%
+\contentsline {subsection}{\numberline {2-3-2}کانتینرها}{16}{}%
+\contentsline {subsection}{\numberline {2-3-3}هماهنگ سازی کانتینرها (کوبرنتیز)}{19}{}%
+\contentsline {subsubsection}{معماری کوبرنتیز}{19}{}%
+\contentsline {subsubsection}{پاد و \lr {Deployment}}{20}{}%
+\contentsline {subsubsection}{مدیریت داده}{21}{}%
+\contentsline {chapter}{\numberline {3}\lr {MLOps}}{22}{}%
+\contentsline {section}{\numberline {3-1}مقدمه}{22}{}%
+\contentsline {section}{\numberline {3-2}تعریف مفاهیم اولیه}{22}{}%
+\contentsline {subsection}{\numberline {3-2-1}اصول}{23}{}%
+\contentsline {subsection}{\numberline {3-2-2}اجزاء}{25}{}%
+\contentsline {subsubsection}{سازآرایی جریان کاری}{25}{}%
+\contentsline {subsubsection}{انبار ویژگی}{25}{}%
+\contentsline {subsubsection}{بانک مدل}{27}{}%
+\contentsline {subsubsection}{انبار فراداده}{27}{}%
+\contentsline {subsubsection}{استقرار مدل}{28}{}%
+\contentsline {subsubsection}{نظارت}{29}{}%
+\contentsline {subsubsection}{زیرساخت آموزش و استقرار مدل}{29}{}%
+\contentsline {subsubsection}{مخزن کد منبع}{30}{}%
+\contentsline {subsubsection}{خط لوله \lr {CI/CD}}{30}{}%
+\contentsline {subsection}{\numberline {3-2-3}نقش ها}{31}{}%
+\contentsline {section}{\numberline {3-3}معماری جامع}{32}{}%
+\contentsline {subsubsection}{مرحله اولیه}{33}{}%
+\contentsline {subsubsection}{خط لوله مهندسی ویژگی}{33}{}%
+\contentsline {subsubsection}{بررسی و آزمایش}{35}{}%
+\contentsline {subsubsection}{خودکارسازی جریان کاری یادگیری ماشین}{36}{}%
+\contentsline {chapter}{\numberline {4}طراحی یک پلتفرم \lr {MLOps}}{40}{}%
+\contentsline {section}{\numberline {4-1}مقدمه}{40}{}%
+\contentsline {section}{\numberline {4-2}سیستم مدیریت پلتفرم}{40}{}%
+\contentsline {subsection}{\numberline {4-2-1}مدیریت پیکربندی و فراهم سازی زیرساخت}{40}{}%
+\contentsline {subsubsection}{مدیریت پیکربندی}{41}{}%
+\contentsline {subsubsection}{فراهم سازی زیرساخت}{42}{}%
+\contentsline {subsection}{\numberline {4-2-2}خط لوله \lr {CI/CD}}{42}{}%
+\contentsline {subsubsection}{طراحی خط لوله}{44}{}%
+\contentsline {subsection}{\numberline {4-2-3}مخزن کد منبع}{44}{}%
+\contentsline {subsection}{\numberline {4-2-4}مخزن مؤلفه ها}{45}{}%
+\contentsline {subsubsection}{مخازن \lr {APT}}{45}{}%
+\contentsline {subsubsection}{مخزن \lr {PyPI}}{45}{}%
+\contentsline {subsubsection}{مخزن \lr {Docker}}{46}{}%
+\contentsline {subsubsection}{مخزن \lr {raw}}{46}{}%
+\contentsline {section}{\numberline {4-3}معماری خوشه کوبرنتیز}{46}{}%
+\contentsline {subsection}{\numberline {4-3-1}مدیریت داده}{47}{}%
+\contentsline {subsubsection}{حجم پایدار و فراهم سازهای پویا}{47}{}%
+\contentsline {subsubsection}{ذخیره سازی داده}{48}{}%
+\contentsline {subsubsection}{پایگاه داده}{49}{}%
+\contentsline {subsection}{\numberline {4-3-2}شبکه}{50}{}%
+\contentsline {subsubsection}{سطح داده}{51}{}%
+\contentsline {subsubsection}{سطح کنترل}{52}{}%
+\contentsline {subsection}{\numberline {4-3-3}مدیریت کاربران و چندمستاجری}{53}{}%
+\contentsline {subsubsection}{احراز هویت}{53}{}%
+\contentsline {subsubsection}{ایزوله‌سازی}{54}{}%
+\contentsline {subsubsection}{مجوزدهی}{54}{}%
+\contentsline {subsection}{\numberline {4-3-4}نظارت}{55}{}%
+\contentsline {subsubsection}{متریک‌های سیستم}{55}{}%
+\contentsline {subsubsection}{متریک‌های مدل}{55}{}%
+\contentsline {subsubsection}{متریک‌های داده}{55}{}%
+\contentsline {subsection}{\numberline {4-3-5}استقرار مدل}{56}{}%
+\contentsline {chapter}{\numberline {5}پیاده سازی و نتایج}{57}{}%
+\contentsline {section}{\numberline {5-1}مقدمه}{57}{}%
+\contentsline {section}{\numberline {5-2}پیاده سازی پلتفرم}{57}{}%
+\contentsline {subsection}{\numberline {5-2-1}سیستم مدیریت}{57}{}%
+\contentsline {subsection}{\numberline {5-2-2}خوشه کوبرنتیز}{60}{}%
+\contentsline {subsubsection}{پیاده سازی خوشه کوبرنتیز}{60}{}%
+\contentsline {subsubsection}{پیاده سازی مولفه های پروژه}{61}{}%
+\contentsline {section}{\numberline {5-3}حل مسئله و نتایج}{63}{}%
+\contentsline {subsection}{\numberline {5-3-1}مسئله تشخیص ارقام}{64}{}%
+\contentsline {subsubsection}{چرخه‌کاری آموزش}{64}{}%
+\contentsline {subsubsection}{چرخه‌کاری استقرار}{65}{}%
 \contentsline {subsubsection}{نتایج}{65}{}%
-\contentsline {chapter}{\numberline {6}نتیجه‌گیری و پیشنهادات}{68}{}%
+\contentsline {subsubsection}{مقایسه}{65}{}%
+\contentsline {subsection}{\numberline {5-3-2}مسئله تحلیل احساسات در بازار سهام}{68}{}%
+\contentsline {subsubsection}{خط لوله آموزش}{69}{}%
+\contentsline {subsubsection}{خط لوله استقرار}{71}{}%
+\contentsline {subsubsection}{نتایج}{71}{}%
+\contentsline {chapter}{\numberline {6}نتیجه‌گیری و پیشنهادات}{74}{}%

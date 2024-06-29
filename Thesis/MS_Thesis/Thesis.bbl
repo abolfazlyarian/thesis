@@ -5,6 +5,10 @@ L~Navarro E Hernanchez-sanchez F~Rodriguez-Haro, F~Freitag,
 \newblock ``A summary of virtualization techniques,''
 \newblock .
 
+\bibitem{algorithmiaMLState}
+Algorithmia,
+\newblock ``2020 state of enterprise machine learning,'' 2020.
+
 \bibitem{DevopsDef1}
 Ramtin Jabbari, Nauman bin Ali, Kai Petersen, and Binish Tanveer,
 \newblock ``What is devops? a systematic mapping study on definitions and
