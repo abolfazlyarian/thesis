@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999995 (TeX Live 2023) (preloaded format=xelatex 2023.9.1)  5 JUL 2024 18:12
+This is XeTeX, Version 3.141592653-2.6-0.999995 (TeX Live 2023) (preloaded format=xelatex 2023.9.1)  5 JUL 2024 19:37
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1866,7 +1866,7 @@ File: ./picture//resource-use1.png Graphic file (type bmp)
 File: ./picture//dashboard.png Graphic file (type bmp)
 <./picture//dashboard.png>
 
-Overfull \hbox (15.03743pt too wide) in paragraph at lines 130--131
+Overfull \hbox (15.03743pt too wide) in paragraph at lines 131--132
  [][][][][][] 
  []
 
@@ -1893,6 +1893,10 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 [66]
 File: ./picture//digit-graph2.png Graphic file (type bmp)
 <./picture//digit-graph2.png>
+File: ./picture//digit-time-req.png Graphic file (type bmp)
+<./picture//digit-time-req.png>
+File: ./picture//gpu-graph1.png Graphic file (type bmp)
+<./picture//gpu-graph1.png>
 
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
@@ -1903,8 +1907,12 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-1.72821pt}.
 
 [67]
-File: ./picture//compare.png Graphic file (type bmp)
-<./picture//compare.png>
+File: ./picture//stock-table.png Graphic file (type bmp)
+<./picture//stock-table.png>
+
+Overfull \hbox (13.60349pt too wide) in paragraph at lines 234--235
+ [][][][][][] 
+ []
 
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
@@ -1915,14 +1923,10 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-1.72821pt}.
 
 [68]
-File: ./picture//digit-time-req.png Graphic file (type bmp)
-<./picture//digit-time-req.png>
-File: ./picture//gpu-graph1.png Graphic file (type bmp)
-<./picture//gpu-graph1.png>
-File: ./picture//stock-table.png Graphic file (type bmp)
-<./picture//stock-table.png>
+File: ./picture//stock-train.png Graphic file (type bmp)
+<./picture//stock-train.png>
 
-Overfull \hbox (13.60349pt too wide) in paragraph at lines 244--245
+Overfull \hbox (15.76016pt too wide) in paragraph at lines 245--246
  [][][][][][] 
  []
 
@@ -1935,13 +1939,6 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-1.72821pt}.
 
 [69]
-File: ./picture//stock-train.png Graphic file (type bmp)
-<./picture//stock-train.png>
-
-Overfull \hbox (15.76016pt too wide) in paragraph at lines 255--256
- [][][][][][] 
- []
-
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
 (fancyhdr)                Make it at least 13.72821pt, for example:
@@ -1951,21 +1948,12 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-1.72821pt}.
 
 [70]
-
-Package fancyhdr Warning: \headheight is too small (12.0pt): 
-(fancyhdr)                Make it at least 13.72821pt, for example:
-(fancyhdr)                \setlength{\headheight}{13.72821pt}.
-(fancyhdr)                You might also make \topmargin smaller to compensate:
-
-(fancyhdr)                \addtolength{\topmargin}{-1.72821pt}.
-
-[71]
 File: ./picture//stock-workflow.png Graphic file (type bmp)
 <./picture//stock-workflow.png>
 File: ./picture//stock-serve.png Graphic file (type bmp)
 <./picture//stock-serve.png>
 
-Overfull \hbox (14.79651pt too wide) in paragraph at lines 285--286
+Overfull \hbox (14.79651pt too wide) in paragraph at lines 270--271
  [][][][][][] 
  []
 
@@ -1977,7 +1965,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 
 (fancyhdr)                \addtolength{\topmargin}{-1.72821pt}.
 
-[72]
+[71]
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
 (fancyhdr)                Make it at least 13.72821pt, for example:
@@ -1986,7 +1974,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 
 (fancyhdr)                \addtolength{\topmargin}{-1.72821pt}.
 
-[73]
+[72]
 File: ./picture//stock-graph.png Graphic file (type bmp)
 <./picture//stock-graph.png>
 
@@ -1998,7 +1986,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 
 (fancyhdr)                \addtolength{\topmargin}{-1.72821pt}.
 
-[74]
+[73]
 File: ./picture//stock-time-req.png Graphic file (type bmp)
 <./picture//stock-time-req.png>
 )
@@ -2010,17 +1998,17 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 
 (fancyhdr)                \addtolength{\topmargin}{-1.72821pt}.
 
-[75]
+[74]
 \openout2 = `Conclusion.aux'.
 
  (./Conclusion.tex
 فصل 6.
-) [76
+) [75
 
 
 
 
-] (./Thesis.bbl [77
+] (./Thesis.bbl [76
 
 
 
@@ -2033,7 +2021,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 
 (fancyhdr)                \addtolength{\topmargin}{-1.86893pt}.
 
-[78])
+[77])
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
 (fancyhdr)                Make it at least 13.86893pt, for example:
@@ -2042,7 +2030,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 
 (fancyhdr)                \addtolength{\topmargin}{-1.86893pt}.
 
-[79]
+[78]
 \openout2 = `EnglishAbstract.aux'.
 
  (./EnglishAbstract.tex
@@ -2055,7 +2043,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 40--49
 [][]
  []
 
-) [80
+) [79
 
 ]
 \openout2 = `EnglishJeld.aux'.
@@ -2063,7 +2051,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 40--49
  (./EnglishJeld.tex
 File: Sharif_Logo.pdf Graphic file (type pdf)
 <use Sharif_Logo.pdf>
-) [81
+) [80
 
 
 
@@ -2084,12 +2072,12 @@ LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 ### simple group (level 1) entered at line 21 ({)
 ### bottom level 
 Here is how much of TeX's memory you used:
- 22113 strings out of 476683
- 488159 string characters out of 5807576
+ 22102 strings out of 476683
+ 487907 string characters out of 5807576
  1911012 words of memory out of 5000000
- 41728 multiletter control sequences out of 15000+600000
+ 41718 multiletter control sequences out of 15000+600000
  517865 words of font info for 119 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
  87i,13n,97p,1542b,991s stack positions out of 10000i,1000n,20000p,200000b,200000s
 
-Output written on Thesis.pdf (92 pages).
+Output written on Thesis.pdf (91 pages).
