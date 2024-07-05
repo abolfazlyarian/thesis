@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999995 (TeX Live 2023) (preloaded format=xelatex 2023.9.1)  5 JUL 2024 19:37
+This is XeTeX, Version 3.141592653-2.6-0.999995 (TeX Live 2023) (preloaded format=xelatex 2023.9.1)  6 JUL 2024 00:10
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1735,7 +1735,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 File: ./picture//OIDC-dex.png Graphic file (type bmp)
 <./picture//OIDC-dex.png>
 
-Overfull \hbox (10.6656pt too wide) in paragraph at lines 161--162
+Overfull \hbox (10.6656pt too wide) in paragraph at lines 159--160
  [][][][][][] 
  []
 
@@ -1766,6 +1766,9 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-1.7538pt}.
 
 [55]
+File: ./picture//prometheus-arch.png Graphic file (type bmp)
+<./picture//prometheus-arch.png>
+
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
 (fancyhdr)                Make it at least 13.7538pt, for example:
@@ -1783,7 +1786,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 
 (fancyhdr)                \addtolength{\topmargin}{-1.7538pt}.
 
-[57])
+[57]
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
 (fancyhdr)                Make it at least 13.7538pt, for example:
@@ -1793,11 +1796,32 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-1.7538pt}.
 
 [58]
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 13.7538pt, for example:
+(fancyhdr)                \setlength{\headheight}{13.7538pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-1.7538pt}.
+
+[59]
+File: ./picture//kserve-dataplane.jpg Graphic file (type bmp)
+<./picture//kserve-dataplane.jpg>
+)
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 13.7538pt, for example:
+(fancyhdr)                \setlength{\headheight}{13.7538pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-1.7538pt}.
+
+[60]
 \openout2 = `Imp-result.aux'.
 
  (./Imp-result.tex
 فصل 5.
-[59
+[61
 
 
 
@@ -1811,7 +1835,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 
 (fancyhdr)                \addtolength{\topmargin}{-1.72821pt}.
 
-[60]
+[62]
 File: ./picture//nexus-repo.png Graphic file (type bmp)
 <./picture//nexus-repo.png>
 File: ./picture//jenkins1.png Graphic file (type bmp)
@@ -1827,7 +1851,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 
 (fancyhdr)                \addtolength{\topmargin}{-1.72821pt}.
 
-[61]
+[63]
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
 (fancyhdr)                Make it at least 13.72821pt, for example:
@@ -1836,7 +1860,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 
 (fancyhdr)                \addtolength{\topmargin}{-1.72821pt}.
 
-[62]
+[64]
 File: ./picture//kuber-status.png Graphic file (type bmp)
 <./picture//kuber-status.png>
 
@@ -1848,9 +1872,9 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 
 (fancyhdr)                \addtolength{\topmargin}{-1.72821pt}.
 
-[63]
+[65]
 
-LaTeX Warning: Text page 64 contains only floats.
+LaTeX Warning: Text page 66 contains only floats.
 
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
@@ -1860,7 +1884,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 
 (fancyhdr)                \addtolength{\topmargin}{-1.72821pt}.
 
-[64]
+[66]
 File: ./picture//resource-use1.png Graphic file (type bmp)
 <./picture//resource-use1.png>
 File: ./picture//dashboard.png Graphic file (type bmp)
@@ -1878,7 +1902,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 
 (fancyhdr)                \addtolength{\topmargin}{-1.72821pt}.
 
-[65]
+[67]
 File: ./picture//mnist.png Graphic file (type bmp)
 <./picture//mnist.png>
 
@@ -1890,7 +1914,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 
 (fancyhdr)                \addtolength{\topmargin}{-1.72821pt}.
 
-[66]
+[68]
 File: ./picture//digit-graph2.png Graphic file (type bmp)
 <./picture//digit-graph2.png>
 File: ./picture//digit-time-req.png Graphic file (type bmp)
@@ -1906,7 +1930,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 
 (fancyhdr)                \addtolength{\topmargin}{-1.72821pt}.
 
-[67]
+[69]
 File: ./picture//stock-table.png Graphic file (type bmp)
 <./picture//stock-table.png>
 
@@ -1922,38 +1946,11 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 
 (fancyhdr)                \addtolength{\topmargin}{-1.72821pt}.
 
-[68]
+[70]
 File: ./picture//stock-train.png Graphic file (type bmp)
 <./picture//stock-train.png>
 
 Overfull \hbox (15.76016pt too wide) in paragraph at lines 245--246
- [][][][][][] 
- []
-
-
-Package fancyhdr Warning: \headheight is too small (12.0pt): 
-(fancyhdr)                Make it at least 13.72821pt, for example:
-(fancyhdr)                \setlength{\headheight}{13.72821pt}.
-(fancyhdr)                You might also make \topmargin smaller to compensate:
-
-(fancyhdr)                \addtolength{\topmargin}{-1.72821pt}.
-
-[69]
-
-Package fancyhdr Warning: \headheight is too small (12.0pt): 
-(fancyhdr)                Make it at least 13.72821pt, for example:
-(fancyhdr)                \setlength{\headheight}{13.72821pt}.
-(fancyhdr)                You might also make \topmargin smaller to compensate:
-
-(fancyhdr)                \addtolength{\topmargin}{-1.72821pt}.
-
-[70]
-File: ./picture//stock-workflow.png Graphic file (type bmp)
-<./picture//stock-workflow.png>
-File: ./picture//stock-serve.png Graphic file (type bmp)
-<./picture//stock-serve.png>
-
-Overfull \hbox (14.79651pt too wide) in paragraph at lines 270--271
  [][][][][][] 
  []
 
@@ -1975,6 +1972,33 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-1.72821pt}.
 
 [72]
+File: ./picture//stock-workflow.png Graphic file (type bmp)
+<./picture//stock-workflow.png>
+File: ./picture//stock-serve.png Graphic file (type bmp)
+<./picture//stock-serve.png>
+
+Overfull \hbox (14.79651pt too wide) in paragraph at lines 270--271
+ [][][][][][] 
+ []
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 13.72821pt, for example:
+(fancyhdr)                \setlength{\headheight}{13.72821pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-1.72821pt}.
+
+[73]
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 13.72821pt, for example:
+(fancyhdr)                \setlength{\headheight}{13.72821pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-1.72821pt}.
+
+[74]
 File: ./picture//stock-graph.png Graphic file (type bmp)
 <./picture//stock-graph.png>
 
@@ -1986,7 +2010,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 
 (fancyhdr)                \addtolength{\topmargin}{-1.72821pt}.
 
-[73]
+[75]
 File: ./picture//stock-time-req.png Graphic file (type bmp)
 <./picture//stock-time-req.png>
 )
@@ -1998,17 +2022,17 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 
 (fancyhdr)                \addtolength{\topmargin}{-1.72821pt}.
 
-[74]
+[76]
 \openout2 = `Conclusion.aux'.
 
  (./Conclusion.tex
 فصل 6.
-) [75
+) [77
 
 
 
 
-] (./Thesis.bbl [76
+] (./Thesis.bbl [78
 
 
 
@@ -2021,7 +2045,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 
 (fancyhdr)                \addtolength{\topmargin}{-1.86893pt}.
 
-[77])
+[79])
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
 (fancyhdr)                Make it at least 13.86893pt, for example:
@@ -2030,7 +2054,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 
 (fancyhdr)                \addtolength{\topmargin}{-1.86893pt}.
 
-[78]
+[80]
 \openout2 = `EnglishAbstract.aux'.
 
  (./EnglishAbstract.tex
@@ -2043,7 +2067,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 40--49
 [][]
  []
 
-) [79
+) [81
 
 ]
 \openout2 = `EnglishJeld.aux'.
@@ -2051,7 +2075,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 40--49
  (./EnglishJeld.tex
 File: Sharif_Logo.pdf Graphic file (type pdf)
 <use Sharif_Logo.pdf>
-) [80
+) [82
 
 
 
@@ -2072,12 +2096,12 @@ LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 ### simple group (level 1) entered at line 21 ({)
 ### bottom level 
 Here is how much of TeX's memory you used:
- 22102 strings out of 476683
- 487907 string characters out of 5807576
+ 22129 strings out of 476683
+ 488647 string characters out of 5807576
  1911012 words of memory out of 5000000
- 41718 multiletter control sequences out of 15000+600000
+ 41743 multiletter control sequences out of 15000+600000
  517865 words of font info for 119 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
- 87i,13n,97p,1542b,991s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 87i,13n,97p,1601b,991s stack positions out of 10000i,1000n,20000p,200000b,200000s
 
-Output written on Thesis.pdf (91 pages).
+Output written on Thesis.pdf (93 pages).

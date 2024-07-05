@@ -271,9 +271,14 @@ J.~Pivotto and B.~Brazil,
 Raintank Inc.,
 \newblock ``Grafana,'' URL: \url{https://grafana.com/} [Accessed: 2023-12-29].
 
-\bibitem{kubeflowdeploycload}
-Aditya Pandey, Maitreya Sonawane, and Sumit Mamtani,
-\newblock ``Deployment of ml models using kubeflow on different cloud
-  providers,'' 2022.
+\bibitem{kubeflowforML}
+L.T. Grant,
+\newblock {\em Kubeflow for Machine Learning: From Lab to Production},
+\newblock O'Reilly Media, Incorporated, 2021.
+
+\bibitem{KServe}
+The KServe,
+\newblock ``Kserve,'' URL: \url{https://kserve.github.io/} [Accessed:
+  2024-1-21].
 
 \end{thebibliography}
