@@ -71,20 +71,21 @@
 \contentsline {subsubsection}{متریک‌های داده}{55}{}%
 \contentsline {subsection}{\numberline {4-3-5}استقرار مدل}{57}{}%
 \contentsline {subsubsection}{الزامات و انتظارات از راه‌حل‌های استقرار مدل}{58}{}%
-\contentsline {chapter}{\numberline {5}پیاده سازی و نتایج}{61}{}%
-\contentsline {section}{\numberline {5-1}مقدمه}{61}{}%
-\contentsline {section}{\numberline {5-2}پیاده سازی پلتفرم}{61}{}%
-\contentsline {subsection}{\numberline {5-2-1}سیستم مدیریت}{61}{}%
-\contentsline {subsection}{\numberline {5-2-2}خوشه کوبرنتیز}{64}{}%
-\contentsline {subsubsection}{پیاده سازی خوشه کوبرنتیز}{64}{}%
-\contentsline {subsubsection}{پیاده سازی مولفه های پروژه}{65}{}%
-\contentsline {section}{\numberline {5-3}حل مسئله و نتایج}{67}{}%
-\contentsline {subsection}{\numberline {5-3-1}مسئله تشخیص ارقام}{67}{}%
-\contentsline {subsubsection}{چرخه‌کاری آموزش}{68}{}%
-\contentsline {subsubsection}{چرخه‌کاری استقرار}{69}{}%
-\contentsline {subsubsection}{نتایج}{69}{}%
-\contentsline {subsection}{\numberline {5-3-2}مسئله تحلیل احساسات در بازار سهام}{70}{}%
-\contentsline {subsubsection}{خط لوله آموزش}{71}{}%
-\contentsline {subsubsection}{خط لوله استقرار}{73}{}%
-\contentsline {subsubsection}{نتایج}{74}{}%
-\contentsline {chapter}{\numberline {6}نتیجه‌گیری و پیشنهادات}{77}{}%
+\contentsline {subsection}{\numberline {4-3-6}جریان کاری یادگیری ماشین}{61}{}%
+\contentsline {chapter}{\numberline {5}پیاده سازی و نتایج}{64}{}%
+\contentsline {section}{\numberline {5-1}مقدمه}{64}{}%
+\contentsline {section}{\numberline {5-2}پیاده سازی پلتفرم}{64}{}%
+\contentsline {subsection}{\numberline {5-2-1}سیستم مدیریت}{64}{}%
+\contentsline {subsection}{\numberline {5-2-2}خوشه کوبرنتیز}{67}{}%
+\contentsline {subsubsection}{پیاده سازی خوشه کوبرنتیز}{67}{}%
+\contentsline {subsubsection}{پیاده سازی مولفه های پروژه}{68}{}%
+\contentsline {section}{\numberline {5-3}حل مسئله و نتایج}{70}{}%
+\contentsline {subsection}{\numberline {5-3-1}مسئله تشخیص ارقام}{70}{}%
+\contentsline {subsubsection}{چرخه‌کاری آموزش}{71}{}%
+\contentsline {subsubsection}{چرخه‌کاری استقرار}{72}{}%
+\contentsline {subsubsection}{نتایج}{72}{}%
+\contentsline {subsection}{\numberline {5-3-2}مسئله تحلیل احساسات در بازار سهام}{73}{}%
+\contentsline {subsubsection}{خط لوله آموزش}{74}{}%
+\contentsline {subsubsection}{خط لوله استقرار}{76}{}%
+\contentsline {subsubsection}{نتایج}{77}{}%
+\contentsline {chapter}{\numberline {6}نتیجه‌گیری و پیشنهادات}{80}{}%
