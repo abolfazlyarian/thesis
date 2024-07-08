@@ -12,13 +12,13 @@
 \contentsline {figure}{\numberline {3-3}{\ignorespaces نقش ها و اشتراکات آنها در پارادایم \lr {MLOps}}}{31}{}%
 \contentsline {figure}{\numberline {3-4}{\ignorespaces معماری جامع \lr {MLOps}}}{32}{}%
 \addvspace {10\p@ }
-\contentsline {figure}{\numberline {4-1}{\ignorespaces معماری \lr {Ansible}}}{41}{}%
+\contentsline {figure}{\numberline {4-1}{\ignorespaces معماری \lr {Ansible}}}{42}{}%
 \contentsline {figure}{\numberline {4-2}{\ignorespaces استقرار مبتنی بر \lr {Pull}}}{43}{}%
-\contentsline {figure}{\numberline {4-3}{\ignorespaces استقرار مبتنی بر \lr {Push}}}{43}{}%
+\contentsline {figure}{\numberline {4-3}{\ignorespaces استقرار مبتنی بر \lr {Push}}}{44}{}%
 \contentsline {figure}{\numberline {4-4}{\ignorespaces نحوه کار \lr {PV} و \lr {PVC} در خوشه کوبرنتیز}}{48}{}%
 \contentsline {figure}{\numberline {4-5}{\ignorespaces معماری \lr {MinIO}}}{49}{}%
-\contentsline {figure}{\numberline {4-6}{\ignorespaces معماری \lr {Istio}}}{52}{}%
-\contentsline {figure}{\numberline {4-7}{\ignorespaces روند احراز هویت}}{54}{}%
+\contentsline {figure}{\numberline {4-6}{\ignorespaces معماری \lr {Istio}}}{53}{}%
+\contentsline {figure}{\numberline {4-7}{\ignorespaces روند احراز هویت}}{55}{}%
 \contentsline {figure}{\numberline {4-8}{\ignorespaces معماری بخش نظارت}}{57}{}%
 \contentsline {figure}{\numberline {4-9}{\ignorespaces معماری سطح داده در \lr {KServe}}}{61}{}%
 \contentsline {figure}{\numberline {4-10}{\ignorespaces معماری \lr {Kubeflow Pipelines}}}{63}{}%

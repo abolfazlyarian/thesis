@@ -39,40 +39,39 @@
 \contentsline {subsubsection}{خط لوله مهندسی ویژگی}{33}{}%
 \contentsline {subsubsection}{بررسی و آزمایش}{35}{}%
 \contentsline {subsubsection}{خودکارسازی جریان کاری یادگیری ماشین}{36}{}%
-\contentsline {chapter}{\numberline {4}طراحی یک پلتفرم \lr {MLOps}}{40}{}%
+\contentsline {chapter}{\numberline {4}طراحی پلتفرم \lr {MLOps}}{40}{}%
 \contentsline {section}{\numberline {4-1}مقدمه}{40}{}%
 \contentsline {section}{\numberline {4-2}سیستم مدیریت پلتفرم}{40}{}%
 \contentsline {subsection}{\numberline {4-2-1}مدیریت پیکربندی و فراهم سازی زیرساخت}{40}{}%
 \contentsline {subsubsection}{مدیریت پیکربندی}{41}{}%
-\contentsline {subsubsection}{فراهم سازی زیرساخت}{42}{}%
-\contentsline {subsection}{\numberline {4-2-2}خط لوله \lr {CI/CD}}{42}{}%
+\contentsline {subsubsection}{فراهم سازی زیرساخت}{41}{}%
+\contentsline {subsection}{\numberline {4-2-2}خط لوله \lr {CI/CD}}{43}{}%
 \contentsline {subsection}{\numberline {4-2-3}مخزن کد منبع}{44}{}%
 \contentsline {subsection}{\numberline {4-2-4}مخزن مؤلفه ها}{45}{}%
 \contentsline {subsubsection}{مخازن \lr {APT}}{45}{}%
-\contentsline {subsubsection}{مخزن \lr {PyPI}}{45}{}%
+\contentsline {subsubsection}{مخزن \lr {PyPI}}{46}{}%
 \contentsline {subsubsection}{مخزن \lr {Docker}}{46}{}%
 \contentsline {subsubsection}{مخزن \lr {raw}}{46}{}%
 \contentsline {section}{\numberline {4-3}معماری خوشه کوبرنتیز}{46}{}%
-\contentsline {subsection}{\numberline {4-3-1}مدیریت داده و مدل}{46}{}%
+\contentsline {subsection}{\numberline {4-3-1}مدیریت داده و مدل}{47}{}%
 \contentsline {subsubsection}{حجم پایدار و فراهم سازهای پویا}{47}{}%
-\contentsline {subsubsection}{ذخیره سازی داده}{47}{}%
+\contentsline {subsubsection}{ذخیره سازی داده}{48}{}%
 \contentsline {subsubsection}{پایگاه داده}{49}{}%
 \contentsline {subsubsection}{بانک مدل و انبار فراداده}{50}{}%
 \contentsline {subsection}{\numberline {4-3-2}شبکه}{51}{}%
-\contentsline {subsubsection}{سطح داده}{53}{}%
+\contentsline {subsubsection}{سطح داده}{52}{}%
 \contentsline {subsubsection}{سطح کنترل}{53}{}%
 \contentsline {subsection}{\numberline {4-3-3}مدیریت کاربران و چندمستاجری}{54}{}%
 \contentsline {subsubsection}{احراز هویت}{54}{}%
 \contentsline {subsubsection}{ایزوله‌سازی}{55}{}%
 \contentsline {subsubsection}{مجوزدهی}{55}{}%
-\contentsline {subsection}{\numberline {4-3-4}نظارت}{55}{}%
+\contentsline {subsection}{\numberline {4-3-4}نظارت}{56}{}%
 \contentsline {subsubsection}{متریک‌های سیستم}{56}{}%
 \contentsline {subsubsection}{متریک‌های مدل}{56}{}%
 \contentsline {subsubsection}{متریک‌های داده}{56}{}%
-\contentsline {subsection}{\numberline {4-3-5}استقرار مدل}{57}{}%
+\contentsline {subsection}{\numberline {4-3-5}استقرار مدل}{58}{}%
 \contentsline {subsubsection}{الزامات و انتظارات از راه‌حل‌های استقرار مدل}{59}{}%
-\contentsline {subsection}{\numberline {4-3-6}جریان کاری یادگیری ماشین}{61}{}%
-\contentsline {subsection}{\numberline {4-3-7}چرخه عمر یادگیری ماشین}{64}{}%
+\contentsline {subsection}{\numberline {4-3-6}جریان کاری یادگیری ماشین}{62}{}%
 \contentsline {chapter}{\numberline {5}پیاده سازی و نتایج}{65}{}%
 \contentsline {section}{\numberline {5-1}مقدمه}{65}{}%
 \contentsline {section}{\numberline {5-2}پیاده سازی پلتفرم}{65}{}%
