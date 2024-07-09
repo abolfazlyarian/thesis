@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999995 (TeX Live 2023) (preloaded format=xelatex 2023.9.1)  9 JUL 2024 01:11
+This is XeTeX, Version 3.141592653-2.6-0.999995 (TeX Live 2023) (preloaded format=xelatex 2023.9.1)  9 JUL 2024 09:28
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -970,9 +970,9 @@ ping=persian-tex-text;"
 \c@corollary=\count368
 ) (./Header.tex) (./Thesis.aux (./jeld.aux)
 (./Besmellah.aux) (./TasvibNameh.aux) (./Tashakor.aux) (./PersianAbstract.aux)
-(./abbreviation.aux) (./dict.aux) (./Introduction.aux) (./BSS_Summary.aux)
-(./HVS.aux) (./Entropy.aux) (./Imp-result.aux) (./Conclusion.aux)
-(./EnglishAbstract.aux) (./EnglishJeld.aux))
+(./abbreviation.aux) (./Introduction.aux) (./BSS_Summary.aux) (./HVS.aux)
+(./Entropy.aux) (./Imp-result.aux) (./Conclusion.aux) (./EnglishAbstract.aux)
+(./EnglishJeld.aux))
 \openout1 = `Thesis.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 25.
@@ -986,8 +986,7 @@ LaTeX Font Info:    ... okay on input line 25.
 LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 25.
 LaTeX Font Info:    Trying to load font information for TS1+cmr on input line 2
 5.
-
-(c:/texlive/2023/texmf-dist/tex/latex/base/ts1cmr.fd
+ (c:/texlive/2023/texmf-dist/tex/latex/base/ts1cmr.fd
 File: ts1cmr.fd 2022/07/10 v2.5l Standard LaTeX font definitions
 )
 LaTeX Font Info:    ... okay on input line 25.
@@ -1186,29 +1185,6 @@ Missing character: There is no ‌ (U+200C) in font [lmroman10-regular]/OT:scrip
 Missing character: There is no ‌ (U+200C) in font [lmroman10-regular]/OT:script
 =latn;language=dflt;mapping=tex-text;!
 ) [6
-
-
-]
-\openout2 = `dict.aux'.
-
- (./dict.tex
-Missing character: There is no ‌ (U+200C) in font [lmroman10-regular]/OT:script
-=latn;language=dflt;mapping=tex-text;!
-Missing character: There is no ‌ (U+200C) in font [lmroman10-regular]/OT:script
-=latn;language=dflt;mapping=tex-text;!
-Missing character: There is no ‌ (U+200C) in font [lmroman10-regular]/OT:script
-=latn;language=dflt;mapping=tex-text;!
-Missing character: There is no ‌ (U+200C) in font [lmroman10-regular]/OT:script
-=latn;language=dflt;mapping=tex-text;!
-Missing character: There is no ‌ (U+200C) in font [lmroman10-regular]/OT:script
-=latn;language=dflt;mapping=tex-text;!
-Missing character: There is no ‌ (U+200C) in font [lmroman10-regular]/OT:script
-=latn;language=dflt;mapping=tex-text;!
-Missing character: There is no ‌ (U+200C) in font [lmroman10-regular]/OT:script
-=latn;language=dflt;mapping=tex-text;!
-) [7
-
-
 
 
 ]
@@ -2148,9 +2124,9 @@ File: Sharif_Logo.pdf Graphic file (type pdf)
 
 ] (./Thesis.aux (./jeld.aux) (./Besmellah.aux)
 (./TasvibNameh.aux) (./Tashakor.aux) (./PersianAbstract.aux)
-(./abbreviation.aux) (./dict.aux) (./Introduction.aux) (./BSS_Summary.aux)
-(./HVS.aux) (./Entropy.aux) (./Imp-result.aux) (./Conclusion.aux)
-(./EnglishAbstract.aux) (./EnglishJeld.aux))
+(./abbreviation.aux) (./Introduction.aux) (./BSS_Summary.aux) (./HVS.aux)
+(./Entropy.aux) (./Imp-result.aux) (./Conclusion.aux) (./EnglishAbstract.aux)
+(./EnglishJeld.aux))
 
 LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 
@@ -2163,12 +2139,12 @@ LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 ### simple group (level 1) entered at line 21 ({)
 ### bottom level 
 Here is how much of TeX's memory you used:
- 22185 strings out of 476683
- 489777 string characters out of 5807576
- 1911012 words of memory out of 5000000
- 41791 multiletter control sequences out of 15000+600000
+ 22156 strings out of 476683
+ 489136 string characters out of 5807576
+ 1910012 words of memory out of 5000000
+ 41769 multiletter control sequences out of 15000+600000
  517865 words of font info for 119 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
- 87i,13n,97p,1741b,1010s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 87i,13n,97p,1741b,991s stack positions out of 10000i,1000n,20000p,200000b,200000s
 
-Output written on Thesis.pdf (98 pages).
+Output written on Thesis.pdf (97 pages).
