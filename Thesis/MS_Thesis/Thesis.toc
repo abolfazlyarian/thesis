@@ -1,7 +1,7 @@
 \contentsline {chapter}{\numberline {1}مقدمه}{1}{}%
 \contentsline {section}{\numberline {1-1}تعریف مسئله و بیان چالش‌ها}{1}{}%
 \contentsline {section}{\numberline {1-2}روش تحقیق}{3}{}%
-\contentsline {subsubsection}{ابزار متن باز}{4}{}%
+\contentsline {subsubsection}{ابزار متن‌باز}{4}{}%
 \contentsline {subsubsection}{طراحی معماری سیستم}{4}{}%
 \contentsline {subsubsection}{پیاده‌سازی فرآیندهای \lr {CI/CD}}{5}{}%
 \contentsline {section}{\numberline {1-3}ساختار پایان نامه}{5}{}%
