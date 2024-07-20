@@ -72,20 +72,21 @@
 \contentsline {subsection}{\numberline {4-3-5}استقرار مدل}{57}{subsection.4.3.5}%
 \contentsline {subsubsection}{الزامات و انتظارات از راه‌حل‌های استقرار مدل}{58}{section*.43}%
 \contentsline {subsection}{\numberline {4-3-6}جریان کاری یادگیری ماشین}{61}{subsection.4.3.6}%
-\contentsline {chapter}{\numberline {5}پیاده‌سازی و نتایج}{64}{chapter.5}%
-\contentsline {section}{\numberline {5-1}مقدمه}{64}{section.5.1}%
-\contentsline {section}{\numberline {5-2}پیاده سازی پلتفرم}{64}{section.5.2}%
-\contentsline {subsection}{\numberline {5-2-1}سیستم مدیریت}{64}{subsection.5.2.1}%
-\contentsline {subsection}{\numberline {5-2-2}خوشه کوبرنتیز}{67}{subsection.5.2.2}%
-\contentsline {subsubsection}{پیاده‌سازی خوشه کوبرنتیز}{67}{section*.44}%
-\contentsline {subsubsection}{پیاده‌سازی مؤلفه‌های پروژه}{68}{section*.45}%
-\contentsline {section}{\numberline {5-3}حل مسئله و نتایج}{70}{section.5.3}%
-\contentsline {subsection}{\numberline {5-3-1}مسئله تشخیص ارقام}{71}{subsection.5.3.1}%
-\contentsline {subsubsection}{چرخه‌کاری آموزش}{71}{section*.46}%
-\contentsline {subsubsection}{چرخه‌کاری استقرار}{72}{section*.47}%
-\contentsline {subsubsection}{نتایج}{72}{section*.48}%
-\contentsline {subsection}{\numberline {5-3-2}مسئله تحلیل احساسات در بازار سهام}{73}{subsection.5.3.2}%
-\contentsline {subsubsection}{خط لوله آموزش}{75}{section*.49}%
-\contentsline {subsubsection}{خط لوله استقرار}{77}{section*.50}%
-\contentsline {subsubsection}{نتایج}{77}{section*.51}%
-\contentsline {chapter}{\numberline {6}نتیجه‌گیری و پیشنهادات}{80}{chapter.6}%
+\contentsline {section}{\numberline {4-4}معماری پلتفرم}{64}{section.4.4}%
+\contentsline {chapter}{\numberline {5}پیاده‌سازی و نتایج}{65}{chapter.5}%
+\contentsline {section}{\numberline {5-1}مقدمه}{65}{section.5.1}%
+\contentsline {section}{\numberline {5-2}پیاده سازی پلتفرم}{65}{section.5.2}%
+\contentsline {subsection}{\numberline {5-2-1}سیستم مدیریت}{65}{subsection.5.2.1}%
+\contentsline {subsection}{\numberline {5-2-2}خوشه کوبرنتیز}{68}{subsection.5.2.2}%
+\contentsline {subsubsection}{پیاده‌سازی خوشه کوبرنتیز}{68}{section*.44}%
+\contentsline {subsubsection}{پیاده‌سازی مؤلفه‌های پروژه}{69}{section*.45}%
+\contentsline {section}{\numberline {5-3}حل مسئله و نتایج}{71}{section.5.3}%
+\contentsline {subsection}{\numberline {5-3-1}مسئله تشخیص ارقام}{72}{subsection.5.3.1}%
+\contentsline {subsubsection}{چرخه‌کاری آموزش}{72}{section*.46}%
+\contentsline {subsubsection}{چرخه‌کاری استقرار}{73}{section*.47}%
+\contentsline {subsubsection}{نتایج}{73}{section*.48}%
+\contentsline {subsection}{\numberline {5-3-2}مسئله تحلیل احساسات در بازار سهام}{74}{subsection.5.3.2}%
+\contentsline {subsubsection}{خط لوله آموزش}{76}{section*.49}%
+\contentsline {subsubsection}{خط لوله استقرار}{78}{section*.50}%
+\contentsline {subsubsection}{نتایج}{78}{section*.51}%
+\contentsline {chapter}{\numberline {6}نتیجه‌گیری و پیشنهادات}{81}{chapter.6}%
