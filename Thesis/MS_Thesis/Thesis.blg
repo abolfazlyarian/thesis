@@ -17,20 +17,50 @@ The style file: IEEEbib.bst
 A level-1 auxiliary file: EnglishAbstract.aux
 A level-1 auxiliary file: EnglishJeld.aux
 Database file #1: SepSrc.bib
-"{" immediately follows a field name---line 203 of file SepSrc.bib
+I was expecting a `,' or a `}'---line 33 of file SepSrc.bib
+ :  
+ :  note={doi: \href{http://dx.doi.org/10.1145/2962695.2962707}{10.1145/2962695.2962707}}
+(Error may have been on previous line)
+I'm skipping whatever remains of this entry
+"{" immediately follows a field name---line 205 of file SepSrc.bib
  :  booktitle
  :           {Iberoamerican Conference on Electronics Engineering and Computer Science},
 I'm skipping whatever remains of this entry
-I was expecting a `,' or a `}'---line 261 of file SepSrc.bib
+I was expecting a `,' or a `}'---line 267 of file SepSrc.bib
  :  
  :  month={June},
 (Error may have been on previous line)
 I'm skipping whatever remains of this entry
 Warning--entry type for "MLOpsPipeline1" isn't style-file defined
---line 269 of file SepSrc.bib
-I was expecting a `,' or a `}'---line 593 of file SepSrc.bib
+--line 275 of file SepSrc.bib
+I was expecting a `,' or a `}'---line 623 of file SepSrc.bib
  :  
  :  eprinttype    = {arXiv}
+(Error may have been on previous line)
+I'm skipping whatever remains of this entry
+I was expecting a `,' or a `}'---line 643 of file SepSrc.bib
+ :  
+ :  note={doi: \href{http://dx.doi.org/10.1109/CCWC54503.2022.9720765}{10.1109/CCWC54503.2022.9720765}}
+(Error may have been on previous line)
+I'm skipping whatever remains of this entry
+I was expecting a `,' or a `}'---line 685 of file SepSrc.bib
+ :  
+ :  note={doi: \href{http://dx.doi.org/10.1109/MIC.2019.2924637}{10.1109/MIC.2019.2924637}}
+(Error may have been on previous line)
+I'm skipping whatever remains of this entry
+I was expecting a `,' or a `}'---line 773 of file SepSrc.bib
+ :  
+ :  note={doi: \href{http://dx.doi.org/10.1109/SOSE.2019.00026}{10.1109/SOSE.2019.00026}}
+(Error may have been on previous line)
+I'm skipping whatever remains of this entry
+I was expecting a `,' or a `}'---line 809 of file SepSrc.bib
+ :  
+ :  note={doi: \href{http://dx.doi.org/10.1109/CSF.2017.20}{10.1109/CSF.2017.20}}
+(Error may have been on previous line)
+I'm skipping whatever remains of this entry
+I was expecting a `,' or a `}'---line 913 of file SepSrc.bib
+ :  
+ :  note={doi: \href{http://dx.doi.org/10.1109/ACCESS.2023.3262138}{10.1109/ACCESS.2023.3262138}}
 (Error may have been on previous line)
 I'm skipping whatever remains of this entry
 Too many commas in name 1 of "F Rodriguez-Haro, F Freitag, L Navarro, E Hernanchez-sanchez" for entry virtualization1
@@ -58,45 +88,45 @@ Warning--empty publisher in Devopsgitops
 Warning--empty journal in Devopsorg
 Name 1 in "Y. Zhou, Y. Yu, and B. Ding" has a comma at the end for entry MLOpsPipeline1
 while executing---line 1012 of file IEEEbib.bst
-You've used 56 entries,
+You've used 53 entries,
             1838 wiz_defined-function locations,
-            761 strings with 12331 characters,
-and the built_in function-call counts, 10898 in all, are:
-= -- 894
-> -- 441
-< -- 12
-+ -- 176
-- -- 120
-* -- 645
-:= -- 1501
-add.period$ -- 58
-call.type$ -- 56
-change.case$ -- 48
+            761 strings with 12810 characters,
+and the built_in function-call counts, 10613 in all, are:
+= -- 876
+> -- 467
+< -- 10
++ -- 183
+- -- 130
+* -- 631
+:= -- 1587
+add.period$ -- 54
+call.type$ -- 53
+change.case$ -- 45
 chr.to.int$ -- 0
-cite$ -- 61
-duplicate$ -- 532
-empty$ -- 1265
-format.name$ -- 120
-if$ -- 2605
+cite$ -- 58
+duplicate$ -- 484
+empty$ -- 1177
+format.name$ -- 130
+if$ -- 2474
 int.to.chr$ -- 0
-int.to.str$ -- 56
-missing$ -- 38
-newline$ -- 242
-num.names$ -- 41
-pop$ -- 372
+int.to.str$ -- 53
+missing$ -- 36
+newline$ -- 256
+num.names$ -- 55
+pop$ -- 324
 preamble$ -- 1
 purify$ -- 0
 quote$ -- 0
-skip$ -- 331
+skip$ -- 280
 stack$ -- 0
-substring$ -- 449
-swap$ -- 161
-text.length$ -- 12
+substring$ -- 407
+swap$ -- 139
+text.length$ -- 10
 text.prefix$ -- 0
 top$ -- 0
 type$ -- 0
 warning$ -- 5
-while$ -- 73
-width$ -- 58
-write$ -- 525
-(There were 13 error messages)
+while$ -- 84
+width$ -- 55
+write$ -- 549
+(There were 19 error messages)

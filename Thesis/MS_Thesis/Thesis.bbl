@@ -32,7 +32,9 @@ Manish Virmani,
 \newblock ``Understanding devops and bridging the gap from continuous
   integration to continuous delivery,''
 \newblock in {\em Fifth International Conference on the Innovative Computing
-  Technology (INTECH 2015)}, 2015, pp. 78--82.
+  Technology (INTECH 2015)}, 2015, pp. 78--82,
+\newblock doi:
+  \href{http://dx.doi.org/10.1109/INTECH.2015.7173368}{10.1109/INTECH.2015.7173368}.
 
 \bibitem{DevopsAgile}
 A.~Van Bennekum A. Cockburn-W. Cunningham M. Fowler J. Grenning J. Highsmith A.
@@ -61,7 +63,9 @@ Matej Artac, Tadej Borovssak, Elisabetta Di~Nitto, Michele Guerriero, and
   Damian~Andrew Tamburri,
 \newblock ``Devops: introducing infrastructure-as-code,''
 \newblock in {\em 2017 IEEE/ACM 39th International Conference on Software
-  Engineering Companion (ICSE-C)}, May 2017, pp. 497--498.
+  Engineering Companion (ICSE-C)}, May 2017, pp. 497--498,
+\newblock doi:
+  \href{http://dx.doi.org/10.1109/ICSE-C.2017.162}{10.1109/ICSE-C.2017.162}.
 
 \bibitem{DevopsMonitor}
 Nelly Delgado, Ann~Q Gates, and Steve Roach,
@@ -75,7 +79,9 @@ SAIBS Arachchi and Indika Perera,
 \newblock ``Continuous integration and continuous delivery pipeline automation
   for agile software project management,''
 \newblock in {\em Moratuwa Engineering Research Conference (MERCon)}, May 2018,
-  pp. 156--161.
+  pp. 156--161,
+\newblock doi:
+  \href{http://dx.doi.org/10.1109/MERCon.2018.8421965}{10.1109/MERCon.2018.8421965}.
 
 \bibitem{Devopsgitops}
 Anja~Kammer Florian~Beetz and Dr.~Simon Harrer,
@@ -86,10 +92,13 @@ Anja~Kammer Florian~Beetz and Dr.~Simon Harrer,
 N.~Forsgren and J.~Humble,
 \newblock ``The role of continuous delivery in it and organizational
   performance,''
-\newblock March 2016.
+\newblock March 2016,
+\newblock doi:
+  \href{http://dx.doi.org/10.2139/ssrn.2681909}{10.2139/ssrn.2681909}.
 
 \bibitem{virtualization2}
-``What is virtualization?,'' URL:
+Inc. Amazon Web~Services,
+\newblock ``What is virtualization?,'' URL:
   \url{https://aws.amazon.com/what-is/virtualization/} [Accessed: 2024-05-08].
 
 \bibitem{Dockervm}
@@ -98,8 +107,9 @@ Amit~M Potdar, DG~Narayan, Shivaraj Kengond, and Mohammed~Moin Mulla,
 \newblock {\em Procedia Computer Science}, vol. 171, pp. 1419--1428, 2020.
 
 \bibitem{Docker2}
-``Containerization,'' URL: \url{https://www.ibm.com/topics/containerization}
-  [Accessed: 2023-05-21].
+International Business Machines~(IBM) Inc.,
+\newblock ``Containerization,'' URL:
+  \url{https://www.ibm.com/topics/containerization} [Accessed: 2023-05-21].
 
 \bibitem{Docker1}
 Docker Inc.,
@@ -109,13 +119,17 @@ Docker Inc.,
 \bibitem{MLOpsPipeline1}
 Y.~Yu Y.~Zhou and B.~Ding,
 \newblock ``Towards mlops: A case study of ml pipeline platform,'' October
-  2020.
+  2020,
+\newblock doi:
+  \href{http://dx.doi.org/10.1109/ICAICE51518.2020.00102}{10.1109/ICAICE51518.2020.00102}.
 
 \bibitem{MLOpsWO1}
 Damian~A. Tamburri,
 \newblock ``Sustainable mlops: Trends and challenges,''
 \newblock in {\em 2020 22nd International Symposium on Symbolic and Numeric
-  Algorithms for Scientific Computing (SYNASC)}, 2020, pp. 17--23.
+  Algorithms for Scientific Computing (SYNASC)}, 2020, pp. 17--23,
+\newblock doi:
+  \href{http://dx.doi.org/10.1109/SYNASC51798.2020.00015}{10.1109/SYNASC51798.2020.00015}.
 
 \bibitem{MLOpsWO2}
 Lucy~Ellen Lwakatare, Ivica Crnkovic, Ellinor R{\aa}nge, and Jan Bosch,
@@ -129,7 +143,9 @@ Lucy~Ellen Lwakatare, Ivica Crnkovic, Ellinor R{\aa}nge, and Jan Bosch,
 Ioannis Karamitsos, Saeed Albarhami, and Charalampos Apostolopoulos,
 \newblock ``Applying devops practices of continuous automation for machine
   learning,''
-\newblock {\em Information}, vol. 11, no. 7, 2020.
+\newblock {\em Information}, vol. 11, no. 7, 2020,
+\newblock doi:
+  \href{http://dx.doi.org/10.3390/info11070363}{10.3390/info11070363}.
 
 \bibitem{MLOpsProd1}
 Lucas Cardoso~Silva, Fernando Rezende~Zagatti, Bruno Silva~Sette, Lucas
@@ -137,24 +153,33 @@ Lucas Cardoso~Silva, Fernando Rezende~Zagatti, Bruno Silva~Sette, Lucas
   de~Medeiros~Caseli,
 \newblock ``Benchmarking machine learning solutions in production,''
 \newblock in {\em 2020 19th IEEE International Conference on Machine Learning
-  and Applications (ICMLA)}, 2020, pp. 626--633.
+  and Applications (ICMLA)}, 2020, pp. 626--633,
+\newblock doi:
+  \href{http://dx.doi.org/10.1109/ICMLA51294.2020.00104}{10.1109/ICMLA51294.2020.00104}.
 
 \bibitem{MLOpsCT2}
 Behrouz Derakhshan, Alireza~Rezaei Mahdiraji, Tilmann Rabl, and Volker Markl,
 \newblock ``Continuous deployment of machine learning pipelines.,''
-\newblock in {\em EDBT}, March 2019, pp. 397--408.
+\newblock in {\em EDBT}, March 2019, pp. 397--408,
+\newblock doi:
+  \href{http://dx.doi.org/10.5441/002/edbt.2019.35}{10.5441/002/edbt.2019.35}.
 
 \bibitem{MLOpsProd2}
 Alexandra Posoldova,
 \newblock ``Machine learning pipelines: From research to production,''
-\newblock {\em IEEE Potentials}, vol. 39, no. 6, pp. 38--42, 2020.
+\newblock {\em IEEE Potentials}, vol. 39, no. 6, pp. 38--42, 2020,
+\newblock doi:
+  \href{http://dx.doi.org/10.1109/MPOT.2020.3016280}{10.1109/MPOT.2020.3016280}.
 
 \bibitem{Airflow}
-``Apache airflow,'' URL: \url{https://airflow.apache.org/} [Accessed:
+Airflow,
+\newblock ``Apache airflow,'' URL: \url{https://airflow.apache.org/} [Accessed:
   2023-11-02].
 
 \bibitem{Kubeflow}
-``Kubeflow,'' URL: \url{https://www.kubeflow.org/} [Accessed: 2023-11-02].
+Kubeflow,
+\newblock ``Kubeflow,'' URL: \url{https://www.kubeflow.org/} [Accessed:
+  2023-11-02].
 
 \bibitem{MLOpsWFCOMP1}
 M.~Schmitt,
@@ -163,7 +188,8 @@ M.~Schmitt,
   [Accessed: 2023-11-02].
 
 \bibitem{Feast}
-``Feast,'' URL: \url{https://feast.dev/} [Accessed: 2023-11-05].
+Feast,
+\newblock ``Feast,'' URL: \url{https://feast.dev/} [Accessed: 2023-11-05].
 
 \bibitem{MLOpsCloud1}
 Álvaro López~García, Jesús~Marco De~Lucas, Marica Antonacci, Wolfgang
@@ -175,20 +201,28 @@ M.~Schmitt,
   Pawel Wolniewicz,
 \newblock ``A cloud-based framework for machine learning workloads and
   applications,''
-\newblock {\em IEEE Access}, vol. 8, pp. 18681--18692, 2020.
+\newblock {\em IEEE Access}, vol. 8, pp. 18681--18692, 2020,
+\newblock doi:
+  \href{http://dx.doi.org/10.1109/ACCESS.2020.2964386}{10.1109/ACCESS.2020.2964386}.
 
 \bibitem{MLflow}
-``Mlflow,'' URL: \url{https://mlflow.org/} [Accessed: 2023-11-21].
+MLflow Pro,
+\newblock ``Mlflow,'' URL: \url{https://mlflow.org/} [Accessed: 2023-11-21].
 
 \bibitem{Spark}
-``Apache spark,'' URL: \url{https://spark.apache.org/} [Accessed: 2023-11-29].
+Apache Spark,
+\newblock ``Apache spark,'' URL: \url{https://spark.apache.org/} [Accessed:
+  2023-11-29].
 
 \bibitem{Hadoop}
-``Apache hadoop,'' URL: \url{https://hadoop.apache.org/} [Accessed:
+Apache Hadoop,
+\newblock ``Apache hadoop,'' URL: \url{https://hadoop.apache.org/} [Accessed:
   2023-11-29].
 
 \bibitem{Knative}
-``Knative,'' URL: \url{https://knative.dev/docs/} [Accessed: 2023-11-29].
+Knative,
+\newblock ``Knative,'' URL: \url{https://knative.dev/docs/} [Accessed:
+  2023-11-29].
 
 \bibitem{MLOpsData}
 C{\'{e}}dric Renggli, Luka Rimanic, Nezihe~Merve G{\"{u}}rel, Bojan Karlas,
@@ -198,34 +232,23 @@ C{\'{e}}dric Renggli, Luka Rimanic, Nezihe~Merve G{\"{u}}rel, Bojan Karlas,
 \newblock URL: \url{https://arxiv.org/abs/2102.07750} [Accessed: 2023-11-30].
 
 \bibitem{GitLab}
-``Gitlab,'' URL: \url{https://about.gitlab.com/} [Accessed: 2024-05-16].
-
-\bibitem{Gerrit}
-``Gerritcodereview,'' URL: \url{https://www.gerritcodereview.com/} [Accessed:
+GitLab Inc,
+\newblock ``Gitlab,'' URL: \url{https://about.gitlab.com/} [Accessed:
   2024-05-16].
 
+\bibitem{Gerrit}
+Gerrit,
+\newblock ``Gerritcodereview,'' URL: \url{https://www.gerritcodereview.com/}
+  [Accessed: 2024-05-16].
+
 \bibitem{Jenkins}
-``Jenkins,'' URL: \url{https://www.jenkins.io/} [Accessed: 2023-11-01].
-
-\bibitem{MLOpsArchfeature1}
-Armin Esmaeilzadeh, Maryam Heidari, Reyhaneh Abdolazimi, Parisa Hajibabaee, and
-  Masoud Malekzadeh,
-\newblock ``Efficient large scale nlp feature engineering with apache spark,''
-\newblock in {\em 2022 IEEE 12th Annual Computing and Communication Workshop
-  and Conference (CCWC)}, 2022, pp. 0274--0280.
-
-\bibitem{MLOpsArchfeature2}
-Jun Xu,
-\newblock ``Mlops in the financial industry: Philosophy, practices, and
-  tools,''
-\newblock in {\em Future and Fintech, the, Abcdi and Beyond}, p. 451. World
-  Scientific, 2022.
-
-\bibitem{Kafka}
-``Kafka,'' URL: \url{https://kafka.apache.org/} [Accessed: 2023-11-31].
+Jenkins,
+\newblock ``Jenkins,'' URL: \url{https://www.jenkins.io/} [Accessed:
+  2023-11-01].
 
 \bibitem{Jupyter}
-``Jupyter,'' URL: \url{https://jupyter.org/} [Accessed: 2023-11-31].
+Jupyter,
+\newblock ``Jupyter,'' URL: \url{https://jupyter.org/} [Accessed: 2023-11-31].
 
 \bibitem{MLOpsArch3}
 Tao Cui, Ye~Wang, and Bassel Namih,
@@ -233,10 +256,14 @@ Tao Cui, Ye~Wang, and Bassel Namih,
 \newblock {\em IEEE Internet Computing}, vol. 23, no. 4, pp. 53--60, 2019.
 
 \bibitem{Ansible}
-``Ansible,'' URL: \url{https://www.ansible.com/} [Accessed: 2023-12-01].
+Red~Hat Inc.,
+\newblock ``Ansible,'' URL: \url{https://www.ansible.com/} [Accessed:
+  2023-12-01].
 
 \bibitem{Terraform}
-``Terraform,'' URL: \url{https://www.terraform.io/} [Accessed: 2023-12-01].
+HashiCorp Inc.,
+\newblock ``Terraform,'' URL: \url{https://www.terraform.io/} [Accessed:
+  2023-12-01].
 
 \bibitem{Kubernetes1}
 M.~Luksa,
@@ -250,7 +277,8 @@ K.~Hightower, B.~Burns, and J.~Beda,
 \newblock O'Reilly Media, 2017.
 
 \bibitem{MinIO}
-``Minio,'' URL: \url{https://min.io/} [Accessed: 2023-12-05].
+MinIO Inc.,
+\newblock ``Minio,'' URL: \url{https://min.io/} [Accessed: 2023-12-05].
 
 \bibitem{Istio1}
 Wubin Li, Yves Lemieux, Jing Gao, Zhuofeng Zhao, and Yanbo Han,
