@@ -9,34 +9,34 @@
 \addvspace {10\p@ }
 \contentsline {figure}{\numberline {3-1}{\ignorespaces خط لوله در \lr {Apache Airlfow}}}{26}{}%
 \contentsline {figure}{\numberline {3-2}{\ignorespaces انباره ویژگی}}{27}{}%
-\contentsline {figure}{\numberline {3-3}{\ignorespaces نقش ها و اشتراکات آنها در پارادایم \lr {MLOps}}}{31}{}%
-\contentsline {figure}{\numberline {3-4}{\ignorespaces معماری جامع \lr {MLOps}}}{32}{}%
+\contentsline {figure}{\numberline {3-3}{\ignorespaces نقش‌ها و اشتراکات آن‌ها در پارادایم \lr {MLOps}}}{31}{}%
+\contentsline {figure}{\numberline {3-4}{\ignorespaces معماری جامع \lr {MLOps} \cite {basearticle}}}{32}{}%
 \addvspace {10\p@ }
-\contentsline {figure}{\numberline {4-1}{\ignorespaces معماری \lr {Ansible}}}{42}{}%
-\contentsline {figure}{\numberline {4-2}{\ignorespaces استقرار مبتنی بر \lr {Pull}}}{43}{}%
-\contentsline {figure}{\numberline {4-3}{\ignorespaces استقرار مبتنی بر \lr {Push}}}{44}{}%
-\contentsline {figure}{\numberline {4-4}{\ignorespaces نحوه کار \lr {PV} و \lr {PVC} در خوشه کوبرنتیز}}{48}{}%
-\contentsline {figure}{\numberline {4-5}{\ignorespaces معماری \lr {MinIO}}}{49}{}%
-\contentsline {figure}{\numberline {4-6}{\ignorespaces معماری \lr {Istio}}}{53}{}%
-\contentsline {figure}{\numberline {4-7}{\ignorespaces روند احراز هویت}}{55}{}%
-\contentsline {figure}{\numberline {4-8}{\ignorespaces معماری بخش نظارت}}{57}{}%
-\contentsline {figure}{\numberline {4-9}{\ignorespaces معماری سطح داده در \lr {KServe}}}{61}{}%
-\contentsline {figure}{\numberline {4-10}{\ignorespaces معماری \lr {Kubeflow Pipelines}}}{63}{}%
+\contentsline {figure}{\numberline {4-1}{\ignorespaces معماری \lr {Ansible}}}{41}{}%
+\contentsline {figure}{\numberline {4-2}{\ignorespaces استقرار مبتنی بر \lr {Pull}}}{42}{}%
+\contentsline {figure}{\numberline {4-3}{\ignorespaces استقرار مبتنی بر \lr {Push}}}{43}{}%
+\contentsline {figure}{\numberline {4-4}{\ignorespaces نحوه کار \lr {PV} و \lr {PVC} در خوشه کوبرنتیز}}{47}{}%
+\contentsline {figure}{\numberline {4-5}{\ignorespaces معماری \lr {MinIO}}}{48}{}%
+\contentsline {figure}{\numberline {4-6}{\ignorespaces معماری \lr {Istio}}}{52}{}%
+\contentsline {figure}{\numberline {4-7}{\ignorespaces روند احراز هویت}}{54}{}%
+\contentsline {figure}{\numberline {4-8}{\ignorespaces معماری بخش نظارت}}{56}{}%
+\contentsline {figure}{\numberline {4-9}{\ignorespaces معماری سطح داده در \lr {KServe}}}{60}{}%
+\contentsline {figure}{\numberline {4-10}{\ignorespaces معماری \lr {Kubeflow Pipelines}}}{62}{}%
 \addvspace {10\p@ }
-\contentsline {figure}{\numberline {5-1}{\ignorespaces مخازن مولفه در \lr {Nexus}}}{67}{}%
-\contentsline {figure}{\numberline {5-2}{\ignorespaces خط لوله ها \lr {CI/CD} در \lr {Jenkins}}}{67}{}%
-\contentsline {figure}{\numberline {5-3}{\ignorespaces مخازن کد در \lr {Gitlab}}}{68}{}%
-\contentsline {figure}{\numberline {5-4}{\ignorespaces وضعیت مولفه ها در خوشه کوبرنتیز}}{70}{}%
-\contentsline {figure}{\numberline {5-5}{\ignorespaces میزان مصرف منابع سخت افزاری پلتفرم بدون بار}}{71}{}%
-\contentsline {figure}{\numberline {5-6}{\ignorespaces داشبورد پلتفرم \lr {MLOps}}}{71}{}%
-\contentsline {figure}{\numberline {5-7}{\ignorespaces نمونه داده مجموعه دادگان \lr {MNIST}}}{72}{}%
-\contentsline {figure}{\numberline {5-8}{\ignorespaces گراف استنتاج مدل در مسئله تشخیص ارقام (داشبورد \lr {Grafana})}}{74}{}%
-\contentsline {figure}{\numberline {5-9}{\ignorespaces زمان استنتاج مدل در مسئله تشخیص ارقام}}{75}{}%
-\contentsline {figure}{\numberline {5-10}{\ignorespaces گراف نظارت بر پردازنده گرافیکی در مسئله تشخیص ارقام (داشبورد \lr {Grafana})}}{75}{}%
-\contentsline {figure}{\numberline {5-11}{\ignorespaces مجموعه داده احساسات در بازار سهام}}{76}{}%
-\contentsline {figure}{\numberline {5-12}{\ignorespaces خط لوله آموزش مسئله تحلیل احساسات در بازار سهام}}{77}{}%
-\contentsline {figure}{\numberline {5-13}{\ignorespaces چرخه کاری آموزش مسئله تحلیل احساسات در بازار سهام}}{78}{}%
-\contentsline {figure}{\numberline {5-14}{\ignorespaces خط لوله استقرار مسئله تحلیل احساسات در بازار سهام}}{78}{}%
-\contentsline {figure}{\numberline {5-15}{\ignorespaces گراف استنتاج مدل در مسئله تحلیل احساسات دربازار سهام (داشبورد \lr {Grafana})}}{79}{}%
-\contentsline {figure}{\numberline {5-16}{\ignorespaces زمان استنتاج مدل در مسئله تحلیل احساسات دربازار سهام}}{80}{}%
+\contentsline {figure}{\numberline {5-1}{\ignorespaces مخازن مولفه در \lr {Nexus}}}{66}{}%
+\contentsline {figure}{\numberline {5-2}{\ignorespaces خط لوله ها \lr {CI/CD} در \lr {Jenkins}}}{66}{}%
+\contentsline {figure}{\numberline {5-3}{\ignorespaces مخازن کد در \lr {Gitlab}}}{67}{}%
+\contentsline {figure}{\numberline {5-4}{\ignorespaces وضعیت مولفه ها در خوشه کوبرنتیز}}{69}{}%
+\contentsline {figure}{\numberline {5-5}{\ignorespaces میزان مصرف منابع سخت افزاری پلتفرم بدون بار}}{70}{}%
+\contentsline {figure}{\numberline {5-6}{\ignorespaces داشبورد پلتفرم \lr {MLOps}}}{70}{}%
+\contentsline {figure}{\numberline {5-7}{\ignorespaces نمونه داده مجموعه دادگان \lr {MNIST}}}{71}{}%
+\contentsline {figure}{\numberline {5-8}{\ignorespaces گراف استنتاج مدل در مسئله تشخیص ارقام (داشبورد \lr {Grafana})}}{73}{}%
+\contentsline {figure}{\numberline {5-9}{\ignorespaces زمان استنتاج مدل در مسئله تشخیص ارقام}}{74}{}%
+\contentsline {figure}{\numberline {5-10}{\ignorespaces گراف نظارت بر پردازنده گرافیکی در مسئله تشخیص ارقام (داشبورد \lr {Grafana})}}{74}{}%
+\contentsline {figure}{\numberline {5-11}{\ignorespaces مجموعه داده احساسات در بازار سهام}}{75}{}%
+\contentsline {figure}{\numberline {5-12}{\ignorespaces خط لوله آموزش مسئله تحلیل احساسات در بازار سهام}}{76}{}%
+\contentsline {figure}{\numberline {5-13}{\ignorespaces چرخه کاری آموزش مسئله تحلیل احساسات در بازار سهام}}{77}{}%
+\contentsline {figure}{\numberline {5-14}{\ignorespaces خط لوله استقرار مسئله تحلیل احساسات در بازار سهام}}{77}{}%
+\contentsline {figure}{\numberline {5-15}{\ignorespaces گراف استنتاج مدل در مسئله تحلیل احساسات دربازار سهام (داشبورد \lr {Grafana})}}{78}{}%
+\contentsline {figure}{\numberline {5-16}{\ignorespaces زمان استنتاج مدل در مسئله تحلیل احساسات دربازار سهام}}{79}{}%
 \addvspace {10\p@ }

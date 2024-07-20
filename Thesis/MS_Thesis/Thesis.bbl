@@ -5,6 +5,12 @@ L~Navarro E Hernanchez-sanchez F~Rodriguez-Haro, F~Freitag,
 \newblock ``A summary of virtualization techniques,''
 \newblock .
 
+\bibitem{basearticle}
+Dominik Kreuzberger, Niklas Kühl, and Sebastian Hirschl,
+\newblock ``Machine learning operations (mlops): Overview, definition, and
+  architecture,''
+\newblock {\em IEEE Access}, vol. 11, pp. 31866--31879, 2023.
+
 \bibitem{algorithmiaMLState}
 Algorithmia,
 \newblock ``2020 state of enterprise machine learning,'' 2020.
@@ -176,6 +182,10 @@ M.~Schmitt,
 
 \bibitem{Spark}
 ``Apache spark,'' URL: \url{https://spark.apache.org/} [Accessed: 2023-11-29].
+
+\bibitem{Hadoop}
+``Apache hadoop,'' URL: \url{https://hadoop.apache.org/} [Accessed:
+  2023-11-29].
 
 \bibitem{Knative}
 ``Knative,'' URL: \url{https://knative.dev/docs/} [Accessed: 2023-11-29].
