@@ -42,19 +42,19 @@
 \contentsline {chapter}{\numberline {4}طراحی پلتفرم \lr {MLOps}}{39}{}%
 \contentsline {section}{\numberline {4-1}مقدمه}{39}{}%
 \contentsline {section}{\numberline {4-2}سیستم مدیریت پلتفرم}{39}{}%
-\contentsline {subsection}{\numberline {4-2-1}مدیریت پیکربندی و فراهم سازی زیرساخت}{39}{}%
+\contentsline {subsection}{\numberline {4-2-1}مدیریت پیکربندی و فراهم‌سازی زیرساخت}{39}{}%
 \contentsline {subsubsection}{مدیریت پیکربندی}{40}{}%
-\contentsline {subsubsection}{فراهم سازی زیرساخت}{40}{}%
+\contentsline {subsubsection}{فراهم‌سازی زیرساخت}{40}{}%
 \contentsline {subsection}{\numberline {4-2-2}خط لوله \lr {CI/CD}}{42}{}%
 \contentsline {subsection}{\numberline {4-2-3}مخزن کد منبع}{43}{}%
-\contentsline {subsection}{\numberline {4-2-4}مخزن مؤلفه ها}{44}{}%
+\contentsline {subsection}{\numberline {4-2-4}مخزن مؤلفه‌ها}{44}{}%
 \contentsline {subsubsection}{مخازن \lr {APT}}{44}{}%
 \contentsline {subsubsection}{مخزن \lr {PyPI}}{45}{}%
 \contentsline {subsubsection}{مخزن \lr {Docker}}{45}{}%
 \contentsline {subsubsection}{مخزن \lr {raw}}{45}{}%
 \contentsline {section}{\numberline {4-3}معماری خوشه کوبرنتیز}{45}{}%
 \contentsline {subsection}{\numberline {4-3-1}مدیریت داده و مدل}{46}{}%
-\contentsline {subsubsection}{حجم پایدار و فراهم سازهای پویا}{46}{}%
+\contentsline {subsubsection}{حجم پایدار و فراهم‌سازهای پویا}{46}{}%
 \contentsline {subsubsection}{ذخیره سازی داده}{47}{}%
 \contentsline {subsubsection}{پایگاه داده}{48}{}%
 \contentsline {subsubsection}{بانک مدل و انبار فراداده}{49}{}%
@@ -72,15 +72,15 @@
 \contentsline {subsection}{\numberline {4-3-5}استقرار مدل}{57}{}%
 \contentsline {subsubsection}{الزامات و انتظارات از راه‌حل‌های استقرار مدل}{58}{}%
 \contentsline {subsection}{\numberline {4-3-6}جریان کاری یادگیری ماشین}{61}{}%
-\contentsline {chapter}{\numberline {5}پیاده سازی و نتایج}{64}{}%
+\contentsline {chapter}{\numberline {5}پیاده‌سازی و نتایج}{64}{}%
 \contentsline {section}{\numberline {5-1}مقدمه}{64}{}%
 \contentsline {section}{\numberline {5-2}پیاده سازی پلتفرم}{64}{}%
 \contentsline {subsection}{\numberline {5-2-1}سیستم مدیریت}{64}{}%
 \contentsline {subsection}{\numberline {5-2-2}خوشه کوبرنتیز}{67}{}%
-\contentsline {subsubsection}{پیاده سازی خوشه کوبرنتیز}{67}{}%
-\contentsline {subsubsection}{پیاده سازی مولفه های پروژه}{68}{}%
+\contentsline {subsubsection}{پیاده‌سازی خوشه کوبرنتیز}{67}{}%
+\contentsline {subsubsection}{پیاده‌سازی مؤلفه‌های پروژه}{68}{}%
 \contentsline {section}{\numberline {5-3}حل مسئله و نتایج}{70}{}%
-\contentsline {subsection}{\numberline {5-3-1}مسئله تشخیص ارقام}{70}{}%
+\contentsline {subsection}{\numberline {5-3-1}مسئله تشخیص ارقام}{71}{}%
 \contentsline {subsubsection}{چرخه‌کاری آموزش}{71}{}%
 \contentsline {subsubsection}{چرخه‌کاری استقرار}{72}{}%
 \contentsline {subsubsection}{نتایج}{72}{}%
